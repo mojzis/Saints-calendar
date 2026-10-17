@@ -1,0 +1,2176 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//mojzis//saints-calendar//CS
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Svatí (liturgický kalendář CZ)
+X-WR-TIMEZONE:Europe/Prague
+BEGIN:VEVENT
+UID:svati-0102-basil_gregory@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260102
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Basila Velikého a Řehoře Naziánského\, biskupů a učitel
+ ů církve
+DESCRIPTION:památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0103-name_jesus@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260103
+RRULE:FREQ=YEARLY
+SUMMARY:Nejsvětějšího Jména Ježíš
+DESCRIPTION:nezávazná památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0107-raymond@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260107
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Rajmunda z Peñafortu\, kněze
+DESCRIPTION:nezávazná památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0113-hilary@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260113
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Hilaria\, biskupa a učitele církve
+DESCRIPTION:nezávazná památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0117-anthony_of_egypt@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260117
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Antonína\, opata
+DESCRIPTION:památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0118-bvm_unity@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260118
+RRULE:FREQ=YEARLY
+SUMMARY:Panny Marie\, Matky jednoty křesťanů
+DESCRIPTION:památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0120-fabian@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260120
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Fabiána\, papeže a mučedníka
+DESCRIPTION:nezávazná památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0120-sebastian@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260120
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Šebestiána\, mučedníka
+DESCRIPTION:nezávazná památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0121-agnes@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260121
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Anežky Římské\, panny a mučednice
+DESCRIPTION:památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0122-vincent_deacon@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260122
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Vincence\, jáhna a mučedníka
+DESCRIPTION:nezávazná památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0124-francis_de_sales@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260124
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Františka Saleského\, biskupa a učitele církve
+DESCRIPTION:památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0125-paul_conversion@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260125
+RRULE:FREQ=YEARLY
+SUMMARY:Obrácení svatého Pavla\, apoštola
+DESCRIPTION:svátek (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0126-timothy_titus@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260126
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Timoteje a Tita\, biskupů
+DESCRIPTION:památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0127-merici@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260127
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Anděly Mericiové\, panny
+DESCRIPTION:nezávazná památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0128-aquinas@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260128
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Tomáše Akvinského\, kněze a učitele církve
+DESCRIPTION:památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0131-bosco@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260131
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Jana Boska\, kněze
+DESCRIPTION:památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0202-presentation_of_lord@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260202
+RRULE:FREQ=YEARLY
+SUMMARY:Uvedení Páně do chrámu
+DESCRIPTION:svátek (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0203-blase@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260203
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Blažeje\, biskupa a mučedníka
+DESCRIPTION:nezávazná památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0203-ansgar@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260203
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Ansgara\, biskupa
+DESCRIPTION:nezávazná památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0205-agatha@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260205
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Agáty\, panny a mučednice
+DESCRIPTION:památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0206-paul_miki@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260206
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Pavla Mikiho a druhů\, mučedníků
+DESCRIPTION:památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0208-jerome_emiliani@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260208
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Jeronýma Emilianiho
+DESCRIPTION:nezávazná památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0208-josephine_bakhita@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260208
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Josefiny Bakhity\, panny
+DESCRIPTION:nezávazná památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0210-scholastica@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260210
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Scholastiky\, panny
+DESCRIPTION:památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0211-bvm_lourdes@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260211
+RRULE:FREQ=YEARLY
+SUMMARY:Panny Marie Lurdské
+DESCRIPTION:nezávazná památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0217-servite_founders@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260217
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Alexia a druhů\, řeholníků
+DESCRIPTION:nezávazná památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0221-peter_damian@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260221
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Petra Damianiho\, biskupa a učitele církve
+DESCRIPTION:nezávazná památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0222-chair_of_peter@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260222
+RRULE:FREQ=YEARLY
+SUMMARY:Stolce svatého Petra\, apoštola
+DESCRIPTION:svátek (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0223-polycarp@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260223
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Polykarpa\, biskupa a mučedníka
+DESCRIPTION:památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0227-gregory_of_narek@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260227
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Řehoře z Nareku\, opata a učitele církve
+DESCRIPTION:nezávazná památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0304-casimir@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260304
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Kazimíra
+DESCRIPTION:nezávazná památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0307-perpetua_felicity@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260307
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Perpetuy a Felicity\, mučednic
+DESCRIPTION:památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0308-john_of_god@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260308
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Jana z Boha\, řeholníka
+DESCRIPTION:nezávazná památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0309-frances_of_rome@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260309
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Františky Římské\, řeholnice
+DESCRIPTION:nezávazná památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0310-ogilvie@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260310
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Jana Ogilvie\, kněze a mučedníka
+DESCRIPTION:nezávazná památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0317-patrick@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260317
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Patrika\, biskupa
+DESCRIPTION:nezávazná památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0318-cyril_of_jerusalem@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260318
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Cyrila Jeruzalémského\, biskupa a učitele církve
+DESCRIPTION:nezávazná památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0319-joseph@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260319
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Josefa\, Snoubence Panny Marie
+DESCRIPTION:slavnost (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0323-turibius@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260323
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Turibia z Mongroveja\, biskupa
+DESCRIPTION:nezávazná památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0325-annunciation@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260325
+RRULE:FREQ=YEARLY
+SUMMARY:Zvěstování Páně
+DESCRIPTION:slavnost (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0402-francis_of_paola@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260402
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Františka z Pauly\, poustevníka
+DESCRIPTION:nezávazná památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0404-isidore@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260404
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Izidora\, biskupa a učitele církve
+DESCRIPTION:nezávazná památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0405-vincent_ferrer@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260405
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Vincence Ferrerského\, kněze
+DESCRIPTION:nezávazná památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0407-de_la_salle@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260407
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Jana Křtitele de la Salle\, kněze
+DESCRIPTION:památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0411-stanislaus@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260411
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Stanislava\, biskupa a mučedníka
+DESCRIPTION:památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0413-martin_i@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260413
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Martina I.\, papeže a mučedníka
+DESCRIPTION:nezávazná památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0421-anselm@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260421
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Anselma\, biskupa a učitele církve
+DESCRIPTION:nezávazná památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0423-adalbert@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260423
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Vojtěcha\, biskupa a mučedníka\, hlavního patrona pražské
+  arcidiecéze
+DESCRIPTION:svátek (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0424-george@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260424
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Jiří\, mučedníka
+DESCRIPTION:nezávazná památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0424-fidelis@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260424
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Fidela ze Sigmaringy\, kněze a mučedníka
+DESCRIPTION:nezávazná památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0425-mark@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260425
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Marka\, evangelisty
+DESCRIPTION:svátek (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0428-peter_chanel@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260428
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Petra Chanela\, kněze a mučedníka
+DESCRIPTION:nezávazná památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0428-de_montfort@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260428
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Ludvíka Marie Grigniona z Montfortu\, kněze
+DESCRIPTION:nezávazná památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0429-catherine_of_siena@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260429
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Kateřiny Sienské\, panny a učitelky církve\, patronky Evrop
+ y
+DESCRIPTION:svátek (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0430-sigismund@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260430
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Zikmunda\, mučedníka
+DESCRIPTION:nezávazná památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0430-pius_v@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260430
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Pia V.\, papeže
+DESCRIPTION:nezávazná památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0501-joseph_worker@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260501
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Josefa\, dělníka
+DESCRIPTION:nezávazná památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0502-athanasius@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260502
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Atanáše\, biskupa a učitele církve
+DESCRIPTION:památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0503-philip_james@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260503
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Filipa a Jakuba\, apoštolů
+DESCRIPTION:svátek (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0506-sarkander@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260506
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Jana Sarkandra\, kněze a mučedníka
+DESCRIPTION:nezávazná památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0508-bvm_mediatrix@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260508
+RRULE:FREQ=YEARLY
+SUMMARY:Panny Marie\, Prostřednice všech milostí
+DESCRIPTION:nezávazná památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0510-john_de_avila@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260510
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Jana z Avily\, kněze a učitele církve
+DESCRIPTION:nezávazná památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0512-nereus_achilleus@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260512
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Nerea a Achillea\, mučedníků
+DESCRIPTION:nezávazná památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0512-pancras@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260512
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Pankráce\, mučedníka
+DESCRIPTION:nezávazná památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0513-bvm_fatima@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260513
+RRULE:FREQ=YEARLY
+SUMMARY:Panny Marie Fatimské
+DESCRIPTION:nezávazná památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0514-matthias@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260514
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Matěje\, apoštola
+DESCRIPTION:svátek (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0516-john_nepomuk@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260516
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Jana Nepomuckého\, kněze a mučedníka\, hlavního patrona Č
+ ech
+DESCRIPTION:svátek (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0518-john_i@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260518
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Jana I.\, papeže a mučedníka
+DESCRIPTION:nezávazná památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0520-hofbauer@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260520
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Klementa Marie Hofbauera\, kněze
+DESCRIPTION:nezávazná památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0520-bernardine@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260520
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Bernardina Sienského\, kněze
+DESCRIPTION:nezávazná památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0521-magallanes@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260521
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Kryštofa Magallanese\, kněze\, a druhů\, mučedníků
+DESCRIPTION:nezávazná památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0522-rita@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260522
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Rity z Cascie\, řeholnice
+DESCRIPTION:nezávazná památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0525-bede_venerable@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260525
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Bedy Ctihodného\, kněze a učitele církve
+DESCRIPTION:nezávazná památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0525-gregory_vii@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260525
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Řehoře VII.\, papeže
+DESCRIPTION:nezávazná památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0525-de_pazzi@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260525
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Marie Magdalény de' Pazzi\, panny
+DESCRIPTION:nezávazná památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0526-neri@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260526
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Filipa Neriho\, kněze
+DESCRIPTION:památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0527-augustine_of_canterbury@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260527
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Augustina z Canterbury\, biskupa
+DESCRIPTION:nezávazná památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0529-paul_vi@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260529
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Pavla VI.\, papeže
+DESCRIPTION:nezávazná památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0530-zdislava@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260530
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Zdislavy
+DESCRIPTION:nezávazná památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0531-visitation@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260531
+RRULE:FREQ=YEARLY
+SUMMARY:Navštívení Panny Marie
+DESCRIPTION:svátek (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0601-justin@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260601
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Justina\, mučedníka
+DESCRIPTION:památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0602-marcellinus_peter@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260602
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Marcelina a Petra\, mučedníků
+DESCRIPTION:nezávazná památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0603-ugandan_martyrs@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260603
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Karla Lwangy a druhů\, mučedníků
+DESCRIPTION:památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0605-boniface@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260605
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Bonifáce\, biskupa a mučedníka
+DESCRIPTION:památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0606-norbert@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260606
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Norberta\, biskupa
+DESCRIPTION:nezávazná památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0609-ephrem@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260609
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Efréma Syrského\, jáhna a učitele církve
+DESCRIPTION:nezávazná památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0611-barnabas@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260611
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Barnabáše\, apoštola
+DESCRIPTION:památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0613-anthony_of_padua@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260613
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Antonína z Padovy\, kněze a učitele církve
+DESCRIPTION:památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0615-vitus@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260615
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Víta\, mučedníka
+DESCRIPTION:nezávazná památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0619-neumann@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260619
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Jana Nepomuckého Neumanna\, biskupa
+DESCRIPTION:nezávazná památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0619-romuald@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260619
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Romualda\, opata
+DESCRIPTION:nezávazná památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0621-aloysius@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260621
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Aloise Gonzagy\, řeholníka
+DESCRIPTION:památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0622-paulinus@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260622
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Paulína Nolánského\, biskupa
+DESCRIPTION:nezávazná památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0622-fisher_more@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260622
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Jana Fishera\, biskupa a Tomáše Mora\, mučedníků
+DESCRIPTION:nezávazná památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0624-baptist_birth@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260624
+RRULE:FREQ=YEARLY
+SUMMARY:Narození svatého Jana Křtitele
+DESCRIPTION:slavnost (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0627-cyril_of_alexandria@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260627
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Cyrila Alexandrijského\, biskupa a učitele církve
+DESCRIPTION:nezávazná památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0628-irenaeus@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260628
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Ireneje\, biskupa a mučedníka
+DESCRIPTION:památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0629-peter_paul@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260629
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Petra a Pavla\, apoštolů\, hlavních patronů brněnské diec
+ éze
+DESCRIPTION:slavnost (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0630-first_martyrs_of_rome@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260630
+RRULE:FREQ=YEARLY
+SUMMARY:Svatých prvomučedníků římských
+DESCRIPTION:nezávazná památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0703-thomas_apostle@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260703
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Tomáše\, apoštola
+DESCRIPTION:svátek (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0704-procopius@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260704
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Prokopa\, opata
+DESCRIPTION:nezávazná památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0704-elizabeth_of_portugal@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260704
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Alžběty Portugalské
+DESCRIPTION:nezávazná památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0705-cyril_methodius@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260705
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Cyrila\, mnicha\, a Metoděje\, biskupa\, patronů Evropy\, hla
+ vních patronů Moravy
+DESCRIPTION:slavnost (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0706-goretti@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260706
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Marie Gorettiové\, panny a mučednice
+DESCRIPTION:nezávazná památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0709-chinese_martyrs@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260709
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Augustina Žao Ronga\, kněze\, a druhů\, mučedníků
+DESCRIPTION:nezávazná památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0711-benedict@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260711
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Benedikta\, opata\, patrona Evropy
+DESCRIPTION:svátek (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0713-henry@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260713
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Jindřicha
+DESCRIPTION:nezávazná památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0714-hroznata@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260714
+RRULE:FREQ=YEARLY
+SUMMARY:Bl. Hroznaty\, mučedníka
+DESCRIPTION:nezávazná památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0714-camillus_de_lellis@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260714
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Kamila de Lellis\, kněze
+DESCRIPTION:nezávazná památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0715-bonaventure@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260715
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Bonaventury\, biskupa a učitele církve
+DESCRIPTION:památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0716-bvm_mount_carmel@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260716
+RRULE:FREQ=YEARLY
+SUMMARY:Panny Marie Karmelské
+DESCRIPTION:nezávazná památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0717-ceslaus_hyacinth@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260717
+RRULE:FREQ=YEARLY
+SUMMARY:Bl. Česlava a sv. Hyacinta\, kněží
+DESCRIPTION:nezávazná památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0720-apollinaris@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260720
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Apolináře\, biskupa a mučedníka
+DESCRIPTION:nezávazná památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0721-lawrence_of_brindisi@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260721
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Vavřince z Brindisi\, kněze a učitele církve
+DESCRIPTION:nezávazná památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0722-mary_magdalene@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260722
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Marie Magdalény
+DESCRIPTION:svátek (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0723-birgitta@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260723
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Brigity\, řeholnice\, patronky Evropy
+DESCRIPTION:svátek (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0724-sharbel@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260724
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Šarbela Makhlufa\, kněze
+DESCRIPTION:nezávazná památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0725-james@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260725
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Jakuba\, apoštola
+DESCRIPTION:svátek (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0726-joachim_anne@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260726
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Jáchyma a Anny\, rodičů Panny Marie
+DESCRIPTION:památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0727-gorazd@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260727
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Gorazda a druhů
+DESCRIPTION:nezávazná památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0729-martha_mary_lazarus@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260729
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Marty\, Marie a Lazara
+DESCRIPTION:památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0730-peter_chrysologus@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260730
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Petra Chryzologa\, biskupa a učitele církve
+DESCRIPTION:nezávazná památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0731-ignatius_of_loyola@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260731
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Ignáce z Loyoly\, kněze
+DESCRIPTION:památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0801-alphonsus@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260801
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Alfonsa Marie z Liguori\, biskupa a učitele církve
+DESCRIPTION:památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0802-eusebius@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260802
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Eusebia z Vercelli\, biskupa
+DESCRIPTION:nezávazná památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0802-eymard@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260802
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Petra Juliána Eymarda\, kněze
+DESCRIPTION:nezávazná památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0804-vianney@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260804
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Jana Marie Vianneye\, kněze
+DESCRIPTION:památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0805-mary_major@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260805
+RRULE:FREQ=YEARLY
+SUMMARY:Posvěcení římské baziliky Panny Marie
+DESCRIPTION:nezávazná památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0806-transfiguration@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260806
+RRULE:FREQ=YEARLY
+SUMMARY:Proměnění Páně
+DESCRIPTION:svátek (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0807-sixtus_ii@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260807
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Sixta II.\, papeže\, a druhů\, mučedníků
+DESCRIPTION:nezávazná památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0807-cajetan@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260807
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Kajetána\, kněze
+DESCRIPTION:nezávazná památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0808-dominic@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260808
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Dominika\, kněze
+DESCRIPTION:památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0809-stein@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260809
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Terezie Benedikty od Kříže\, panny a mučednice\, patronky E
+ vropy
+DESCRIPTION:svátek (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0810-lawrence@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260810
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Vavřince\, mučedníka
+DESCRIPTION:svátek (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0811-clare@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260811
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Kláry\, panny
+DESCRIPTION:památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0812-de_chantal@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260812
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Jany Františky de Chantal\, řeholnice
+DESCRIPTION:nezávazná památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0813-pontian_hippolytus@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260813
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Ponciána\, papeže\, a Hippolyta\, kněze\, mučedníků
+DESCRIPTION:nezávazná památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0814-kolbe@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260814
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Maxmiliána Marie Kolbeho\, kněze a mučedníka
+DESCRIPTION:památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0815-assumption@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260815
+RRULE:FREQ=YEARLY
+SUMMARY:Nanebevzetí Panny Marie
+DESCRIPTION:slavnost (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0816-stephen_hungary@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260816
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Štěpána Uherského
+DESCRIPTION:nezávazná památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0819-eudes@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260819
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Jana Eudese\, kněze
+DESCRIPTION:nezávazná památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0820-bernard@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260820
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Bernarda\, opata a učitele církve
+DESCRIPTION:památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0821-pius_x@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260821
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Pia X.\, papeže
+DESCRIPTION:památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0822-bvm_queenship@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260822
+RRULE:FREQ=YEARLY
+SUMMARY:Panny Marie Královny
+DESCRIPTION:památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0823-rose_lima@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260823
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Růženy z Limy\, panny
+DESCRIPTION:nezávazná památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0824-bartholomew@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260824
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Bartoloměje\, apoštola
+DESCRIPTION:svátek (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0825-five_camaldolese@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260825
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Benedikta\, Jana\, Matouše\, Izáka a Kristina\, mučedníků
+DESCRIPTION:nezávazná památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0825-louis@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260825
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Ludvíka
+DESCRIPTION:nezávazná památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0825-joseph_calasanz@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260825
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Josefa Kalasanského\, kněze
+DESCRIPTION:nezávazná památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0827-monica@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260827
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Moniky
+DESCRIPTION:památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0828-augustine@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260828
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Augustina\, biskupa a učitele církve
+DESCRIPTION:památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0829-baptist_beheading@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260829
+RRULE:FREQ=YEARLY
+SUMMARY:Umučení sv. Jana Křtitele
+DESCRIPTION:památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0903-gregory_great@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260903
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Řehoře Velikého\, papeže a učitele církve
+DESCRIPTION:památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0905-teresa_calcutta@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260905
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Terezie z Kalkaty\, panny
+DESCRIPTION:nezávazná památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0907-grodecky@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260907
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Melichara Grodeckého\, kněze a mučedníka
+DESCRIPTION:nezávazná památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0908-bvm_birth@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260908
+RRULE:FREQ=YEARLY
+SUMMARY:Narození Panny Marie
+DESCRIPTION:svátek (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0909-claver@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260909
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Petra Klavera\, kněze
+DESCRIPTION:nezávazná památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0910-spinola@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260910
+RRULE:FREQ=YEARLY
+SUMMARY:Bl. Karla Spinoly\, kněze a mučedníka
+DESCRIPTION:nezávazná památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0912-bvm_name@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260912
+RRULE:FREQ=YEARLY
+SUMMARY:Jména Panny Marie
+DESCRIPTION:nezávazná památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0913-john_chrysostom@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260913
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Jana Zlatoústého\, biskupa a učitele církve
+DESCRIPTION:památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0914-cross@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260914
+RRULE:FREQ=YEARLY
+SUMMARY:Povýšení svatého kříže
+DESCRIPTION:svátek (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0915-bvm_sorrows@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260915
+RRULE:FREQ=YEARLY
+SUMMARY:Panny Marie Bolestné
+DESCRIPTION:památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0916-ludmila@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260916
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Ludmily\, mučednice
+DESCRIPTION:nezávazná památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0917-cornelius_cyprian@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260917
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Kornélia\, papeže\, a Cypriána\, biskupa\, mučedníků
+DESCRIPTION:nezávazná památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0917-bellarmine@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260917
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Roberta Bellarmina\, biskupa a učitele církve
+DESCRIPTION:nezávazná památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0917-hildegard@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260917
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Hildegardy z Bingen\, panny a učitelky církve
+DESCRIPTION:nezávazná památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0919-januarius@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260919
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Januária\, biskupa a mučedníka
+DESCRIPTION:nezávazná památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0920-korean_martyrs@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260920
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Ondřeje Kim Tae-gỏna\, kněze\, Pavla Chõng Ha-sanga a druh
+ ů\, mučedníků
+DESCRIPTION:památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0921-matthew@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260921
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Matouše\, apoštola a evangelisty
+DESCRIPTION:svátek (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0923-padre_pio@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260923
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Pia z Pietrelciny\, kněze
+DESCRIPTION:památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0926-cosmas_damian@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260926
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Kosmy a Damiána\, mučedníků
+DESCRIPTION:nezávazná památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0927-vincent_de_paul@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260927
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Vincence z Paula\, kněze
+DESCRIPTION:památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0928-wenceslaus@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260928
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Václava\, mučedníka\, hlavního patrona českého národa
+DESCRIPTION:slavnost (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0929-archangels@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260929
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Michaela\, Gabriela a Rafaela\, archandělů
+DESCRIPTION:svátek (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-0930-jerome@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260930
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Jeronýma\, kněze a učitele církve
+DESCRIPTION:památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-1001-therese_lisieux@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261001
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Terezie od Dítěte Ježíše\, panny a učitelky církve
+DESCRIPTION:památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-1002-guardian_angels@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261002
+RRULE:FREQ=YEARLY
+SUMMARY:Svatých andělů strážných
+DESCRIPTION:památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-1004-francis_assisi@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261004
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Františka z Assisi
+DESCRIPTION:památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-1005-faustina_kowalska@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261005
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Faustiny Kowalské\, panny
+DESCRIPTION:nezávazná památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-1006-bruno@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261006
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Bruna\, kněze
+DESCRIPTION:nezávazná památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-1007-bvm_rosary@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261007
+RRULE:FREQ=YEARLY
+SUMMARY:Panny Marie Růžencové
+DESCRIPTION:památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-1009-denis@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261009
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Dionýsia\, biskupa\, a druhů\, mučedníků
+DESCRIPTION:nezávazná památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-1009-leonardi@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261009
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Jana Leonardiho\, kněze
+DESCRIPTION:nezávazná památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-1009-newman@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261009
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Johna Henryho Newmana\, kněze a učitele církve
+DESCRIPTION:nezávazná památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-1011-john_xxiii@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261011
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Jana XXIII.\, papeže
+DESCRIPTION:nezávazná památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-1012-radim@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261012
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Radima\, biskupa
+DESCRIPTION:nezávazná památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-1014-callistus_i@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261014
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Kalista I.\, papeže a mučedníka
+DESCRIPTION:nezávazná památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-1015-teresa_avila@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261015
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Terezie od Ježíše\, panny a učitelky církve
+DESCRIPTION:památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-1016-hedwig@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261016
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Hedviky\, řeholnice
+DESCRIPTION:nezávazná památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-1016-alacoque@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261016
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Markéty Marie Alacoque\, panny
+DESCRIPTION:nezávazná památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-1017-ignatius_of_antioch@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261017
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Ignáce Antiochijského\, biskupa a mučedníka
+DESCRIPTION:památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-1018-luke@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261018
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Lukáše\, evangelisty
+DESCRIPTION:svátek (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-1019-brebeuf_jogues@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261019
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Jana de Brébeuf a Izáka Joguese\, kněží\, a druhů\, muče
+ dníků
+DESCRIPTION:nezávazná památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-1019-paul_of_cross@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261019
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Pavla od Kříže\, kněze
+DESCRIPTION:nezávazná památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-1021-karl_of_austria@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261021
+RRULE:FREQ=YEARLY
+SUMMARY:Bl. Karla Rakouského
+DESCRIPTION:nezávazná památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-1022-john_paul_ii@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261022
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Jana Pavla II.\, papeže
+DESCRIPTION:nezávazná památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-1023-john_capistrano@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261023
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Jana Kapistránského\, kněze
+DESCRIPTION:nezávazná památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-1024-claret@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261024
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Antonína Marie Klareta\, biskupa
+DESCRIPTION:nezávazná památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-1028-simon_jude@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261028
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Šimona a Judy\, apoštolů
+DESCRIPTION:svátek (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-1031-wolfgang@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261031
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Wolfganga\, biskupa
+DESCRIPTION:nezávazná památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-1101-all_saints@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261101
+RRULE:FREQ=YEARLY
+SUMMARY:Všech svatých
+DESCRIPTION:slavnost (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-1102-all_souls@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261102
+RRULE:FREQ=YEARLY
+SUMMARY:Vzpomínka na všechny věrné zemřelé
+DESCRIPTION:slavnost (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-1103-de_porres@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261103
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Martina de Porres\, řeholníka
+DESCRIPTION:nezávazná památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-1104-borromeo@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261104
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Karla Boromejského\, biskupa
+DESCRIPTION:památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-1109-lateran_basilica@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261109
+RRULE:FREQ=YEARLY
+SUMMARY:Posvěcení lateránské baziliky
+DESCRIPTION:svátek (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-1110-leo_great@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261110
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Lva Velikého\, papeže a učitele církve
+DESCRIPTION:památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-1111-martin@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261111
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Martina\, biskupa
+DESCRIPTION:památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-1112-josaphat@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261112
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Josafata\, biskupa a mučedníka
+DESCRIPTION:památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-1113-agnes_of_bohemia@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261113
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Anežky České\, panny
+DESCRIPTION:památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-1115-albert@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261115
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Alberta Velikého\, biskupa a učitele církve
+DESCRIPTION:nezávazná památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-1116-margaret_of_scotland@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261116
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Markéty Skotské
+DESCRIPTION:nezávazná památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-1116-gertrude@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261116
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Gertrudy\, panny
+DESCRIPTION:nezávazná památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-1117-elizabeth_of_hungary@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261117
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Alžběty Uherské\, řeholnice
+DESCRIPTION:památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-1118-peter_paul_basilicas@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261118
+RRULE:FREQ=YEARLY
+SUMMARY:Posvěcení římských bazilik svatých apoštolů Petra a Pavla
+DESCRIPTION:nezávazná památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-1121-bvm_presentation@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261121
+RRULE:FREQ=YEARLY
+SUMMARY:Zasvěcení Panny Marie v Jeruzalémě
+DESCRIPTION:památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-1122-cecilia@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261122
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Cecílie\, panny a mučednice
+DESCRIPTION:památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-1123-clement_i@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261123
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Klementa I.\, papeže a mučedníka
+DESCRIPTION:nezávazná památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-1123-columban@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261123
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Kolumbána\, opata
+DESCRIPTION:nezávazná památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-1124-vietnamese_martyrs@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261124
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Ondřeje Dũng Lạca\, kněze\, a druhů\, mučedníků
+DESCRIPTION:památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-1125-catherine_of_alexandria@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261125
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Kateřiny Alexandrijské\, panny a mučednice
+DESCRIPTION:nezávazná památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-1130-andrew@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261130
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Ondřeje\, apoštola
+DESCRIPTION:svátek (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-1201-campion@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261201
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Edmunda Kampiána\, kněze a mučedníka
+DESCRIPTION:nezávazná památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-1203-francis_xavier@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261203
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Františka Xaverského\, kněze
+DESCRIPTION:památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-1204-john_damascene@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261204
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Jana Damašského\, kněze a učitele církve
+DESCRIPTION:nezávazná památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-1206-nicholas@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261206
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Mikuláše\, biskupa
+DESCRIPTION:nezávazná památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-1207-ambrose@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261207
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Ambrože\, biskupa a učitele církve
+DESCRIPTION:památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-1208-bvm_immaculate@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261208
+RRULE:FREQ=YEARLY
+SUMMARY:Panny Marie\, počaté bez poskvrny prvotního hříchu
+DESCRIPTION:slavnost (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-1209-juan_diego@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261209
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Jana Didaka Cuauhtlatoatzina
+DESCRIPTION:nezávazná památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-1210-bvm_loreto@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261210
+RRULE:FREQ=YEARLY
+SUMMARY:Panny Marie Loretánské
+DESCRIPTION:nezávazná památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-1211-damasus_i@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261211
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Damasa I. papeže
+DESCRIPTION:nezávazná památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-1212-bvm_guadalupe@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261212
+RRULE:FREQ=YEARLY
+SUMMARY:Panny Marie Guadalupské
+DESCRIPTION:nezávazná památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-1213-lucy@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261213
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Lucie\, panny a mučednice
+DESCRIPTION:památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-1214-john_of_cross@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261214
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Jana od Kříže\, kněze a učitele církve
+DESCRIPTION:památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-1221-canisius@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261221
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Petra Kanisia\, kněze a učitele církve
+DESCRIPTION:nezávazná památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-1223-john_of_kanty@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261223
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Jana Kentského\, kněze
+DESCRIPTION:nezávazná památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-1226-stephen@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261226
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Štěpána\, prvomučedníka
+DESCRIPTION:svátek (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-1227-john_evangelist@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261227
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Jana\, apoštola a evangelisty
+DESCRIPTION:svátek (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-1228-innocents@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261228
+RRULE:FREQ=YEARLY
+SUMMARY:Svatých Mláďátek\, mučedníků
+DESCRIPTION:svátek (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-1229-becket@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261229
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Tomáše Becketa\, biskupa a mučedníka
+DESCRIPTION:nezávazná památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:svati-1231-sylvester_i@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261231
+RRULE:FREQ=YEARLY
+SUMMARY:Sv. Silvestra I. papeže
+DESCRIPTION:nezávazná památka (Český národní liturgický kalendář)
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
