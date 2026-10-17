@@ -1,4 +1,4 @@
-from saints_calendar.build import calendar, event, fold, namedays, saints, site_days
+from saints_calendar.build import calendar, event, fold, saints, site_days
 
 SAMPLE = """---
 title: test
@@ -26,14 +26,6 @@ def test_saints_parses_rank_and_escapes_commas():
     assert "DESCRIPTION:památka" in second
 
 
-def test_namedays_cover_holidays_and_lists():
-    events = namedays({"10-17": "Hedvika", "01-06": ["Kašpar", "Melichar"]})
-    text = "\n".join(line for ev in events for line in ev)
-    assert "SUMMARY:Svátek: Hedvika" in text
-    assert "SUMMARY:Svátek: Kašpar\\, Melichar" in text
-    assert "SUMMARY:Svátek práce" in text
-
-
 def test_leap_day_repeats_only_on_leap_years():
     lines = event("x", 2, 29, "Horymír", "d")
     assert "DTSTART;VALUE=DATE:20280229" in lines
@@ -47,7 +39,7 @@ def test_calendar_wraps_events():
 
 
 def test_site_days_attaches_images_by_saint_id():
-    days = site_days(SAMPLE, {"10-17": "Hedvika"}, {"hedwig.jpg"})
+    days = site_days(SAMPLE, {"hedwig.jpg"})
     assert days["10-16"]["saints"] == [
         {
             "id": "hedwig",
@@ -59,7 +51,6 @@ def test_site_days_attaches_images_by_saint_id():
     assert "image" not in days["10-17"]["saints"][0]
 
 
-def test_site_days_adds_names_and_holidays():
-    days = site_days(SAMPLE, {"10-17": "Hedvika"}, set())
-    assert days["10-17"]["names"] == ["Hedvika"]
+def test_site_days_adds_holidays():
+    days = site_days(SAMPLE, set())
     assert days["05-01"]["holiday"] == "Svátek práce"

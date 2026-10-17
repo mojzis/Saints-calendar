@@ -15,8 +15,7 @@ START_YEAR = 2026
 LEAP_START = "20280229"
 RANKS = {"s": "slavnost", "f": "svátek", "m": "památka"}
 
-# State holidays have no name day in the civil calendar; show them so every day
-# has an entry.
+# State holidays, shown on the website next to the saints.
 HOLIDAYS = {
     "01-01": "Nový rok, Den obnovy samostatného českého státu",
     "05-01": "Svátek práce",
@@ -117,19 +116,13 @@ def saints(text: str) -> list[Event]:
     return events
 
 
-def site_days(
-    saint_text: str, names: dict[str, str | list[str]], images: set[str]
-) -> dict[str, dict]:
+def site_days(saint_text: str, images: set[str]) -> dict[str, dict]:
     """Per-day data for the website, keyed "MM-DD".
 
     `images` holds file names found in site/img/; a saint gets an "image"
     when a file named after its id is there (e.g. site/img/aquinas.jpg).
     """
     days: dict[str, dict] = {}
-    for key, listed in names.items():
-        days.setdefault(key, {})["names"] = (
-            [listed] if isinstance(listed, str) else listed
-        )
     for key, title in HOLIDAYS.items():
         days.setdefault(key, {})["holiday"] = title
     for r in parse_saints(saint_text):
@@ -144,37 +137,15 @@ def site_days(
     return dict(sorted(days.items()))
 
 
-def namedays(data: dict[str, str | list[str]]) -> list[Event]:
-    """Events from a {"MM-DD": name or [names]} mapping, plus state holidays."""
-    events = []
-    entries: list[tuple[str, str, str]] = [
-        (key, title, "Státní svátek") for key, title in HOLIDAYS.items()
-    ]
-    for key, names in data.items():
-        listed = [names] if isinstance(names, str) else names
-        entries.append((key, "Svátek: " + ", ".join(listed), "Český občanský kalendář"))
-    for key, title, desc in sorted(entries):
-        month, day = map(int, key.split("-"))
-        events.append(
-            event(
-                f"jmeniny-{month:02d}{day:02d}@saints-calendar", month, day, title, desc
-            )
-        )
-    return events
-
-
 def main() -> None:
     """Write calendars/*.ics and site/days.json."""
     OUT.mkdir(exist_ok=True)
     saint_text = (DATA / "czech-cs.txt").read_text(encoding="utf-8")
-    names = json.loads((DATA / "jmeniny-cs.json").read_text(encoding="utf-8"))
     with (OUT / "svati-cz.ics").open("w", encoding="utf-8", newline="") as f:
         f.write(calendar("Svatí (liturgický kalendář CZ)", saints(saint_text)))
-    with (OUT / "jmeniny-cz.ics").open("w", encoding="utf-8", newline="") as f:
-        f.write(calendar("Jmeniny CZ", namedays(names)))
     img_dir = SITE / "img"
     images = {p.name for p in img_dir.iterdir()} if img_dir.is_dir() else set()
-    days = site_days(saint_text, names, images)
+    days = site_days(saint_text, images)
     (SITE / "days.json").write_text(
         json.dumps(days, ensure_ascii=False, indent=1) + "\n", encoding="utf-8"
     )

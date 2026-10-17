@@ -3,9 +3,6 @@
   "holiday": "Nový rok, Den obnovy samostatného českého státu"
  },
  "01-02": {
-  "names": [
-   "Karina"
-  ],
   "saints": [
    {
     "id": "basil_gregory",
@@ -15,10 +12,6 @@
   ]
  },
  "01-03": {
-  "names": [
-   "Radmila",
-   "Radomil"
-  ],
   "saints": [
    {
     "id": "name_jesus",
@@ -27,27 +20,7 @@
    }
   ]
  },
- "01-04": {
-  "names": [
-   "Diana"
-  ]
- },
- "01-05": {
-  "names": [
-   "Dalimil"
-  ]
- },
- "01-06": {
-  "names": [
-   "Kašpar",
-   "Melichar",
-   "Baltazar"
-  ]
- },
  "01-07": {
-  "names": [
-   "Vilma"
-  ],
   "saints": [
    {
     "id": "raymond",
@@ -56,36 +29,7 @@
    }
   ]
  },
- "01-08": {
-  "names": [
-   "Čestmír"
-  ]
- },
- "01-09": {
-  "names": [
-   "Vladan",
-   "Valtr"
-  ]
- },
- "01-10": {
-  "names": [
-   "Břetislav"
-  ]
- },
- "01-11": {
-  "names": [
-   "Bohdana"
-  ]
- },
- "01-12": {
-  "names": [
-   "Pravoslav"
-  ]
- },
  "01-13": {
-  "names": [
-   "Edita"
-  ],
   "saints": [
    {
     "id": "hilary",
@@ -94,25 +38,7 @@
    }
   ]
  },
- "01-14": {
-  "names": [
-   "Radovan"
-  ]
- },
- "01-15": {
-  "names": [
-   "Alice"
-  ]
- },
- "01-16": {
-  "names": [
-   "Ctirad"
-  ]
- },
  "01-17": {
-  "names": [
-   "Drahoslav"
-  ],
   "saints": [
    {
     "id": "anthony_of_egypt",
@@ -122,10 +48,6 @@
   ]
  },
  "01-18": {
-  "names": [
-   "Vladislav",
-   "Vladislava"
-  ],
   "saints": [
    {
     "id": "bvm_unity",
@@ -134,16 +56,7 @@
    }
   ]
  },
- "01-19": {
-  "names": [
-   "Doubravka"
-  ]
- },
  "01-20": {
-  "names": [
-   "Ilona",
-   "Sebastián"
-  ],
   "saints": [
    {
     "id": "fabian",
@@ -158,9 +71,6 @@
   ]
  },
  "01-21": {
-  "names": [
-   "Běla"
-  ],
   "saints": [
    {
     "id": "agnes",
@@ -170,10 +80,6 @@
   ]
  },
  "01-22": {
-  "names": [
-   "Slavomír",
-   "Slavomíra"
-  ],
   "saints": [
    {
     "id": "vincent_deacon",
@@ -182,15 +88,7 @@
    }
   ]
  },
- "01-23": {
-  "names": [
-   "Zdeněk"
-  ]
- },
  "01-24": {
-  "names": [
-   "Milena"
-  ],
   "saints": [
    {
     "id": "francis_de_sales",
@@ -200,9 +98,6 @@
   ]
  },
  "01-25": {
-  "names": [
-   "Miloš"
-  ],
   "saints": [
    {
     "id": "paul_conversion",
@@ -212,9 +107,6 @@
   ]
  },
  "01-26": {
-  "names": [
-   "Zora"
-  ],
   "saints": [
    {
     "id": "timothy_titus",
@@ -224,9 +116,6 @@
   ]
  },
  "01-27": {
-  "names": [
-   "Ingrid"
-  ],
   "saints": [
    {
     "id": "merici",
@@ -236,9 +125,6 @@
   ]
  },
  "01-28": {
-  "names": [
-   "Otýlie"
-  ],
   "saints": [
    {
     "id": "aquinas",
@@ -247,22 +133,7 @@
    }
   ]
  },
- "01-29": {
-  "names": [
-   "Zdislava"
-  ]
- },
- "01-30": {
-  "names": [
-   "Robin",
-   "Erna"
-  ]
- },
  "01-31": {
-  "names": [
-   "Marika",
-   "Spytihněv"
-  ],
   "saints": [
    {
     "id": "bosco",
@@ -271,16 +142,7 @@
    }
   ]
  },
- "02-01": {
-  "names": [
-   "Hynek"
-  ]
- },
  "02-02": {
-  "names": [
-   "Nela",
-   "Hromnice"
-  ],
   "saints": [
    {
     "id": "presentation_of_lord",
@@ -290,9 +152,6 @@
   ]
  },
  "02-03": {
-  "names": [
-   "Blažej"
-  ],
   "saints": [
    {
     "id": "blase",
@@ -306,15 +165,7 @@
    }
   ]
  },
- "02-04": {
-  "names": [
-   "Jarmila"
-  ]
- },
  "02-05": {
-  "names": [
-   "Dobromila"
-  ],
   "saints": [
    {
     "id": "agatha",
@@ -324,9 +175,6 @@
   ]
  },
  "02-06": {
-  "names": [
-   "Vanda"
-  ],
   "saints": [
    {
     "id": "paul_miki",
@@ -335,15 +183,7 @@
    }
   ]
  },
- "02-07": {
-  "names": [
-   "Veronika"
-  ]
- },
  "02-08": {
-  "names": [
-   "Milada"
-  ],
   "saints": [
    {
     "id": "jerome_emiliani",
@@ -357,15 +197,7 @@
    }
   ]
  },
- "02-09": {
-  "names": [
-   "Apolena"
-  ]
- },
  "02-10": {
-  "names": [
-   "Mojmír"
-  ],
   "saints": [
    {
     "id": "scholastica",
@@ -375,9 +207,6 @@
   ]
  },
  "02-11": {
-  "names": [
-   "Božena"
-  ],
   "saints": [
    {
     "id": "bvm_lourdes",
@@ -386,38 +215,7 @@
    }
   ]
  },
- "02-12": {
-  "names": [
-   "Slavěna",
-   "Slávka"
-  ]
- },
- "02-13": {
-  "names": [
-   "Věnceslav",
-   "Věnceslava"
-  ]
- },
- "02-14": {
-  "names": [
-   "Valentýn",
-   "Valentýna"
-  ]
- },
- "02-15": {
-  "names": [
-   "Jiřina"
-  ]
- },
- "02-16": {
-  "names": [
-   "Ljuba"
-  ]
- },
  "02-17": {
-  "names": [
-   "Miloslava"
-  ],
   "saints": [
    {
     "id": "servite_founders",
@@ -426,26 +224,7 @@
    }
   ]
  },
- "02-18": {
-  "names": [
-   "Gizela"
-  ]
- },
- "02-19": {
-  "names": [
-   "Patrik"
-  ]
- },
- "02-20": {
-  "names": [
-   "Oldřich"
-  ]
- },
  "02-21": {
-  "names": [
-   "Lenka",
-   "Eleonora"
-  ],
   "saints": [
    {
     "id": "peter_damian",
@@ -455,9 +234,6 @@
   ]
  },
  "02-22": {
-  "names": [
-   "Petr"
-  ],
   "saints": [
    {
     "id": "chair_of_peter",
@@ -467,9 +243,6 @@
   ]
  },
  "02-23": {
-  "names": [
-   "Svatopluk"
-  ],
   "saints": [
    {
     "id": "polycarp",
@@ -478,26 +251,7 @@
    }
   ]
  },
- "02-24": {
-  "names": [
-   "Matěj",
-   "Matyáš"
-  ]
- },
- "02-25": {
-  "names": [
-   "Liliana"
-  ]
- },
- "02-26": {
-  "names": [
-   "Dorota"
-  ]
- },
  "02-27": {
-  "names": [
-   "Alexandr"
-  ],
   "saints": [
    {
     "id": "gregory_of_narek",
@@ -506,37 +260,7 @@
    }
   ]
  },
- "02-28": {
-  "names": [
-   "Lumír"
-  ]
- },
- "02-29": {
-  "names": [
-   "Horymír"
-  ]
- },
- "03-01": {
-  "names": [
-   "Bedřich",
-   "Bedřiška"
-  ]
- },
- "03-02": {
-  "names": [
-   "Anežka"
-  ]
- },
- "03-03": {
-  "names": [
-   "Kamil",
-   "Kunhuta"
-  ]
- },
  "03-04": {
-  "names": [
-   "Stela"
-  ],
   "saints": [
    {
     "id": "casimir",
@@ -545,20 +269,7 @@
    }
   ]
  },
- "03-05": {
-  "names": [
-   "Kazimír"
-  ]
- },
- "03-06": {
-  "names": [
-   "Miroslav"
-  ]
- },
  "03-07": {
-  "names": [
-   "Tomáš"
-  ],
   "saints": [
    {
     "id": "perpetua_felicity",
@@ -568,10 +279,6 @@
   ]
  },
  "03-08": {
-  "names": [
-   "Gabriela",
-   "Zoltán"
-  ],
   "saints": [
    {
     "id": "john_of_god",
@@ -581,9 +288,6 @@
   ]
  },
  "03-09": {
-  "names": [
-   "Františka"
-  ],
   "saints": [
    {
     "id": "frances_of_rome",
@@ -593,9 +297,6 @@
   ]
  },
  "03-10": {
-  "names": [
-   "Viktorie"
-  ],
   "saints": [
    {
     "id": "ogilvie",
@@ -604,43 +305,7 @@
    }
   ]
  },
- "03-11": {
-  "names": [
-   "Anděla"
-  ]
- },
- "03-12": {
-  "names": [
-   "Řehoř"
-  ]
- },
- "03-13": {
-  "names": [
-   "Růžena"
-  ]
- },
- "03-14": {
-  "names": [
-   "Rút",
-   "Matylda"
-  ]
- },
- "03-15": {
-  "names": [
-   "Ida"
-  ]
- },
- "03-16": {
-  "names": [
-   "Elena",
-   "Herbert"
-  ]
- },
  "03-17": {
-  "names": [
-   "Vlastimil",
-   "Vlastimila"
-  ],
   "saints": [
    {
     "id": "patrick",
@@ -650,9 +315,6 @@
   ]
  },
  "03-18": {
-  "names": [
-   "Eduard"
-  ],
   "saints": [
    {
     "id": "cyril_of_jerusalem",
@@ -662,10 +324,6 @@
   ]
  },
  "03-19": {
-  "names": [
-   "Josef",
-   "Josefa"
-  ],
   "saints": [
    {
     "id": "joseph",
@@ -674,27 +332,7 @@
    }
   ]
  },
- "03-20": {
-  "names": [
-   "Světlana"
-  ]
- },
- "03-21": {
-  "names": [
-   "Radek"
-  ]
- },
- "03-22": {
-  "names": [
-   "Leona",
-   "Leontina",
-   "Lea"
-  ]
- },
  "03-23": {
-  "names": [
-   "Ivona"
-  ],
   "saints": [
    {
     "id": "turibius",
@@ -703,15 +341,7 @@
    }
   ]
  },
- "03-24": {
-  "names": [
-   "Gabriel"
-  ]
- },
  "03-25": {
-  "names": [
-   "Marián"
-  ],
   "saints": [
    {
     "id": "annunciation",
@@ -720,46 +350,7 @@
    }
   ]
  },
- "03-26": {
-  "names": [
-   "Emanuel"
-  ]
- },
- "03-27": {
-  "names": [
-   "Dita"
-  ]
- },
- "03-28": {
-  "names": [
-   "Soňa"
-  ]
- },
- "03-29": {
-  "names": [
-   "Taťána"
-  ]
- },
- "03-30": {
-  "names": [
-   "Arnošt",
-   "Ernest"
-  ]
- },
- "03-31": {
-  "names": [
-   "Kvido"
-  ]
- },
- "04-01": {
-  "names": [
-   "Hugo"
-  ]
- },
  "04-02": {
-  "names": [
-   "Erika"
-  ],
   "saints": [
    {
     "id": "francis_of_paola",
@@ -768,15 +359,7 @@
    }
   ]
  },
- "04-03": {
-  "names": [
-   "Richard"
-  ]
- },
  "04-04": {
-  "names": [
-   "Ivana"
-  ],
   "saints": [
    {
     "id": "isidore",
@@ -786,10 +369,6 @@
   ]
  },
  "04-05": {
-  "names": [
-   "Miroslava",
-   "Mirka"
-  ],
   "saints": [
    {
     "id": "vincent_ferrer",
@@ -798,17 +377,7 @@
    }
   ]
  },
- "04-06": {
-  "names": [
-   "Vendula",
-   "Venuše"
-  ]
- },
  "04-07": {
-  "names": [
-   "Heřman",
-   "Hermína"
-  ],
   "saints": [
    {
     "id": "de_la_salle",
@@ -817,25 +386,7 @@
    }
   ]
  },
- "04-08": {
-  "names": [
-   "Ema"
-  ]
- },
- "04-09": {
-  "names": [
-   "Dušan"
-  ]
- },
- "04-10": {
-  "names": [
-   "Darja"
-  ]
- },
  "04-11": {
-  "names": [
-   "Izabela"
-  ],
   "saints": [
    {
     "id": "stanislaus",
@@ -844,15 +395,7 @@
    }
   ]
  },
- "04-12": {
-  "names": [
-   "Julius"
-  ]
- },
  "04-13": {
-  "names": [
-   "Aleš"
-  ],
   "saints": [
    {
     "id": "martin_i",
@@ -861,46 +404,7 @@
    }
   ]
  },
- "04-14": {
-  "names": [
-   "Vincenc"
-  ]
- },
- "04-15": {
-  "names": [
-   "Anastázie"
-  ]
- },
- "04-16": {
-  "names": [
-   "Irena",
-   "Bernadeta"
-  ]
- },
- "04-17": {
-  "names": [
-   "Rudolf"
-  ]
- },
- "04-18": {
-  "names": [
-   "Valérie"
-  ]
- },
- "04-19": {
-  "names": [
-   "Rostislav"
-  ]
- },
- "04-20": {
-  "names": [
-   "Marcela"
-  ]
- },
  "04-21": {
-  "names": [
-   "Alexandra"
-  ],
   "saints": [
    {
     "id": "anselm",
@@ -909,15 +413,7 @@
    }
   ]
  },
- "04-22": {
-  "names": [
-   "Evženie"
-  ]
- },
  "04-23": {
-  "names": [
-   "Vojtěch"
-  ],
   "saints": [
    {
     "id": "adalbert",
@@ -927,9 +423,6 @@
   ]
  },
  "04-24": {
-  "names": [
-   "Jiří"
-  ],
   "saints": [
    {
     "id": "george",
@@ -944,9 +437,6 @@
   ]
  },
  "04-25": {
-  "names": [
-   "Marek"
-  ],
   "saints": [
    {
     "id": "mark",
@@ -955,20 +445,7 @@
    }
   ]
  },
- "04-26": {
-  "names": [
-   "Oto"
-  ]
- },
- "04-27": {
-  "names": [
-   "Jaroslav"
-  ]
- },
  "04-28": {
-  "names": [
-   "Vlastislav"
-  ],
   "saints": [
    {
     "id": "peter_chanel",
@@ -983,9 +460,6 @@
   ]
  },
  "04-29": {
-  "names": [
-   "Robert"
-  ],
   "saints": [
    {
     "id": "catherine_of_siena",
@@ -995,9 +469,6 @@
   ]
  },
  "04-30": {
-  "names": [
-   "Blahoslav"
-  ],
   "saints": [
    {
     "id": "sigismund",
@@ -1022,9 +493,6 @@
   ]
  },
  "05-02": {
-  "names": [
-   "Zikmund"
-  ],
   "saints": [
    {
     "id": "athanasius",
@@ -1034,10 +502,6 @@
   ]
  },
  "05-03": {
-  "names": [
-   "Alexej",
-   "Alex"
-  ],
   "saints": [
    {
     "id": "philip_james",
@@ -1046,31 +510,13 @@
    }
   ]
  },
- "05-04": {
-  "names": [
-   "Květoslav"
-  ]
- },
- "05-05": {
-  "names": [
-   "Klaudie"
-  ]
- },
  "05-06": {
-  "names": [
-   "Radoslav"
-  ],
   "saints": [
    {
     "id": "sarkander",
     "title": "Sv. Jana Sarkandra, kněze a mučedníka",
     "rank": "nezávazná památka"
    }
-  ]
- },
- "05-07": {
-  "names": [
-   "Stanislav"
   ]
  },
  "05-08": {
@@ -1083,15 +529,7 @@
    }
   ]
  },
- "05-09": {
-  "names": [
-   "Ctibor"
-  ]
- },
  "05-10": {
-  "names": [
-   "Blažena"
-  ],
   "saints": [
    {
     "id": "john_de_avila",
@@ -1100,15 +538,7 @@
    }
   ]
  },
- "05-11": {
-  "names": [
-   "Svatava"
-  ]
- },
  "05-12": {
-  "names": [
-   "Pankrác"
-  ],
   "saints": [
    {
     "id": "nereus_achilleus",
@@ -1123,9 +553,6 @@
   ]
  },
  "05-13": {
-  "names": [
-   "Servác"
-  ],
   "saints": [
    {
     "id": "bvm_fatima",
@@ -1135,9 +562,6 @@
   ]
  },
  "05-14": {
-  "names": [
-   "Bonifác"
-  ],
   "saints": [
    {
     "id": "matthias",
@@ -1146,16 +570,7 @@
    }
   ]
  },
- "05-15": {
-  "names": [
-   "Žofie",
-   "Sofie"
-  ]
- },
  "05-16": {
-  "names": [
-   "Přemysl"
-  ],
   "saints": [
    {
     "id": "john_nepomuk",
@@ -1164,15 +579,7 @@
    }
   ]
  },
- "05-17": {
-  "names": [
-   "Aneta"
-  ]
- },
  "05-18": {
-  "names": [
-   "Nataša"
-  ],
   "saints": [
    {
     "id": "john_i",
@@ -1181,15 +588,7 @@
    }
   ]
  },
- "05-19": {
-  "names": [
-   "Ivo"
-  ]
- },
  "05-20": {
-  "names": [
-   "Zbyšek"
-  ],
   "saints": [
    {
     "id": "hofbauer",
@@ -1204,9 +603,6 @@
   ]
  },
  "05-21": {
-  "names": [
-   "Monika"
-  ],
   "saints": [
    {
     "id": "magallanes",
@@ -1216,9 +612,6 @@
   ]
  },
  "05-22": {
-  "names": [
-   "Emil"
-  ],
   "saints": [
    {
     "id": "rita",
@@ -1227,22 +620,7 @@
    }
   ]
  },
- "05-23": {
-  "names": [
-   "Vladimír",
-   "Vladimíra"
-  ]
- },
- "05-24": {
-  "names": [
-   "Jana",
-   "Vanesa"
-  ]
- },
  "05-25": {
-  "names": [
-   "Viola"
-  ],
   "saints": [
    {
     "id": "bede_venerable",
@@ -1262,9 +640,6 @@
   ]
  },
  "05-26": {
-  "names": [
-   "Filip"
-  ],
   "saints": [
    {
     "id": "neri",
@@ -1274,9 +649,6 @@
   ]
  },
  "05-27": {
-  "names": [
-   "Valdemar"
-  ],
   "saints": [
    {
     "id": "augustine_of_canterbury",
@@ -1285,16 +657,7 @@
    }
   ]
  },
- "05-28": {
-  "names": [
-   "Vilém"
-  ]
- },
  "05-29": {
-  "names": [
-   "Maxmilián",
-   "Maxim"
-  ],
   "saints": [
    {
     "id": "paul_vi",
@@ -1304,9 +667,6 @@
   ]
  },
  "05-30": {
-  "names": [
-   "Ferdinand"
-  ],
   "saints": [
    {
     "id": "zdislava",
@@ -1316,9 +676,6 @@
   ]
  },
  "05-31": {
-  "names": [
-   "Kamila"
-  ],
   "saints": [
    {
     "id": "visitation",
@@ -1328,9 +685,6 @@
   ]
  },
  "06-01": {
-  "names": [
-   "Laura"
-  ],
   "saints": [
    {
     "id": "justin",
@@ -1340,9 +694,6 @@
   ]
  },
  "06-02": {
-  "names": [
-   "Jarmil"
-  ],
   "saints": [
    {
     "id": "marcellinus_peter",
@@ -1352,10 +703,6 @@
   ]
  },
  "06-03": {
-  "names": [
-   "Tamara",
-   "Kevin"
-  ],
   "saints": [
    {
     "id": "ugandan_martyrs",
@@ -1364,16 +711,7 @@
    }
   ]
  },
- "06-04": {
-  "names": [
-   "Dalibor"
-  ]
- },
  "06-05": {
-  "names": [
-   "Dobroslav",
-   "Dobroslava"
-  ],
   "saints": [
    {
     "id": "boniface",
@@ -1383,9 +721,6 @@
   ]
  },
  "06-06": {
-  "names": [
-   "Norbert"
-  ],
   "saints": [
    {
     "id": "norbert",
@@ -1394,21 +729,7 @@
    }
   ]
  },
- "06-07": {
-  "names": [
-   "Iveta",
-   "Slavoj"
-  ]
- },
- "06-08": {
-  "names": [
-   "Medard"
-  ]
- },
  "06-09": {
-  "names": [
-   "Stanislava"
-  ],
   "saints": [
    {
     "id": "ephrem",
@@ -1417,16 +738,7 @@
    }
   ]
  },
- "06-10": {
-  "names": [
-   "Gita",
-   "Margita"
-  ]
- },
  "06-11": {
-  "names": [
-   "Bruno"
-  ],
   "saints": [
    {
     "id": "barnabas",
@@ -1435,15 +747,7 @@
    }
   ]
  },
- "06-12": {
-  "names": [
-   "Antonie"
-  ]
- },
  "06-13": {
-  "names": [
-   "Antonín"
-  ],
   "saints": [
    {
     "id": "anthony_of_padua",
@@ -1452,16 +756,7 @@
    }
   ]
  },
- "06-14": {
-  "names": [
-   "Roland",
-   "Herta"
-  ]
- },
  "06-15": {
-  "names": [
-   "Vít"
-  ],
   "saints": [
    {
     "id": "vitus",
@@ -1470,27 +765,7 @@
    }
   ]
  },
- "06-16": {
-  "names": [
-   "Zbyněk"
-  ]
- },
- "06-17": {
-  "names": [
-   "Adolf"
-  ]
- },
- "06-18": {
-  "names": [
-   "Milan",
-   "Milana"
-  ]
- },
  "06-19": {
-  "names": [
-   "Leoš",
-   "Leo"
-  ],
   "saints": [
    {
     "id": "neumann",
@@ -1504,17 +779,7 @@
    }
   ]
  },
- "06-20": {
-  "names": [
-   "Květa",
-   "Květuše"
-  ]
- },
  "06-21": {
-  "names": [
-   "Alois",
-   "Aloisie"
-  ],
   "saints": [
    {
     "id": "aloysius",
@@ -1524,9 +789,6 @@
   ]
  },
  "06-22": {
-  "names": [
-   "Pavla"
-  ],
   "saints": [
    {
     "id": "paulinus",
@@ -1540,15 +802,7 @@
    }
   ]
  },
- "06-23": {
-  "names": [
-   "Zdeňka"
-  ]
- },
  "06-24": {
-  "names": [
-   "Jan"
-  ],
   "saints": [
    {
     "id": "baptist_birth",
@@ -1557,22 +811,7 @@
    }
   ]
  },
- "06-25": {
-  "names": [
-   "Ivan"
-  ]
- },
- "06-26": {
-  "names": [
-   "Adriana",
-   "Adrian"
-  ]
- },
  "06-27": {
-  "names": [
-   "Ladislav",
-   "Ladislava"
-  ],
   "saints": [
    {
     "id": "cyril_of_alexandria",
@@ -1582,9 +821,6 @@
   ]
  },
  "06-28": {
-  "names": [
-   "Lubomír"
-  ],
   "saints": [
    {
     "id": "irenaeus",
@@ -1594,10 +830,6 @@
   ]
  },
  "06-29": {
-  "names": [
-   "Petr",
-   "Pavel"
-  ],
   "saints": [
    {
     "id": "peter_paul",
@@ -1607,9 +839,6 @@
   ]
  },
  "06-30": {
-  "names": [
-   "Šárka"
-  ],
   "saints": [
    {
     "id": "first_martyrs_of_rome",
@@ -1618,21 +847,7 @@
    }
   ]
  },
- "07-01": {
-  "names": [
-   "Jaroslava"
-  ]
- },
- "07-02": {
-  "names": [
-   "Patricie"
-  ]
- },
  "07-03": {
-  "names": [
-   "Radomír",
-   "Radomíra"
-  ],
   "saints": [
    {
     "id": "thomas_apostle",
@@ -1642,9 +857,6 @@
   ]
  },
  "07-04": {
-  "names": [
-   "Prokop"
-  ],
   "saints": [
    {
     "id": "procopius",
@@ -1659,10 +871,6 @@
   ]
  },
  "07-05": {
-  "names": [
-   "Cyril",
-   "Metoděj"
-  ],
   "saints": [
    {
     "id": "cyril_methodius",
@@ -1681,21 +889,7 @@
    }
   ]
  },
- "07-07": {
-  "names": [
-   "Bohuslava"
-  ]
- },
- "07-08": {
-  "names": [
-   "Nora"
-  ]
- },
  "07-09": {
-  "names": [
-   "Drahoslava",
-   "Drahuše"
-  ],
   "saints": [
    {
     "id": "chinese_martyrs",
@@ -1704,17 +898,7 @@
    }
   ]
  },
- "07-10": {
-  "names": [
-   "Libuše",
-   "Amálie"
-  ]
- },
  "07-11": {
-  "names": [
-   "Olga",
-   "Helga"
-  ],
   "saints": [
    {
     "id": "benedict",
@@ -1723,15 +907,7 @@
    }
   ]
  },
- "07-12": {
-  "names": [
-   "Bořek"
-  ]
- },
  "07-13": {
-  "names": [
-   "Markéta"
-  ],
   "saints": [
    {
     "id": "henry",
@@ -1741,9 +917,6 @@
   ]
  },
  "07-14": {
-  "names": [
-   "Karolína"
-  ],
   "saints": [
    {
     "id": "hroznata",
@@ -1758,9 +931,6 @@
   ]
  },
  "07-15": {
-  "names": [
-   "Jindřich"
-  ],
   "saints": [
    {
     "id": "bonaventure",
@@ -1770,9 +940,6 @@
   ]
  },
  "07-16": {
-  "names": [
-   "Luboš"
-  ],
   "saints": [
    {
     "id": "bvm_mount_carmel",
@@ -1782,9 +949,6 @@
   ]
  },
  "07-17": {
-  "names": [
-   "Martina"
-  ],
   "saints": [
    {
     "id": "ceslaus_hyacinth",
@@ -1793,21 +957,7 @@
    }
   ]
  },
- "07-18": {
-  "names": [
-   "Drahomíra",
-   "Drahomír"
-  ]
- },
- "07-19": {
-  "names": [
-   "Čeněk"
-  ]
- },
  "07-20": {
-  "names": [
-   "Ilja"
-  ],
   "saints": [
    {
     "id": "apollinaris",
@@ -1817,10 +967,6 @@
   ]
  },
  "07-21": {
-  "names": [
-   "Vítězslav",
-   "Vítězslava"
-  ],
   "saints": [
    {
     "id": "lawrence_of_brindisi",
@@ -1830,10 +976,6 @@
   ]
  },
  "07-22": {
-  "names": [
-   "Magdaléna",
-   "Magda"
-  ],
   "saints": [
    {
     "id": "mary_magdalene",
@@ -1843,9 +985,6 @@
   ]
  },
  "07-23": {
-  "names": [
-   "Libor"
-  ],
   "saints": [
    {
     "id": "birgitta",
@@ -1855,9 +994,6 @@
   ]
  },
  "07-24": {
-  "names": [
-   "Kristýna"
-  ],
   "saints": [
    {
     "id": "sharbel",
@@ -1867,9 +1003,6 @@
   ]
  },
  "07-25": {
-  "names": [
-   "Jakub"
-  ],
   "saints": [
    {
     "id": "james",
@@ -1879,10 +1012,6 @@
   ]
  },
  "07-26": {
-  "names": [
-   "Anna",
-   "Anita"
-  ],
   "saints": [
    {
     "id": "joachim_anne",
@@ -1892,9 +1021,6 @@
   ]
  },
  "07-27": {
-  "names": [
-   "Věroslav"
-  ],
   "saints": [
    {
     "id": "gorazd",
@@ -1903,16 +1029,7 @@
    }
   ]
  },
- "07-28": {
-  "names": [
-   "Viktor",
-   "Alina"
-  ]
- },
  "07-29": {
-  "names": [
-   "Marta"
-  ],
   "saints": [
    {
     "id": "martha_mary_lazarus",
@@ -1922,9 +1039,6 @@
   ]
  },
  "07-30": {
-  "names": [
-   "Bořivoj"
-  ],
   "saints": [
    {
     "id": "peter_chrysologus",
@@ -1934,9 +1048,6 @@
   ]
  },
  "07-31": {
-  "names": [
-   "Ignác"
-  ],
   "saints": [
    {
     "id": "ignatius_of_loyola",
@@ -1946,9 +1057,6 @@
   ]
  },
  "08-01": {
-  "names": [
-   "Oskar"
-  ],
   "saints": [
    {
     "id": "alphonsus",
@@ -1958,9 +1066,6 @@
   ]
  },
  "08-02": {
-  "names": [
-   "Gustav"
-  ],
   "saints": [
    {
     "id": "eusebius",
@@ -1974,16 +1079,7 @@
    }
   ]
  },
- "08-03": {
-  "names": [
-   "Miluše"
-  ]
- },
  "08-04": {
-  "names": [
-   "Dominik",
-   "Dominika"
-  ],
   "saints": [
    {
     "id": "vianney",
@@ -1993,9 +1089,6 @@
   ]
  },
  "08-05": {
-  "names": [
-   "Kristián"
-  ],
   "saints": [
    {
     "id": "mary_major",
@@ -2005,9 +1098,6 @@
   ]
  },
  "08-06": {
-  "names": [
-   "Oldřiška"
-  ],
   "saints": [
    {
     "id": "transfiguration",
@@ -2017,9 +1107,6 @@
   ]
  },
  "08-07": {
-  "names": [
-   "Lada"
-  ],
   "saints": [
    {
     "id": "sixtus_ii",
@@ -2034,9 +1121,6 @@
   ]
  },
  "08-08": {
-  "names": [
-   "Soběslav"
-  ],
   "saints": [
    {
     "id": "dominic",
@@ -2046,9 +1130,6 @@
   ]
  },
  "08-09": {
-  "names": [
-   "Roman"
-  ],
   "saints": [
    {
     "id": "stein",
@@ -2058,9 +1139,6 @@
   ]
  },
  "08-10": {
-  "names": [
-   "Vavřinec"
-  ],
   "saints": [
    {
     "id": "lawrence",
@@ -2070,9 +1148,6 @@
   ]
  },
  "08-11": {
-  "names": [
-   "Zuzana"
-  ],
   "saints": [
    {
     "id": "clare",
@@ -2082,9 +1157,6 @@
   ]
  },
  "08-12": {
-  "names": [
-   "Klára"
-  ],
   "saints": [
    {
     "id": "de_chantal",
@@ -2094,9 +1166,6 @@
   ]
  },
  "08-13": {
-  "names": [
-   "Alena"
-  ],
   "saints": [
    {
     "id": "pontian_hippolytus",
@@ -2106,9 +1175,6 @@
   ]
  },
  "08-14": {
-  "names": [
-   "Alan"
-  ],
   "saints": [
    {
     "id": "kolbe",
@@ -2118,9 +1184,6 @@
   ]
  },
  "08-15": {
-  "names": [
-   "Hana"
-  ],
   "saints": [
    {
     "id": "assumption",
@@ -2130,9 +1193,6 @@
   ]
  },
  "08-16": {
-  "names": [
-   "Jáchym"
-  ],
   "saints": [
    {
     "id": "stephen_hungary",
@@ -2141,21 +1201,7 @@
    }
   ]
  },
- "08-17": {
-  "names": [
-   "Petra"
-  ]
- },
- "08-18": {
-  "names": [
-   "Helena",
-   "Jelena"
-  ]
- },
  "08-19": {
-  "names": [
-   "Ludvík"
-  ],
   "saints": [
    {
     "id": "eudes",
@@ -2165,9 +1211,6 @@
   ]
  },
  "08-20": {
-  "names": [
-   "Bernard"
-  ],
   "saints": [
    {
     "id": "bernard",
@@ -2177,9 +1220,6 @@
   ]
  },
  "08-21": {
-  "names": [
-   "Johana"
-  ],
   "saints": [
    {
     "id": "pius_x",
@@ -2189,9 +1229,6 @@
   ]
  },
  "08-22": {
-  "names": [
-   "Bohuslav"
-  ],
   "saints": [
    {
     "id": "bvm_queenship",
@@ -2201,9 +1238,6 @@
   ]
  },
  "08-23": {
-  "names": [
-   "Sandra"
-  ],
   "saints": [
    {
     "id": "rose_lima",
@@ -2213,9 +1247,6 @@
   ]
  },
  "08-24": {
-  "names": [
-   "Bartoloměj"
-  ],
   "saints": [
    {
     "id": "bartholomew",
@@ -2225,9 +1256,6 @@
   ]
  },
  "08-25": {
-  "names": [
-   "Radim"
-  ],
   "saints": [
    {
     "id": "five_camaldolese",
@@ -2246,15 +1274,7 @@
    }
   ]
  },
- "08-26": {
-  "names": [
-   "Luděk"
-  ]
- },
  "08-27": {
-  "names": [
-   "Otakar"
-  ],
   "saints": [
    {
     "id": "monica",
@@ -2264,9 +1284,6 @@
   ]
  },
  "08-28": {
-  "names": [
-   "Augustýn"
-  ],
   "saints": [
    {
     "id": "augustine",
@@ -2276,9 +1293,6 @@
   ]
  },
  "08-29": {
-  "names": [
-   "Evelína"
-  ],
   "saints": [
    {
     "id": "baptist_beheading",
@@ -2287,32 +1301,7 @@
    }
   ]
  },
- "08-30": {
-  "names": [
-   "Vladěna"
-  ]
- },
- "08-31": {
-  "names": [
-   "Pavlína"
-  ]
- },
- "09-01": {
-  "names": [
-   "Linda",
-   "Samuel"
-  ]
- },
- "09-02": {
-  "names": [
-   "Adéla"
-  ]
- },
  "09-03": {
-  "names": [
-   "Bronislav",
-   "Bronislava"
-  ],
   "saints": [
    {
     "id": "gregory_great",
@@ -2321,16 +1310,7 @@
    }
   ]
  },
- "09-04": {
-  "names": [
-   "Jindřiška",
-   "Rozálie"
-  ]
- },
  "09-05": {
-  "names": [
-   "Boris"
-  ],
   "saints": [
    {
     "id": "teresa_calcutta",
@@ -2339,15 +1319,7 @@
    }
   ]
  },
- "09-06": {
-  "names": [
-   "Boleslav"
-  ]
- },
  "09-07": {
-  "names": [
-   "Regína"
-  ],
   "saints": [
    {
     "id": "grodecky",
@@ -2357,9 +1329,6 @@
   ]
  },
  "09-08": {
-  "names": [
-   "Mariana"
-  ],
   "saints": [
    {
     "id": "bvm_birth",
@@ -2369,9 +1338,6 @@
   ]
  },
  "09-09": {
-  "names": [
-   "Daniela"
-  ],
   "saints": [
    {
     "id": "claver",
@@ -2381,9 +1347,6 @@
   ]
  },
  "09-10": {
-  "names": [
-   "Irma"
-  ],
   "saints": [
    {
     "id": "spinola",
@@ -2392,16 +1355,7 @@
    }
   ]
  },
- "09-11": {
-  "names": [
-   "Denisa",
-   "Denis"
-  ]
- },
  "09-12": {
-  "names": [
-   "Marie"
-  ],
   "saints": [
    {
     "id": "bvm_name",
@@ -2411,9 +1365,6 @@
   ]
  },
  "09-13": {
-  "names": [
-   "Lubor"
-  ],
   "saints": [
    {
     "id": "john_chrysostom",
@@ -2423,9 +1374,6 @@
   ]
  },
  "09-14": {
-  "names": [
-   "Radka"
-  ],
   "saints": [
    {
     "id": "cross",
@@ -2435,9 +1383,6 @@
   ]
  },
  "09-15": {
-  "names": [
-   "Jolana"
-  ],
   "saints": [
    {
     "id": "bvm_sorrows",
@@ -2447,10 +1392,6 @@
   ]
  },
  "09-16": {
-  "names": [
-   "Ludmila",
-   "Lidmila"
-  ],
   "saints": [
    {
     "id": "ludmila",
@@ -2460,10 +1401,6 @@
   ]
  },
  "09-17": {
-  "names": [
-   "Naděžda",
-   "Naďa"
-  ],
   "saints": [
    {
     "id": "cornelius_cyprian",
@@ -2482,15 +1419,7 @@
    }
   ]
  },
- "09-18": {
-  "names": [
-   "Kryštof"
-  ]
- },
  "09-19": {
-  "names": [
-   "Zita"
-  ],
   "saints": [
    {
     "id": "januarius",
@@ -2500,9 +1429,6 @@
   ]
  },
  "09-20": {
-  "names": [
-   "Oleg"
-  ],
   "saints": [
    {
     "id": "korean_martyrs",
@@ -2512,9 +1438,6 @@
   ]
  },
  "09-21": {
-  "names": [
-   "Matouš"
-  ],
   "saints": [
    {
     "id": "matthew",
@@ -2523,15 +1446,7 @@
    }
   ]
  },
- "09-22": {
-  "names": [
-   "Darina"
-  ]
- },
  "09-23": {
-  "names": [
-   "Berta"
-  ],
   "saints": [
    {
     "id": "padre_pio",
@@ -2540,22 +1455,7 @@
    }
   ]
  },
- "09-24": {
-  "names": [
-   "Jaromír",
-   "Jaromíra"
-  ]
- },
- "09-25": {
-  "names": [
-   "Zlata",
-   "Zlatuše"
-  ]
- },
  "09-26": {
-  "names": [
-   "Andrea"
-  ],
   "saints": [
    {
     "id": "cosmas_damian",
@@ -2565,9 +1465,6 @@
   ]
  },
  "09-27": {
-  "names": [
-   "Jonáš"
-  ],
   "saints": [
    {
     "id": "vincent_de_paul",
@@ -2577,10 +1474,6 @@
   ]
  },
  "09-28": {
-  "names": [
-   "Václav",
-   "Václava"
-  ],
   "saints": [
    {
     "id": "wenceslaus",
@@ -2590,10 +1483,6 @@
   ]
  },
  "09-29": {
-  "names": [
-   "Michal",
-   "Michael"
-  ],
   "saints": [
    {
     "id": "archangels",
@@ -2603,10 +1492,6 @@
   ]
  },
  "09-30": {
-  "names": [
-   "Jeroným",
-   "Ráchel"
-  ],
   "saints": [
    {
     "id": "jerome",
@@ -2616,9 +1501,6 @@
   ]
  },
  "10-01": {
-  "names": [
-   "Igor"
-  ],
   "saints": [
    {
     "id": "therese_lisieux",
@@ -2628,10 +1510,6 @@
   ]
  },
  "10-02": {
-  "names": [
-   "Olívie",
-   "Oliver"
-  ],
   "saints": [
    {
     "id": "guardian_angels",
@@ -2640,15 +1518,7 @@
    }
   ]
  },
- "10-03": {
-  "names": [
-   "Bohumil"
-  ]
- },
  "10-04": {
-  "names": [
-   "František"
-  ],
   "saints": [
    {
     "id": "francis_assisi",
@@ -2658,9 +1528,6 @@
   ]
  },
  "10-05": {
-  "names": [
-   "Eliška"
-  ],
   "saints": [
    {
     "id": "faustina_kowalska",
@@ -2670,9 +1537,6 @@
   ]
  },
  "10-06": {
-  "names": [
-   "Hanuš"
-  ],
   "saints": [
    {
     "id": "bruno",
@@ -2682,9 +1546,6 @@
   ]
  },
  "10-07": {
-  "names": [
-   "Justýna"
-  ],
   "saints": [
    {
     "id": "bvm_rosary",
@@ -2693,16 +1554,7 @@
    }
   ]
  },
- "10-08": {
-  "names": [
-   "Věra"
-  ]
- },
  "10-09": {
-  "names": [
-   "Štefan",
-   "Sára"
-  ],
   "saints": [
    {
     "id": "denis",
@@ -2721,15 +1573,7 @@
    }
   ]
  },
- "10-10": {
-  "names": [
-   "Marina"
-  ]
- },
  "10-11": {
-  "names": [
-   "Andrej"
-  ],
   "saints": [
    {
     "id": "john_xxiii",
@@ -2739,9 +1583,6 @@
   ]
  },
  "10-12": {
-  "names": [
-   "Marcel"
-  ],
   "saints": [
    {
     "id": "radim",
@@ -2750,15 +1591,7 @@
    }
   ]
  },
- "10-13": {
-  "names": [
-   "Renáta"
-  ]
- },
  "10-14": {
-  "names": [
-   "Agáta"
-  ],
   "saints": [
    {
     "id": "callistus_i",
@@ -2768,10 +1601,6 @@
   ]
  },
  "10-15": {
-  "names": [
-   "Tereza",
-   "Terezie"
-  ],
   "saints": [
    {
     "id": "teresa_avila",
@@ -2781,10 +1610,6 @@
   ]
  },
  "10-16": {
-  "names": [
-   "Havel",
-   "Galina"
-  ],
   "saints": [
    {
     "id": "hedwig",
@@ -2799,9 +1624,6 @@
   ]
  },
  "10-17": {
-  "names": [
-   "Hedvika"
-  ],
   "saints": [
    {
     "id": "ignatius_of_antioch",
@@ -2811,9 +1633,6 @@
   ]
  },
  "10-18": {
-  "names": [
-   "Lukáš"
-  ],
   "saints": [
    {
     "id": "luke",
@@ -2823,10 +1642,6 @@
   ]
  },
  "10-19": {
-  "names": [
-   "Michaela",
-   "Michala"
-  ],
   "saints": [
    {
     "id": "brebeuf_jogues",
@@ -2840,15 +1655,7 @@
    }
   ]
  },
- "10-20": {
-  "names": [
-   "Vendelín"
-  ]
- },
  "10-21": {
-  "names": [
-   "Brigita"
-  ],
   "saints": [
    {
     "id": "karl_of_austria",
@@ -2858,9 +1665,6 @@
   ]
  },
  "10-22": {
-  "names": [
-   "Sabina"
-  ],
   "saints": [
    {
     "id": "john_paul_ii",
@@ -2870,9 +1674,6 @@
   ]
  },
  "10-23": {
-  "names": [
-   "Teodor"
-  ],
   "saints": [
    {
     "id": "john_capistrano",
@@ -2882,9 +1683,6 @@
   ]
  },
  "10-24": {
-  "names": [
-   "Nina"
-  ],
   "saints": [
    {
     "id": "claret",
@@ -2893,27 +1691,7 @@
    }
   ]
  },
- "10-25": {
-  "names": [
-   "Beáta"
-  ]
- },
- "10-26": {
-  "names": [
-   "Erik"
-  ]
- },
- "10-27": {
-  "names": [
-   "Šarlota",
-   "Zoe"
-  ]
- },
  "10-28": {
-  "names": [
-   "Jidáš",
-   "Alfréd"
-  ],
   "saints": [
    {
     "id": "simon_jude",
@@ -2922,21 +1700,7 @@
    }
   ]
  },
- "10-29": {
-  "names": [
-   "Silvie",
-   "Sylva"
-  ]
- },
- "10-30": {
-  "names": [
-   "Tadeáš"
-  ]
- },
  "10-31": {
-  "names": [
-   "Štěpánka"
-  ],
   "saints": [
    {
     "id": "wolfgang",
@@ -2946,9 +1710,6 @@
   ]
  },
  "11-01": {
-  "names": [
-   "Felix"
-  ],
   "saints": [
    {
     "id": "all_saints",
@@ -2958,9 +1719,6 @@
   ]
  },
  "11-02": {
-  "names": [
-   "Tobiáš"
-  ],
   "saints": [
    {
     "id": "all_souls",
@@ -2970,9 +1728,6 @@
   ]
  },
  "11-03": {
-  "names": [
-   "Hubert"
-  ],
   "saints": [
    {
     "id": "de_porres",
@@ -2982,10 +1737,6 @@
   ]
  },
  "11-04": {
-  "names": [
-   "Karel",
-   "Karla"
-  ],
   "saints": [
    {
     "id": "borromeo",
@@ -2994,32 +1745,7 @@
    }
   ]
  },
- "11-05": {
-  "names": [
-   "Miriam"
-  ]
- },
- "11-06": {
-  "names": [
-   "Liběna",
-   "Leonard"
-  ]
- },
- "11-07": {
-  "names": [
-   "Saskie"
-  ]
- },
- "11-08": {
-  "names": [
-   "Bohumír",
-   "Bohumíra"
-  ]
- },
  "11-09": {
-  "names": [
-   "Bohdan"
-  ],
   "saints": [
    {
     "id": "lateran_basilica",
@@ -3029,9 +1755,6 @@
   ]
  },
  "11-10": {
-  "names": [
-   "Evžen"
-  ],
   "saints": [
    {
     "id": "leo_great",
@@ -3041,9 +1764,6 @@
   ]
  },
  "11-11": {
-  "names": [
-   "Martin"
-  ],
   "saints": [
    {
     "id": "martin",
@@ -3053,9 +1773,6 @@
   ]
  },
  "11-12": {
-  "names": [
-   "Benedikt"
-  ],
   "saints": [
    {
     "id": "josaphat",
@@ -3065,9 +1782,6 @@
   ]
  },
  "11-13": {
-  "names": [
-   "Tibor"
-  ],
   "saints": [
    {
     "id": "agnes_of_bohemia",
@@ -3076,15 +1790,7 @@
    }
   ]
  },
- "11-14": {
-  "names": [
-   "Sáva"
-  ]
- },
  "11-15": {
-  "names": [
-   "Leopold"
-  ],
   "saints": [
    {
     "id": "albert",
@@ -3094,9 +1800,6 @@
   ]
  },
  "11-16": {
-  "names": [
-   "Otmar"
-  ],
   "saints": [
    {
     "id": "margaret_of_scotland",
@@ -3111,10 +1814,6 @@
   ]
  },
  "11-17": {
-  "names": [
-   "Mahulena",
-   "Gertruda"
-  ],
   "saints": [
    {
     "id": "elizabeth_of_hungary",
@@ -3124,9 +1823,6 @@
   ]
  },
  "11-18": {
-  "names": [
-   "Romana"
-  ],
   "saints": [
    {
     "id": "peter_paul_basilicas",
@@ -3135,20 +1831,7 @@
    }
   ]
  },
- "11-19": {
-  "names": [
-   "Alžběta"
-  ]
- },
- "11-20": {
-  "names": [
-   "Nikola"
-  ]
- },
  "11-21": {
-  "names": [
-   "Albert"
-  ],
   "saints": [
    {
     "id": "bvm_presentation",
@@ -3158,9 +1841,6 @@
   ]
  },
  "11-22": {
-  "names": [
-   "Cecílie"
-  ],
   "saints": [
    {
     "id": "cecilia",
@@ -3170,9 +1850,6 @@
   ]
  },
  "11-23": {
-  "names": [
-   "Klement"
-  ],
   "saints": [
    {
     "id": "clement_i",
@@ -3187,9 +1864,6 @@
   ]
  },
  "11-24": {
-  "names": [
-   "Emílie"
-  ],
   "saints": [
    {
     "id": "vietnamese_martyrs",
@@ -3199,9 +1873,6 @@
   ]
  },
  "11-25": {
-  "names": [
-   "Kateřina"
-  ],
   "saints": [
    {
     "id": "catherine_of_alexandria",
@@ -3210,30 +1881,7 @@
    }
   ]
  },
- "11-26": {
-  "names": [
-   "Artur"
-  ]
- },
- "11-27": {
-  "names": [
-   "Xenie"
-  ]
- },
- "11-28": {
-  "names": [
-   "René"
-  ]
- },
- "11-29": {
-  "names": [
-   "Zina"
-  ]
- },
  "11-30": {
-  "names": [
-   "Ondřej"
-  ],
   "saints": [
    {
     "id": "andrew",
@@ -3243,9 +1891,6 @@
   ]
  },
  "12-01": {
-  "names": [
-   "Iva"
-  ],
   "saints": [
    {
     "id": "campion",
@@ -3254,15 +1899,7 @@
    }
   ]
  },
- "12-02": {
-  "names": [
-   "Blanka"
-  ]
- },
  "12-03": {
-  "names": [
-   "Svatoslav"
-  ],
   "saints": [
    {
     "id": "francis_xavier",
@@ -3272,9 +1909,6 @@
   ]
  },
  "12-04": {
-  "names": [
-   "Barbora"
-  ],
   "saints": [
    {
     "id": "john_damascene",
@@ -3283,15 +1917,7 @@
    }
   ]
  },
- "12-05": {
-  "names": [
-   "Jitka"
-  ]
- },
  "12-06": {
-  "names": [
-   "Mikuláš"
-  ],
   "saints": [
    {
     "id": "nicholas",
@@ -3301,10 +1927,6 @@
   ]
  },
  "12-07": {
-  "names": [
-   "Ambrož",
-   "Benjamín"
-  ],
   "saints": [
    {
     "id": "ambrose",
@@ -3314,9 +1936,6 @@
   ]
  },
  "12-08": {
-  "names": [
-   "Květoslava"
-  ],
   "saints": [
    {
     "id": "bvm_immaculate",
@@ -3326,9 +1945,6 @@
   ]
  },
  "12-09": {
-  "names": [
-   "Vratislav"
-  ],
   "saints": [
    {
     "id": "juan_diego",
@@ -3338,9 +1954,6 @@
   ]
  },
  "12-10": {
-  "names": [
-   "Julie"
-  ],
   "saints": [
    {
     "id": "bvm_loreto",
@@ -3350,10 +1963,6 @@
   ]
  },
  "12-11": {
-  "names": [
-   "Dana",
-   "Danuše"
-  ],
   "saints": [
    {
     "id": "damasus_i",
@@ -3363,9 +1972,6 @@
   ]
  },
  "12-12": {
-  "names": [
-   "Simona"
-  ],
   "saints": [
    {
     "id": "bvm_guadalupe",
@@ -3375,9 +1981,6 @@
   ]
  },
  "12-13": {
-  "names": [
-   "Lucie"
-  ],
   "saints": [
    {
     "id": "lucy",
@@ -3387,9 +1990,6 @@
   ]
  },
  "12-14": {
-  "names": [
-   "Lýdie"
-  ],
   "saints": [
    {
     "id": "john_of_cross",
@@ -3398,41 +1998,7 @@
    }
   ]
  },
- "12-15": {
-  "names": [
-   "Radana",
-   "Radan"
-  ]
- },
- "12-16": {
-  "names": [
-   "Albína"
-  ]
- },
- "12-17": {
-  "names": [
-   "Daniel"
-  ]
- },
- "12-18": {
-  "names": [
-   "Miloslav"
-  ]
- },
- "12-19": {
-  "names": [
-   "Ester"
-  ]
- },
- "12-20": {
-  "names": [
-   "Dagmar"
-  ]
- },
  "12-21": {
-  "names": [
-   "Natálie"
-  ],
   "saints": [
    {
     "id": "canisius",
@@ -3441,15 +2007,7 @@
    }
   ]
  },
- "12-22": {
-  "names": [
-   "Šimon"
-  ]
- },
  "12-23": {
-  "names": [
-   "Vlasta"
-  ],
   "saints": [
    {
     "id": "john_of_kanty",
@@ -3458,19 +2016,10 @@
    }
   ]
  },
- "12-24": {
-  "names": [
-   "Adam",
-   "Eva"
-  ]
- },
  "12-25": {
   "holiday": "1. svátek vánoční"
  },
  "12-26": {
-  "names": [
-   "Štěpán"
-  ],
   "saints": [
    {
     "id": "stephen",
@@ -3480,9 +2029,6 @@
   ]
  },
  "12-27": {
-  "names": [
-   "Žaneta"
-  ],
   "saints": [
    {
     "id": "john_evangelist",
@@ -3492,9 +2038,6 @@
   ]
  },
  "12-28": {
-  "names": [
-   "Bohumila"
-  ],
   "saints": [
    {
     "id": "innocents",
@@ -3504,9 +2047,6 @@
   ]
  },
  "12-29": {
-  "names": [
-   "Judita"
-  ],
   "saints": [
    {
     "id": "becket",
@@ -3515,15 +2055,7 @@
    }
   ]
  },
- "12-30": {
-  "names": [
-   "David"
-  ]
- },
  "12-31": {
-  "names": [
-   "Silvestr"
-  ],
   "saints": [
    {
     "id": "sylvester_i",

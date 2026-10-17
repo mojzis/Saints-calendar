@@ -1,6 +1,6 @@
 ---
 title: Saints calendar
-pitch: A Google Calendar with a saint (and Czech name day) for every day.
+pitch: A Google Calendar with a saint for every day.
 created: 2026-10-17
 updated: 2026-10-17
 idea: https://github.com/mojzis/ideas/blob/main/ideas/saints-calendar.md
@@ -17,11 +17,11 @@ idea: https://github.com/mojzis/ideas/blob/main/ideas/saints-calendar.md
 ## Goals
 
 - Saints of the day in Google Calendar, from the Czech national liturgical calendar.
-- Czech name days for every day.
 - Files that can be subscribed to by URL, so fixes reach the calendar without re-importing.
 
 ## Non-goals
 
+- Czech name days (dropped 2026-10-17; not wanted).
 - A full liturgical calendar app (readings, seasons, colours).
 
 ## Principles

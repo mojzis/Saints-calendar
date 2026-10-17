@@ -17,14 +17,13 @@ function el(tag, attrs = {}, ...kids) {
   return e;
 }
 
-// Lines describing one day: saints, then holiday, then name days.
+// Lines describing one day: saints, then holiday.
 function describe(info, { titleTag = "span" } = {}) {
   const out = [];
   for (const s of info.saints || []) {
     out.push(el(titleTag, { class: "s" }, s.title + " ", el("span", { class: "rank " + s.rank }, s.rank)));
   }
   if (info.holiday) out.push(el("span", { class: "s holiday" }, info.holiday));
-  if (info.names) out.push(el("span", { class: "n" }, "Jmeniny: " + info.names.join(", ")));
   if (!out.length) out.push(el("span", { class: "n" }, "—"));
   return out;
 }
@@ -51,7 +50,6 @@ function renderToday(days, today) {
     text.append(el("h1", {}, "Dnes bez památky světce"));
   }
   if (info.saints && info.holiday) text.append(el("div", { class: "names holiday" }, info.holiday));
-  if (info.names) text.append(el("div", { class: "names" }, "Svátek má ", el("b", {}, info.names.join(", "))));
   box.append(text);
 }
 
@@ -96,7 +94,6 @@ function makeMonth(days, today) {
         el("span", { class: "num" }, String(n)),
         top ? el("span", { class: "cs " + top.rank }, top.title) :
           info.holiday ? el("span", { class: "cs svátek" }, info.holiday) : null,
-        info.names ? el("span", { class: "cn" }, info.names.join(", ")) : null,
         top || info.holiday ? el("span", { class: "dot" }) : null);
       btn.addEventListener("click", () => {
         grid.querySelector(".selected")?.classList.remove("selected");
