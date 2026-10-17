@@ -13,15 +13,47 @@ SITE = ROOT / "site"
 IMAGE_EXTS = (".webp", ".jpg", ".jpeg", ".png")
 START_YEAR = 2026
 LEAP_START = "20280229"
-RANKS = {"s": "slavnost", "f": "svátek", "m": "památka"}
+RANKS = {"s": "solemnity", "f": "feast", "m": "memorial"}
+RANK_LABELS = {
+    "cs": {
+        "solemnity": "slavnost",
+        "feast": "svátek",
+        "memorial": "památka",
+        "optional": "nezávazná památka",
+    },
+    "en": {
+        "solemnity": "solemnity",
+        "feast": "feast",
+        "memorial": "memorial",
+        "optional": "optional memorial",
+    },
+}
+# lang -> (file, UID prefix, calendar name, source shown in each description)
+CALENDARS = {
+    "cs": (
+        "svati-cz.ics",
+        "svati",
+        "Svatí (liturgický kalendář CZ)",
+        "Český národní liturgický kalendář",
+    ),
+    "en": (
+        "saints-cz-en.ics",
+        "saints-en",
+        "Saints (Czech liturgical calendar)",
+        "Czech national liturgical calendar",
+    ),
+}
 
 # State holidays, shown on the website next to the saints.
 HOLIDAYS = {
-    "01-01": "Nový rok, Den obnovy samostatného českého státu",
-    "05-01": "Svátek práce",
-    "05-08": "Den vítězství",
-    "07-06": "Den upálení mistra Jana Husa",
-    "12-25": "1. svátek vánoční",
+    "01-01": {
+        "cs": "Nový rok, Den obnovy samostatného českého státu",
+        "en": "New Year's Day, Restoration Day of the Independent Czech State",
+    },
+    "05-01": {"cs": "Svátek práce", "en": "Labour Day"},
+    "05-08": {"cs": "Den vítězství", "en": "Liberation Day"},
+    "07-06": {"cs": "Den upálení mistra Jana Husa", "en": "Jan Hus Day"},
+    "12-25": {"cs": "1. svátek vánoční", "en": "Christmas Day"},
 }
 
 Event = list[str]
@@ -98,25 +130,40 @@ def parse_saints(text: str) -> list[dict[str, str | int]]:
         left, title = raw.split(" : ", 1)
         tokens = left.split()
         day, sid, flags = int(tokens[0]), tokens[-1], tokens[1:-1]
-        rank = next((RANKS[f[0]] for f in flags if f[0] in RANKS), "nezávazná památka")
+        rank = next((RANKS[f[0]] for f in flags if f[0] in RANKS), "optional")
         records.append(
             {"month": month, "day": day, "id": sid, "title": title, "rank": rank}
         )
     return records
 
 
-def saints(text: str) -> list[Event]:
-    """Events from a calendarium-romanum sanctorale file."""
+def titles(text: str) -> dict[str, str]:
+    """Saint id -> title, from a calendarium-romanum sanctorale file."""
+    return {str(r["id"]): str(r["title"]) for r in parse_saints(text)}
+
+
+def saints(
+    text: str, lang: str = "cs", names: dict[str, str] | None = None
+) -> list[Event]:
+    """Events from a calendarium-romanum sanctorale file.
+
+    `names` (saint id -> title) replaces the file's titles; a missing id raises
+    KeyError, so a new saint can't slip into a translation untranslated.
+    """
+    _, prefix, _, source = CALENDARS[lang]
     events = []
     for r in parse_saints(text):
-        month, day = int(r["month"]), int(r["day"])
-        desc = f"{r['rank']} (Český národní liturgický kalendář)"
-        uid = f"svati-{month:02d}{day:02d}-{r['id']}@saints-calendar"
-        events.append(event(uid, month, day, str(r["title"]), desc))
+        month, day, sid = int(r["month"]), int(r["day"]), str(r["id"])
+        title = names[sid] if names is not None else str(r["title"])
+        desc = f"{RANK_LABELS[lang][str(r['rank'])]} ({source})"
+        uid = f"{prefix}-{month:02d}{day:02d}-{sid}@saints-calendar"
+        events.append(event(uid, month, day, title, desc))
     return events
 
 
-def site_days(saint_text: str, images: set[str]) -> dict[str, dict]:
+def site_days(
+    saint_text: str, en_titles: dict[str, str], images: set[str]
+) -> dict[str, dict]:
     """Per-day data for the website, keyed "MM-DD".
 
     `images` holds file names found in site/img/; a saint gets an "image"
@@ -127,7 +174,11 @@ def site_days(saint_text: str, images: set[str]) -> dict[str, dict]:
         days.setdefault(key, {})["holiday"] = title
     for r in parse_saints(saint_text):
         key = f"{int(r['month']):02d}-{int(r['day']):02d}"
-        saint = {"id": r["id"], "title": r["title"], "rank": r["rank"]}
+        saint: dict = {
+            "id": r["id"],
+            "title": {"cs": r["title"], "en": en_titles[str(r["id"])]},
+            "rank": r["rank"],
+        }
         image = next(
             (f"img/{r['id']}{e}" for e in IMAGE_EXTS if f"{r['id']}{e}" in images), None
         )
@@ -141,11 +192,15 @@ def main() -> None:
     """Write calendars/*.ics and site/days.json."""
     OUT.mkdir(exist_ok=True)
     saint_text = (DATA / "czech-cs.txt").read_text(encoding="utf-8")
-    with (OUT / "svati-cz.ics").open("w", encoding="utf-8", newline="") as f:
-        f.write(calendar("Svatí (liturgický kalendář CZ)", saints(saint_text)))
+    en_titles = titles((DATA / "universal-en.txt").read_text(encoding="utf-8"))
+    en_titles |= json.loads((DATA / "czech-en.json").read_text(encoding="utf-8"))
+    for lang, names in (("cs", None), ("en", en_titles)):
+        file, _, name, _ = CALENDARS[lang]
+        with (OUT / file).open("w", encoding="utf-8", newline="") as f:
+            f.write(calendar(name, saints(saint_text, lang, names)))
     img_dir = SITE / "img"
     images = {p.name for p in img_dir.iterdir()} if img_dir.is_dir() else set()
-    days = site_days(saint_text, images)
+    days = site_days(saint_text, en_titles, images)
     (SITE / "days.json").write_text(
         json.dumps(days, ensure_ascii=False, indent=1) + "\n", encoding="utf-8"
     )

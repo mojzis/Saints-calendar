@@ -1,6 +1,6 @@
 # Saints calendar
 
-Builds a Google-Calendar-ready `.ics` file of saints, plus a small website on GitHub Pages; see [README.md](README.md) and [docs/](docs/).
+Builds Google-Calendar-ready `.ics` files of saints (Czech and English titles), plus a small website on GitHub Pages; see [README.md](README.md) and [docs/](docs/).
 
 The idea's origin lives in [ideas/saints-calendar.md](https://github.com/mojzis/ideas/blob/main/ideas/saints-calendar.md) of mojzis/ideas, and new enhancement ideas go in `projects/saints-calendar/ideas/` there.
 
@@ -8,9 +8,13 @@ After changing `data/` or `build.py`, run `uv run saints-calendar` and commit th
 
 ## Website
 
-- `site/` is plain static HTML/CSS/JS, no build step or framework. UI text is Czech.
-  `app.js` renders today, the next 7 days and a month grid from `site/days.json`
-  (generated, keyed `"MM-DD"` → `saints`/`holiday`). Don't hand-edit `days.json`.
+- `site/` is plain static HTML/CSS/JS, no build step or framework. Czech pages in
+  `site/`, English ones in `site/en/`; keep them in step. `app.js` (shared, strings in
+  its `T` table, language from `<html lang>`) renders today, the next 7 days and a
+  month grid from `site/days.json` (generated, keyed `"MM-DD"` → `saints`/`holiday`,
+  titles as `{cs, en}`). Don't hand-edit `days.json`.
+- A new saint id in `data/czech-cs.txt` needs an English title in
+  `data/universal-en.txt` or `data/czech-en.json`, or the build fails.
 - Pictures: `site/img/<saint id>.{webp,jpg,jpeg,png}`, id from `data/czech-cs.txt`.
   The build adds the `image` field to `days.json` when the file exists.
 - `.github/workflows/pages.yml` deploys `site/` + `calendars/` on push to `main`. It

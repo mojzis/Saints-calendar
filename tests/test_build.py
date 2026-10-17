@@ -1,3 +1,5 @@
+import pytest
+
 from saints_calendar.build import calendar, event, fold, saints, site_days
 
 SAMPLE = """---
@@ -8,6 +10,7 @@ title: test
 16 hedwig : Sv. Hedviky, řeholnice
 17 m R ignatius_of_antioch : Sv. Ignáce Antiochijského, biskupa a mučedníka
 """
+EN = {"hedwig": "Saint Hedwig", "ignatius_of_antioch": "Saint Ignatius of Antioch"}
 
 
 def test_fold_keeps_lines_within_75_octets():
@@ -26,6 +29,22 @@ def test_saints_parses_rank_and_escapes_commas():
     assert "DESCRIPTION:památka" in second
 
 
+def test_saints_in_english_take_titles_by_id():
+    names = {
+        "hedwig": "Saint Hedwig, religious",
+        "ignatius_of_antioch": "Saint Ignatius",
+    }
+    second = "\n".join(saints(SAMPLE, "en", names)[1])
+    assert "SUMMARY:Saint Ignatius" in second
+    assert "DESCRIPTION:memorial (Czech national liturgical calendar)" in second
+    assert "UID:saints-en-1017-ignatius_of_antioch@saints-calendar" in second
+
+
+def test_saints_in_english_reject_untranslated_ids():
+    with pytest.raises(KeyError, match="ignatius_of_antioch"):
+        saints(SAMPLE, "en", {"hedwig": "Saint Hedwig"})
+
+
 def test_leap_day_repeats_only_on_leap_years():
     lines = event("x", 2, 29, "Horymír", "d")
     assert "DTSTART;VALUE=DATE:20280229" in lines
@@ -39,12 +58,12 @@ def test_calendar_wraps_events():
 
 
 def test_site_days_attaches_images_by_saint_id():
-    days = site_days(SAMPLE, {"hedwig.jpg"})
+    days = site_days(SAMPLE, EN, {"hedwig.jpg"})
     assert days["10-16"]["saints"] == [
         {
             "id": "hedwig",
-            "title": "Sv. Hedviky, řeholnice",
-            "rank": "nezávazná památka",
+            "title": {"cs": "Sv. Hedviky, řeholnice", "en": "Saint Hedwig"},
+            "rank": "optional",
             "image": "img/hedwig.jpg",
         }
     ]
@@ -52,5 +71,5 @@ def test_site_days_attaches_images_by_saint_id():
 
 
 def test_site_days_adds_holidays():
-    days = site_days(SAMPLE, set())
-    assert days["05-01"]["holiday"] == "Svátek práce"
+    days = site_days(SAMPLE, EN, set())
+    assert days["05-01"]["holiday"] == {"cs": "Svátek práce", "en": "Labour Day"}

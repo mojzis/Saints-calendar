@@ -16,7 +16,7 @@ idea: https://github.com/mojzis/ideas/blob/main/ideas/saints-calendar.md
 
 ## Goals
 
-- Saints of the day in Google Calendar, from the Czech national liturgical calendar.
+- Saints of the day in Google Calendar, from the Czech national liturgical calendar, in Czech and English.
 - Files that can be subscribed to by URL, so fixes reach the calendar without re-importing.
 
 ## Non-goals

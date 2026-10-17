@@ -1,13 +1,19 @@
 {
  "01-01": {
-  "holiday": "Nový rok, Den obnovy samostatného českého státu"
+  "holiday": {
+   "cs": "Nový rok, Den obnovy samostatného českého státu",
+   "en": "New Year's Day, Restoration Day of the Independent Czech State"
+  }
  },
  "01-02": {
   "saints": [
    {
     "id": "basil_gregory",
-    "title": "Sv. Basila Velikého a Řehoře Naziánského, biskupů a učitelů církve",
-    "rank": "památka"
+    "title": {
+     "cs": "Sv. Basila Velikého a Řehoře Naziánského, biskupů a učitelů církve",
+     "en": "Saints Basil the Great and Gregory Nazianzen, bishops and doctors"
+    },
+    "rank": "memorial"
    }
   ]
  },
@@ -15,8 +21,11 @@
   "saints": [
    {
     "id": "name_jesus",
-    "title": "Nejsvětějšího Jména Ježíš",
-    "rank": "nezávazná památka"
+    "title": {
+     "cs": "Nejsvětějšího Jména Ježíš",
+     "en": "The Most Holy Name of Jesus"
+    },
+    "rank": "optional"
    }
   ]
  },
@@ -24,8 +33,11 @@
   "saints": [
    {
     "id": "raymond",
-    "title": "Sv. Rajmunda z Peñafortu, kněze",
-    "rank": "nezávazná památka"
+    "title": {
+     "cs": "Sv. Rajmunda z Peñafortu, kněze",
+     "en": "Saint Raymond of Penyafort, priest"
+    },
+    "rank": "optional"
    }
   ]
  },
@@ -33,8 +45,11 @@
   "saints": [
    {
     "id": "hilary",
-    "title": "Sv. Hilaria, biskupa a učitele církve",
-    "rank": "nezávazná památka"
+    "title": {
+     "cs": "Sv. Hilaria, biskupa a učitele církve",
+     "en": "Saint Hilary of Poitiers, bishop and doctor"
+    },
+    "rank": "optional"
    }
   ]
  },
@@ -42,8 +57,11 @@
   "saints": [
    {
     "id": "anthony_of_egypt",
-    "title": "Sv. Antonína, opata",
-    "rank": "památka"
+    "title": {
+     "cs": "Sv. Antonína, opata",
+     "en": "Saint Anthony of Egypt, abbot"
+    },
+    "rank": "memorial"
    }
   ]
  },
@@ -51,8 +69,11 @@
   "saints": [
    {
     "id": "bvm_unity",
-    "title": "Panny Marie, Matky jednoty křesťanů",
-    "rank": "památka"
+    "title": {
+     "cs": "Panny Marie, Matky jednoty křesťanů",
+     "en": "Blessed Virgin Mary, Mother of Christian Unity"
+    },
+    "rank": "memorial"
    }
   ]
  },
@@ -60,13 +81,19 @@
   "saints": [
    {
     "id": "fabian",
-    "title": "Sv. Fabiána, papeže a mučedníka",
-    "rank": "nezávazná památka"
+    "title": {
+     "cs": "Sv. Fabiána, papeže a mučedníka",
+     "en": "Saint Fabian, pope and martyr"
+    },
+    "rank": "optional"
    },
    {
     "id": "sebastian",
-    "title": "Sv. Šebestiána, mučedníka",
-    "rank": "nezávazná památka"
+    "title": {
+     "cs": "Sv. Šebestiána, mučedníka",
+     "en": "Saint Sebastian, martyr"
+    },
+    "rank": "optional"
    }
   ]
  },
@@ -74,8 +101,11 @@
   "saints": [
    {
     "id": "agnes",
-    "title": "Sv. Anežky Římské, panny a mučednice",
-    "rank": "památka"
+    "title": {
+     "cs": "Sv. Anežky Římské, panny a mučednice",
+     "en": "Saint Agnes, virgin and martyr"
+    },
+    "rank": "memorial"
    }
   ]
  },
@@ -83,8 +113,11 @@
   "saints": [
    {
     "id": "vincent_deacon",
-    "title": "Sv. Vincence, jáhna a mučedníka",
-    "rank": "nezávazná památka"
+    "title": {
+     "cs": "Sv. Vincence, jáhna a mučedníka",
+     "en": "Saint Vincent, deacon and martyr"
+    },
+    "rank": "optional"
    }
   ]
  },
@@ -92,8 +125,11 @@
   "saints": [
    {
     "id": "francis_de_sales",
-    "title": "Sv. Františka Saleského, biskupa a učitele církve",
-    "rank": "památka"
+    "title": {
+     "cs": "Sv. Františka Saleského, biskupa a učitele církve",
+     "en": "Saint Francis de Sales, bishop and doctor"
+    },
+    "rank": "memorial"
    }
   ]
  },
@@ -101,8 +137,11 @@
   "saints": [
    {
     "id": "paul_conversion",
-    "title": "Obrácení svatého Pavla, apoštola",
-    "rank": "svátek"
+    "title": {
+     "cs": "Obrácení svatého Pavla, apoštola",
+     "en": "The Conversion of Saint Paul, apostle"
+    },
+    "rank": "feast"
    }
   ]
  },
@@ -110,8 +149,11 @@
   "saints": [
    {
     "id": "timothy_titus",
-    "title": "Sv. Timoteje a Tita, biskupů",
-    "rank": "památka"
+    "title": {
+     "cs": "Sv. Timoteje a Tita, biskupů",
+     "en": "Saints Timothy and Titus, bishops"
+    },
+    "rank": "memorial"
    }
   ]
  },
@@ -119,8 +161,11 @@
   "saints": [
    {
     "id": "merici",
-    "title": "Sv. Anděly Mericiové, panny",
-    "rank": "nezávazná památka"
+    "title": {
+     "cs": "Sv. Anděly Mericiové, panny",
+     "en": "Saint Angela Merici, virgin"
+    },
+    "rank": "optional"
    }
   ]
  },
@@ -128,8 +173,11 @@
   "saints": [
    {
     "id": "aquinas",
-    "title": "Sv. Tomáše Akvinského, kněze a učitele církve",
-    "rank": "památka"
+    "title": {
+     "cs": "Sv. Tomáše Akvinského, kněze a učitele církve",
+     "en": "Saint Thomas Aquinas, priest and doctor"
+    },
+    "rank": "memorial"
    }
   ]
  },
@@ -137,8 +185,11 @@
   "saints": [
    {
     "id": "bosco",
-    "title": "Sv. Jana Boska, kněze",
-    "rank": "památka"
+    "title": {
+     "cs": "Sv. Jana Boska, kněze",
+     "en": "Saint John Bosco, priest"
+    },
+    "rank": "memorial"
    }
   ]
  },
@@ -146,8 +197,11 @@
   "saints": [
    {
     "id": "presentation_of_lord",
-    "title": "Uvedení Páně do chrámu",
-    "rank": "svátek"
+    "title": {
+     "cs": "Uvedení Páně do chrámu",
+     "en": "Presentation of the Lord"
+    },
+    "rank": "feast"
    }
   ]
  },
@@ -155,13 +209,19 @@
   "saints": [
    {
     "id": "blase",
-    "title": "Sv. Blažeje, biskupa a mučedníka",
-    "rank": "nezávazná památka"
+    "title": {
+     "cs": "Sv. Blažeje, biskupa a mučedníka",
+     "en": "Saint Blase, bishop and martyr"
+    },
+    "rank": "optional"
    },
    {
     "id": "ansgar",
-    "title": "Sv. Ansgara, biskupa",
-    "rank": "nezávazná památka"
+    "title": {
+     "cs": "Sv. Ansgara, biskupa",
+     "en": "Saint Ansgar, bishop"
+    },
+    "rank": "optional"
    }
   ]
  },
@@ -169,8 +229,11 @@
   "saints": [
    {
     "id": "agatha",
-    "title": "Sv. Agáty, panny a mučednice",
-    "rank": "památka"
+    "title": {
+     "cs": "Sv. Agáty, panny a mučednice",
+     "en": "Saint Agatha, virgin and martyr"
+    },
+    "rank": "memorial"
    }
   ]
  },
@@ -178,8 +241,11 @@
   "saints": [
    {
     "id": "paul_miki",
-    "title": "Sv. Pavla Mikiho a druhů, mučedníků",
-    "rank": "památka"
+    "title": {
+     "cs": "Sv. Pavla Mikiho a druhů, mučedníků",
+     "en": "Saints Paul Miki and companions, martyrs"
+    },
+    "rank": "memorial"
    }
   ]
  },
@@ -187,13 +253,19 @@
   "saints": [
    {
     "id": "jerome_emiliani",
-    "title": "Sv. Jeronýma Emilianiho",
-    "rank": "nezávazná památka"
+    "title": {
+     "cs": "Sv. Jeronýma Emilianiho",
+     "en": "Saint Jerome Emiliani, priest"
+    },
+    "rank": "optional"
    },
    {
     "id": "josephine_bakhita",
-    "title": "Sv. Josefiny Bakhity, panny",
-    "rank": "nezávazná památka"
+    "title": {
+     "cs": "Sv. Josefiny Bakhity, panny",
+     "en": "Saint Josephine Bakhita, virgin"
+    },
+    "rank": "optional"
    }
   ]
  },
@@ -201,8 +273,11 @@
   "saints": [
    {
     "id": "scholastica",
-    "title": "Sv. Scholastiky, panny",
-    "rank": "památka"
+    "title": {
+     "cs": "Sv. Scholastiky, panny",
+     "en": "Saint Scholastica, virgin"
+    },
+    "rank": "memorial"
    }
   ]
  },
@@ -210,8 +285,11 @@
   "saints": [
    {
     "id": "bvm_lourdes",
-    "title": "Panny Marie Lurdské",
-    "rank": "nezávazná památka"
+    "title": {
+     "cs": "Panny Marie Lurdské",
+     "en": "Our Lady of Lourdes"
+    },
+    "rank": "optional"
    }
   ]
  },
@@ -219,8 +297,11 @@
   "saints": [
    {
     "id": "servite_founders",
-    "title": "Sv. Alexia a druhů, řeholníků",
-    "rank": "nezávazná památka"
+    "title": {
+     "cs": "Sv. Alexia a druhů, řeholníků",
+     "en": "Seven Holy Founders of the Servite Order"
+    },
+    "rank": "optional"
    }
   ]
  },
@@ -228,8 +309,11 @@
   "saints": [
    {
     "id": "peter_damian",
-    "title": "Sv. Petra Damianiho, biskupa a učitele církve",
-    "rank": "nezávazná památka"
+    "title": {
+     "cs": "Sv. Petra Damianiho, biskupa a učitele církve",
+     "en": "Saint Peter Damian, bishop and doctor of the Church"
+    },
+    "rank": "optional"
    }
   ]
  },
@@ -237,8 +321,11 @@
   "saints": [
    {
     "id": "chair_of_peter",
-    "title": "Stolce svatého Petra, apoštola",
-    "rank": "svátek"
+    "title": {
+     "cs": "Stolce svatého Petra, apoštola",
+     "en": "Chair of Saint Peter, apostle"
+    },
+    "rank": "feast"
    }
   ]
  },
@@ -246,8 +333,11 @@
   "saints": [
    {
     "id": "polycarp",
-    "title": "Sv. Polykarpa, biskupa a mučedníka",
-    "rank": "památka"
+    "title": {
+     "cs": "Sv. Polykarpa, biskupa a mučedníka",
+     "en": "Saint Polycarp, bishop and martyr"
+    },
+    "rank": "memorial"
    }
   ]
  },
@@ -255,8 +345,11 @@
   "saints": [
    {
     "id": "gregory_of_narek",
-    "title": "Sv. Řehoře z Nareku, opata a učitele církve",
-    "rank": "nezávazná památka"
+    "title": {
+     "cs": "Sv. Řehoře z Nareku, opata a učitele církve",
+     "en": "Saint Gregory of Narek, abbot and doctor of the Church"
+    },
+    "rank": "optional"
    }
   ]
  },
@@ -264,8 +357,11 @@
   "saints": [
    {
     "id": "casimir",
-    "title": "Sv. Kazimíra",
-    "rank": "nezávazná památka"
+    "title": {
+     "cs": "Sv. Kazimíra",
+     "en": "Saint Casimir"
+    },
+    "rank": "optional"
    }
   ]
  },
@@ -273,8 +369,11 @@
   "saints": [
    {
     "id": "perpetua_felicity",
-    "title": "Sv. Perpetuy a Felicity, mučednic",
-    "rank": "památka"
+    "title": {
+     "cs": "Sv. Perpetuy a Felicity, mučednic",
+     "en": "Saints Perpetua and Felicity, martyrs"
+    },
+    "rank": "memorial"
    }
   ]
  },
@@ -282,8 +381,11 @@
   "saints": [
    {
     "id": "john_of_god",
-    "title": "Sv. Jana z Boha, řeholníka",
-    "rank": "nezávazná památka"
+    "title": {
+     "cs": "Sv. Jana z Boha, řeholníka",
+     "en": "Saint John of God, religious"
+    },
+    "rank": "optional"
    }
   ]
  },
@@ -291,8 +393,11 @@
   "saints": [
    {
     "id": "frances_of_rome",
-    "title": "Sv. Františky Římské, řeholnice",
-    "rank": "nezávazná památka"
+    "title": {
+     "cs": "Sv. Františky Římské, řeholnice",
+     "en": "Saint Frances of Rome, religious"
+    },
+    "rank": "optional"
    }
   ]
  },
@@ -300,8 +405,11 @@
   "saints": [
    {
     "id": "ogilvie",
-    "title": "Sv. Jana Ogilvie, kněze a mučedníka",
-    "rank": "nezávazná památka"
+    "title": {
+     "cs": "Sv. Jana Ogilvie, kněze a mučedníka",
+     "en": "Saint John Ogilvie, priest and martyr"
+    },
+    "rank": "optional"
    }
   ]
  },
@@ -309,8 +417,11 @@
   "saints": [
    {
     "id": "patrick",
-    "title": "Sv. Patrika, biskupa",
-    "rank": "nezávazná památka"
+    "title": {
+     "cs": "Sv. Patrika, biskupa",
+     "en": "Saint Patrick, bishop"
+    },
+    "rank": "optional"
    }
   ]
  },
@@ -318,8 +429,11 @@
   "saints": [
    {
     "id": "cyril_of_jerusalem",
-    "title": "Sv. Cyrila Jeruzalémského, biskupa a učitele církve",
-    "rank": "nezávazná památka"
+    "title": {
+     "cs": "Sv. Cyrila Jeruzalémského, biskupa a učitele církve",
+     "en": "Saint Cyril of Jerusalem, bishop and doctor"
+    },
+    "rank": "optional"
    }
   ]
  },
@@ -327,8 +441,11 @@
   "saints": [
    {
     "id": "joseph",
-    "title": "Sv. Josefa, Snoubence Panny Marie",
-    "rank": "slavnost"
+    "title": {
+     "cs": "Sv. Josefa, Snoubence Panny Marie",
+     "en": "Saint Joseph Husband of the Blessed Virgin Mary"
+    },
+    "rank": "solemnity"
    }
   ]
  },
@@ -336,8 +453,11 @@
   "saints": [
    {
     "id": "turibius",
-    "title": "Sv. Turibia z Mongroveja, biskupa",
-    "rank": "nezávazná památka"
+    "title": {
+     "cs": "Sv. Turibia z Mongroveja, biskupa",
+     "en": "Saint Turibius of Mogrovejo, bishop"
+    },
+    "rank": "optional"
    }
   ]
  },
@@ -345,8 +465,11 @@
   "saints": [
    {
     "id": "annunciation",
-    "title": "Zvěstování Páně",
-    "rank": "slavnost"
+    "title": {
+     "cs": "Zvěstování Páně",
+     "en": "Annunciation of the Lord"
+    },
+    "rank": "solemnity"
    }
   ]
  },
@@ -354,8 +477,11 @@
   "saints": [
    {
     "id": "francis_of_paola",
-    "title": "Sv. Františka z Pauly, poustevníka",
-    "rank": "nezávazná památka"
+    "title": {
+     "cs": "Sv. Františka z Pauly, poustevníka",
+     "en": "Saint Francis of Paola, hermit"
+    },
+    "rank": "optional"
    }
   ]
  },
@@ -363,8 +489,11 @@
   "saints": [
    {
     "id": "isidore",
-    "title": "Sv. Izidora, biskupa a učitele církve",
-    "rank": "nezávazná památka"
+    "title": {
+     "cs": "Sv. Izidora, biskupa a učitele církve",
+     "en": "Saint Isidore, bishop and doctor of the Church"
+    },
+    "rank": "optional"
    }
   ]
  },
@@ -372,8 +501,11 @@
   "saints": [
    {
     "id": "vincent_ferrer",
-    "title": "Sv. Vincence Ferrerského, kněze",
-    "rank": "nezávazná památka"
+    "title": {
+     "cs": "Sv. Vincence Ferrerského, kněze",
+     "en": "Saint Vincent Ferrer, priest"
+    },
+    "rank": "optional"
    }
   ]
  },
@@ -381,8 +513,11 @@
   "saints": [
    {
     "id": "de_la_salle",
-    "title": "Sv. Jana Křtitele de la Salle, kněze",
-    "rank": "památka"
+    "title": {
+     "cs": "Sv. Jana Křtitele de la Salle, kněze",
+     "en": "Saint John Baptist de la Salle, priest"
+    },
+    "rank": "memorial"
    }
   ]
  },
@@ -390,8 +525,11 @@
   "saints": [
    {
     "id": "stanislaus",
-    "title": "Sv. Stanislava, biskupa a mučedníka",
-    "rank": "památka"
+    "title": {
+     "cs": "Sv. Stanislava, biskupa a mučedníka",
+     "en": "Saint Stanislaus, bishop and martyr"
+    },
+    "rank": "memorial"
    }
   ]
  },
@@ -399,8 +537,11 @@
   "saints": [
    {
     "id": "martin_i",
-    "title": "Sv. Martina I., papeže a mučedníka",
-    "rank": "nezávazná památka"
+    "title": {
+     "cs": "Sv. Martina I., papeže a mučedníka",
+     "en": "Saint Martin I, pope and martyr"
+    },
+    "rank": "optional"
    }
   ]
  },
@@ -408,8 +549,11 @@
   "saints": [
    {
     "id": "anselm",
-    "title": "Sv. Anselma, biskupa a učitele církve",
-    "rank": "nezávazná památka"
+    "title": {
+     "cs": "Sv. Anselma, biskupa a učitele církve",
+     "en": "Saint Anselm of Canterbury, bishop and doctor of the Church"
+    },
+    "rank": "optional"
    }
   ]
  },
@@ -417,8 +561,11 @@
   "saints": [
    {
     "id": "adalbert",
-    "title": "Sv. Vojtěcha, biskupa a mučedníka, hlavního patrona pražské arcidiecéze",
-    "rank": "svátek"
+    "title": {
+     "cs": "Sv. Vojtěcha, biskupa a mučedníka, hlavního patrona pražské arcidiecéze",
+     "en": "Saint Adalbert, bishop and martyr"
+    },
+    "rank": "feast"
    }
   ]
  },
@@ -426,13 +573,19 @@
   "saints": [
    {
     "id": "george",
-    "title": "Sv. Jiří, mučedníka",
-    "rank": "nezávazná památka"
+    "title": {
+     "cs": "Sv. Jiří, mučedníka",
+     "en": "Saint George, martyr"
+    },
+    "rank": "optional"
    },
    {
     "id": "fidelis",
-    "title": "Sv. Fidela ze Sigmaringy, kněze a mučedníka",
-    "rank": "nezávazná památka"
+    "title": {
+     "cs": "Sv. Fidela ze Sigmaringy, kněze a mučedníka",
+     "en": "Saint Fidelis of Sigmaringen, priest and martyr"
+    },
+    "rank": "optional"
    }
   ]
  },
@@ -440,8 +593,11 @@
   "saints": [
    {
     "id": "mark",
-    "title": "Sv. Marka, evangelisty",
-    "rank": "svátek"
+    "title": {
+     "cs": "Sv. Marka, evangelisty",
+     "en": "Saint Mark the Evangelist"
+    },
+    "rank": "feast"
    }
   ]
  },
@@ -449,13 +605,19 @@
   "saints": [
    {
     "id": "peter_chanel",
-    "title": "Sv. Petra Chanela, kněze a mučedníka",
-    "rank": "nezávazná památka"
+    "title": {
+     "cs": "Sv. Petra Chanela, kněze a mučedníka",
+     "en": "Saint Peter Chanel, priest and martyr"
+    },
+    "rank": "optional"
    },
    {
     "id": "de_montfort",
-    "title": "Sv. Ludvíka Marie Grigniona z Montfortu, kněze",
-    "rank": "nezávazná památka"
+    "title": {
+     "cs": "Sv. Ludvíka Marie Grigniona z Montfortu, kněze",
+     "en": "Saint Louis Grignon de Montfort, priest"
+    },
+    "rank": "optional"
    }
   ]
  },
@@ -463,8 +625,11 @@
   "saints": [
    {
     "id": "catherine_of_siena",
-    "title": "Sv. Kateřiny Sienské, panny a učitelky církve, patronky Evropy",
-    "rank": "svátek"
+    "title": {
+     "cs": "Sv. Kateřiny Sienské, panny a učitelky církve, patronky Evropy",
+     "en": "Saint Catherine of Siena, virgin and doctor of the Church"
+    },
+    "rank": "feast"
    }
   ]
  },
@@ -472,23 +637,35 @@
   "saints": [
    {
     "id": "sigismund",
-    "title": "Sv. Zikmunda, mučedníka",
-    "rank": "nezávazná památka"
+    "title": {
+     "cs": "Sv. Zikmunda, mučedníka",
+     "en": "Saint Sigismund, martyr"
+    },
+    "rank": "optional"
    },
    {
     "id": "pius_v",
-    "title": "Sv. Pia V., papeže",
-    "rank": "nezávazná památka"
+    "title": {
+     "cs": "Sv. Pia V., papeže",
+     "en": "Saint Pius V, pope"
+    },
+    "rank": "optional"
    }
   ]
  },
  "05-01": {
-  "holiday": "Svátek práce",
+  "holiday": {
+   "cs": "Svátek práce",
+   "en": "Labour Day"
+  },
   "saints": [
    {
     "id": "joseph_worker",
-    "title": "Sv. Josefa, dělníka",
-    "rank": "nezávazná památka"
+    "title": {
+     "cs": "Sv. Josefa, dělníka",
+     "en": "Saint Joseph the Worker"
+    },
+    "rank": "optional"
    }
   ]
  },
@@ -496,8 +673,11 @@
   "saints": [
    {
     "id": "athanasius",
-    "title": "Sv. Atanáše, biskupa a učitele církve",
-    "rank": "památka"
+    "title": {
+     "cs": "Sv. Atanáše, biskupa a učitele církve",
+     "en": "Saint Athanasius, bishop and doctor"
+    },
+    "rank": "memorial"
    }
   ]
  },
@@ -505,8 +685,11 @@
   "saints": [
    {
     "id": "philip_james",
-    "title": "Sv. Filipa a Jakuba, apoštolů",
-    "rank": "svátek"
+    "title": {
+     "cs": "Sv. Filipa a Jakuba, apoštolů",
+     "en": "Saints Philip and James, Apostles"
+    },
+    "rank": "feast"
    }
   ]
  },
@@ -514,18 +697,27 @@
   "saints": [
    {
     "id": "sarkander",
-    "title": "Sv. Jana Sarkandra, kněze a mučedníka",
-    "rank": "nezávazná památka"
+    "title": {
+     "cs": "Sv. Jana Sarkandra, kněze a mučedníka",
+     "en": "Saint John Sarkander, priest and martyr"
+    },
+    "rank": "optional"
    }
   ]
  },
  "05-08": {
-  "holiday": "Den vítězství",
+  "holiday": {
+   "cs": "Den vítězství",
+   "en": "Liberation Day"
+  },
   "saints": [
    {
     "id": "bvm_mediatrix",
-    "title": "Panny Marie, Prostřednice všech milostí",
-    "rank": "nezávazná památka"
+    "title": {
+     "cs": "Panny Marie, Prostřednice všech milostí",
+     "en": "Blessed Virgin Mary, Mediatrix of All Graces"
+    },
+    "rank": "optional"
    }
   ]
  },
@@ -533,8 +725,11 @@
   "saints": [
    {
     "id": "john_de_avila",
-    "title": "Sv. Jana z Avily, kněze a učitele církve",
-    "rank": "nezávazná památka"
+    "title": {
+     "cs": "Sv. Jana z Avily, kněze a učitele církve",
+     "en": "Saint John De Avila, Priest and Doctor of the Church"
+    },
+    "rank": "optional"
    }
   ]
  },
@@ -542,13 +737,19 @@
   "saints": [
    {
     "id": "nereus_achilleus",
-    "title": "Sv. Nerea a Achillea, mučedníků",
-    "rank": "nezávazná památka"
+    "title": {
+     "cs": "Sv. Nerea a Achillea, mučedníků",
+     "en": "Saints Nereus and Achilleus, martyrs"
+    },
+    "rank": "optional"
    },
    {
     "id": "pancras",
-    "title": "Sv. Pankráce, mučedníka",
-    "rank": "nezávazná památka"
+    "title": {
+     "cs": "Sv. Pankráce, mučedníka",
+     "en": "Saint Pancras, martyr"
+    },
+    "rank": "optional"
    }
   ]
  },
@@ -556,8 +757,11 @@
   "saints": [
    {
     "id": "bvm_fatima",
-    "title": "Panny Marie Fatimské",
-    "rank": "nezávazná památka"
+    "title": {
+     "cs": "Panny Marie Fatimské",
+     "en": "Our Lady of Fatima"
+    },
+    "rank": "optional"
    }
   ]
  },
@@ -565,8 +769,11 @@
   "saints": [
    {
     "id": "matthias",
-    "title": "Sv. Matěje, apoštola",
-    "rank": "svátek"
+    "title": {
+     "cs": "Sv. Matěje, apoštola",
+     "en": "Saint Matthias the Apostle"
+    },
+    "rank": "feast"
    }
   ]
  },
@@ -574,8 +781,11 @@
   "saints": [
    {
     "id": "john_nepomuk",
-    "title": "Sv. Jana Nepomuckého, kněze a mučedníka, hlavního patrona Čech",
-    "rank": "svátek"
+    "title": {
+     "cs": "Sv. Jana Nepomuckého, kněze a mučedníka, hlavního patrona Čech",
+     "en": "Saint John of Nepomuk, priest and martyr, principal patron of Bohemia"
+    },
+    "rank": "feast"
    }
   ]
  },
@@ -583,8 +793,11 @@
   "saints": [
    {
     "id": "john_i",
-    "title": "Sv. Jana I., papeže a mučedníka",
-    "rank": "nezávazná památka"
+    "title": {
+     "cs": "Sv. Jana I., papeže a mučedníka",
+     "en": "Saint John I, pope and martyr"
+    },
+    "rank": "optional"
    }
   ]
  },
@@ -592,13 +805,19 @@
   "saints": [
    {
     "id": "hofbauer",
-    "title": "Sv. Klementa Marie Hofbauera, kněze",
-    "rank": "nezávazná památka"
+    "title": {
+     "cs": "Sv. Klementa Marie Hofbauera, kněze",
+     "en": "Saint Clement Mary Hofbauer, priest"
+    },
+    "rank": "optional"
    },
    {
     "id": "bernardine",
-    "title": "Sv. Bernardina Sienského, kněze",
-    "rank": "nezávazná památka"
+    "title": {
+     "cs": "Sv. Bernardina Sienského, kněze",
+     "en": "Saint Bernardine of Siena, priest"
+    },
+    "rank": "optional"
    }
   ]
  },
@@ -606,8 +825,11 @@
   "saints": [
    {
     "id": "magallanes",
-    "title": "Sv. Kryštofa Magallanese, kněze, a druhů, mučedníků",
-    "rank": "nezávazná památka"
+    "title": {
+     "cs": "Sv. Kryštofa Magallanese, kněze, a druhů, mučedníků",
+     "en": "Saint Christopher Magallanes and companions, martyrs"
+    },
+    "rank": "optional"
    }
   ]
  },
@@ -615,8 +837,11 @@
   "saints": [
    {
     "id": "rita",
-    "title": "Sv. Rity z Cascie, řeholnice",
-    "rank": "nezávazná památka"
+    "title": {
+     "cs": "Sv. Rity z Cascie, řeholnice",
+     "en": "Saint Rita of Cascia"
+    },
+    "rank": "optional"
    }
   ]
  },
@@ -624,18 +849,27 @@
   "saints": [
    {
     "id": "bede_venerable",
-    "title": "Sv. Bedy Ctihodného, kněze a učitele církve",
-    "rank": "nezávazná památka"
+    "title": {
+     "cs": "Sv. Bedy Ctihodného, kněze a učitele církve",
+     "en": "Saint Bede the Venerable, priest and doctor"
+    },
+    "rank": "optional"
    },
    {
     "id": "gregory_vii",
-    "title": "Sv. Řehoře VII., papeže",
-    "rank": "nezávazná památka"
+    "title": {
+     "cs": "Sv. Řehoře VII., papeže",
+     "en": "Saint Gregory VII, pope"
+    },
+    "rank": "optional"
    },
    {
     "id": "de_pazzi",
-    "title": "Sv. Marie Magdalény de' Pazzi, panny",
-    "rank": "nezávazná památka"
+    "title": {
+     "cs": "Sv. Marie Magdalény de' Pazzi, panny",
+     "en": "Saint Mary Magdalene de Pazzi, virgin"
+    },
+    "rank": "optional"
    }
   ]
  },
@@ -643,8 +877,11 @@
   "saints": [
    {
     "id": "neri",
-    "title": "Sv. Filipa Neriho, kněze",
-    "rank": "památka"
+    "title": {
+     "cs": "Sv. Filipa Neriho, kněze",
+     "en": "Saint Philip Neri, priest"
+    },
+    "rank": "memorial"
    }
   ]
  },
@@ -652,8 +889,11 @@
   "saints": [
    {
     "id": "augustine_of_canterbury",
-    "title": "Sv. Augustina z Canterbury, biskupa",
-    "rank": "nezávazná památka"
+    "title": {
+     "cs": "Sv. Augustina z Canterbury, biskupa",
+     "en": "Saint Augustine (Austin) of Canterbury, bishop"
+    },
+    "rank": "optional"
    }
   ]
  },
@@ -661,8 +901,11 @@
   "saints": [
    {
     "id": "paul_vi",
-    "title": "Sv. Pavla VI., papeže",
-    "rank": "nezávazná památka"
+    "title": {
+     "cs": "Sv. Pavla VI., papeže",
+     "en": "Saint Paul VI, pope"
+    },
+    "rank": "optional"
    }
   ]
  },
@@ -670,8 +913,11 @@
   "saints": [
    {
     "id": "zdislava",
-    "title": "Sv. Zdislavy",
-    "rank": "nezávazná památka"
+    "title": {
+     "cs": "Sv. Zdislavy",
+     "en": "Saint Zdislava"
+    },
+    "rank": "optional"
    }
   ]
  },
@@ -679,8 +925,11 @@
   "saints": [
    {
     "id": "visitation",
-    "title": "Navštívení Panny Marie",
-    "rank": "svátek"
+    "title": {
+     "cs": "Navštívení Panny Marie",
+     "en": "Visitation of the Blessed Virgin Mary"
+    },
+    "rank": "feast"
    }
   ]
  },
@@ -688,8 +937,11 @@
   "saints": [
    {
     "id": "justin",
-    "title": "Sv. Justina, mučedníka",
-    "rank": "památka"
+    "title": {
+     "cs": "Sv. Justina, mučedníka",
+     "en": "Saint Justin Martyr"
+    },
+    "rank": "memorial"
    }
   ]
  },
@@ -697,8 +949,11 @@
   "saints": [
    {
     "id": "marcellinus_peter",
-    "title": "Sv. Marcelina a Petra, mučedníků",
-    "rank": "nezávazná památka"
+    "title": {
+     "cs": "Sv. Marcelina a Petra, mučedníků",
+     "en": "Saints Marcellinus and Peter, martyrs"
+    },
+    "rank": "optional"
    }
   ]
  },
@@ -706,8 +961,11 @@
   "saints": [
    {
     "id": "ugandan_martyrs",
-    "title": "Sv. Karla Lwangy a druhů, mučedníků",
-    "rank": "památka"
+    "title": {
+     "cs": "Sv. Karla Lwangy a druhů, mučedníků",
+     "en": "Saints Charles Lwanga and companions, martyrs"
+    },
+    "rank": "memorial"
    }
   ]
  },
@@ -715,8 +973,11 @@
   "saints": [
    {
     "id": "boniface",
-    "title": "Sv. Bonifáce, biskupa a mučedníka",
-    "rank": "památka"
+    "title": {
+     "cs": "Sv. Bonifáce, biskupa a mučedníka",
+     "en": "Saint Boniface, bishop and martyr"
+    },
+    "rank": "memorial"
    }
   ]
  },
@@ -724,8 +985,11 @@
   "saints": [
    {
     "id": "norbert",
-    "title": "Sv. Norberta, biskupa",
-    "rank": "nezávazná památka"
+    "title": {
+     "cs": "Sv. Norberta, biskupa",
+     "en": "Saint Norbert, bishop"
+    },
+    "rank": "optional"
    }
   ]
  },
@@ -733,8 +997,11 @@
   "saints": [
    {
     "id": "ephrem",
-    "title": "Sv. Efréma Syrského, jáhna a učitele církve",
-    "rank": "nezávazná památka"
+    "title": {
+     "cs": "Sv. Efréma Syrského, jáhna a učitele církve",
+     "en": "Saint Ephrem, deacon and doctor"
+    },
+    "rank": "optional"
    }
   ]
  },
@@ -742,8 +1009,11 @@
   "saints": [
    {
     "id": "barnabas",
-    "title": "Sv. Barnabáše, apoštola",
-    "rank": "památka"
+    "title": {
+     "cs": "Sv. Barnabáše, apoštola",
+     "en": "Saint Barnabas the Apostle"
+    },
+    "rank": "memorial"
    }
   ]
  },
@@ -751,8 +1021,11 @@
   "saints": [
    {
     "id": "anthony_of_padua",
-    "title": "Sv. Antonína z Padovy, kněze a učitele církve",
-    "rank": "památka"
+    "title": {
+     "cs": "Sv. Antonína z Padovy, kněze a učitele církve",
+     "en": "Saint Anthony of Padua, priest and doctor"
+    },
+    "rank": "memorial"
    }
   ]
  },
@@ -760,8 +1033,11 @@
   "saints": [
    {
     "id": "vitus",
-    "title": "Sv. Víta, mučedníka",
-    "rank": "nezávazná památka"
+    "title": {
+     "cs": "Sv. Víta, mučedníka",
+     "en": "Saint Vitus, martyr"
+    },
+    "rank": "optional"
    }
   ]
  },
@@ -769,13 +1045,19 @@
   "saints": [
    {
     "id": "neumann",
-    "title": "Sv. Jana Nepomuckého Neumanna, biskupa",
-    "rank": "nezávazná památka"
+    "title": {
+     "cs": "Sv. Jana Nepomuckého Neumanna, biskupa",
+     "en": "Saint John Nepomucene Neumann, bishop"
+    },
+    "rank": "optional"
    },
    {
     "id": "romuald",
-    "title": "Sv. Romualda, opata",
-    "rank": "nezávazná památka"
+    "title": {
+     "cs": "Sv. Romualda, opata",
+     "en": "Saint Romuald, abbot"
+    },
+    "rank": "optional"
    }
   ]
  },
@@ -783,8 +1065,11 @@
   "saints": [
    {
     "id": "aloysius",
-    "title": "Sv. Aloise Gonzagy, řeholníka",
-    "rank": "památka"
+    "title": {
+     "cs": "Sv. Aloise Gonzagy, řeholníka",
+     "en": "Saint Aloysius Gonzaga, religious"
+    },
+    "rank": "memorial"
    }
   ]
  },
@@ -792,13 +1077,19 @@
   "saints": [
    {
     "id": "paulinus",
-    "title": "Sv. Paulína Nolánského, biskupa",
-    "rank": "nezávazná památka"
+    "title": {
+     "cs": "Sv. Paulína Nolánského, biskupa",
+     "en": "Saint Paulinus of Nola, bishop"
+    },
+    "rank": "optional"
    },
    {
     "id": "fisher_more",
-    "title": "Sv. Jana Fishera, biskupa a Tomáše Mora, mučedníků",
-    "rank": "nezávazná památka"
+    "title": {
+     "cs": "Sv. Jana Fishera, biskupa a Tomáše Mora, mučedníků",
+     "en": "Saints John Fisher, bishop and martyr and Thomas More, martyr"
+    },
+    "rank": "optional"
    }
   ]
  },
@@ -806,8 +1097,11 @@
   "saints": [
    {
     "id": "baptist_birth",
-    "title": "Narození svatého Jana Křtitele",
-    "rank": "slavnost"
+    "title": {
+     "cs": "Narození svatého Jana Křtitele",
+     "en": "Birth of Saint John the Baptist"
+    },
+    "rank": "solemnity"
    }
   ]
  },
@@ -815,8 +1109,11 @@
   "saints": [
    {
     "id": "cyril_of_alexandria",
-    "title": "Sv. Cyrila Alexandrijského, biskupa a učitele církve",
-    "rank": "nezávazná památka"
+    "title": {
+     "cs": "Sv. Cyrila Alexandrijského, biskupa a učitele církve",
+     "en": "Saint Cyril of Alexandria, bishop and doctor"
+    },
+    "rank": "optional"
    }
   ]
  },
@@ -824,8 +1121,11 @@
   "saints": [
    {
     "id": "irenaeus",
-    "title": "Sv. Ireneje, biskupa a mučedníka",
-    "rank": "památka"
+    "title": {
+     "cs": "Sv. Ireneje, biskupa a mučedníka",
+     "en": "Saint Irenaeus, bishop and martyr"
+    },
+    "rank": "memorial"
    }
   ]
  },
@@ -833,8 +1133,11 @@
   "saints": [
    {
     "id": "peter_paul",
-    "title": "Sv. Petra a Pavla, apoštolů, hlavních patronů brněnské diecéze",
-    "rank": "slavnost"
+    "title": {
+     "cs": "Sv. Petra a Pavla, apoštolů, hlavních patronů brněnské diecéze",
+     "en": "Saints Peter and Paul, Apostles"
+    },
+    "rank": "solemnity"
    }
   ]
  },
@@ -842,8 +1145,11 @@
   "saints": [
    {
     "id": "first_martyrs_of_rome",
-    "title": "Svatých prvomučedníků římských",
-    "rank": "nezávazná památka"
+    "title": {
+     "cs": "Svatých prvomučedníků římských",
+     "en": "First Martyrs of the Church of Rome"
+    },
+    "rank": "optional"
    }
   ]
  },
@@ -851,8 +1157,11 @@
   "saints": [
    {
     "id": "thomas_apostle",
-    "title": "Sv. Tomáše, apoštola",
-    "rank": "svátek"
+    "title": {
+     "cs": "Sv. Tomáše, apoštola",
+     "en": "Saint Thomas the Apostle"
+    },
+    "rank": "feast"
    }
   ]
  },
@@ -860,13 +1169,19 @@
   "saints": [
    {
     "id": "procopius",
-    "title": "Sv. Prokopa, opata",
-    "rank": "nezávazná památka"
+    "title": {
+     "cs": "Sv. Prokopa, opata",
+     "en": "Saint Procopius, abbot"
+    },
+    "rank": "optional"
    },
    {
     "id": "elizabeth_of_portugal",
-    "title": "Sv. Alžběty Portugalské",
-    "rank": "nezávazná památka"
+    "title": {
+     "cs": "Sv. Alžběty Portugalské",
+     "en": "Saint Elizabeth of Portugal"
+    },
+    "rank": "optional"
    }
   ]
  },
@@ -874,18 +1189,27 @@
   "saints": [
    {
     "id": "cyril_methodius",
-    "title": "Sv. Cyrila, mnicha, a Metoděje, biskupa, patronů Evropy, hlavních patronů Moravy",
-    "rank": "slavnost"
+    "title": {
+     "cs": "Sv. Cyrila, mnicha, a Metoděje, biskupa, patronů Evropy, hlavních patronů Moravy",
+     "en": "Saints Cyril, monk, and Methodius, bishop"
+    },
+    "rank": "solemnity"
    }
   ]
  },
  "07-06": {
-  "holiday": "Den upálení mistra Jana Husa",
+  "holiday": {
+   "cs": "Den upálení mistra Jana Husa",
+   "en": "Jan Hus Day"
+  },
   "saints": [
    {
     "id": "goretti",
-    "title": "Sv. Marie Gorettiové, panny a mučednice",
-    "rank": "nezávazná památka"
+    "title": {
+     "cs": "Sv. Marie Gorettiové, panny a mučednice",
+     "en": "Saint Maria Goretti, virgin and martyr"
+    },
+    "rank": "optional"
    }
   ]
  },
@@ -893,8 +1217,11 @@
   "saints": [
    {
     "id": "chinese_martyrs",
-    "title": "Sv. Augustina Žao Ronga, kněze, a druhů, mučedníků",
-    "rank": "nezávazná památka"
+    "title": {
+     "cs": "Sv. Augustina Žao Ronga, kněze, a druhů, mučedníků",
+     "en": "Saint Augustine Zhao Rong and companions, martyrs"
+    },
+    "rank": "optional"
    }
   ]
  },
@@ -902,8 +1229,11 @@
   "saints": [
    {
     "id": "benedict",
-    "title": "Sv. Benedikta, opata, patrona Evropy",
-    "rank": "svátek"
+    "title": {
+     "cs": "Sv. Benedikta, opata, patrona Evropy",
+     "en": "Saint Benedict, abbot"
+    },
+    "rank": "feast"
    }
   ]
  },
@@ -911,8 +1241,11 @@
   "saints": [
    {
     "id": "henry",
-    "title": "Sv. Jindřicha",
-    "rank": "nezávazná památka"
+    "title": {
+     "cs": "Sv. Jindřicha",
+     "en": "Saint Henry"
+    },
+    "rank": "optional"
    }
   ]
  },
@@ -920,13 +1253,19 @@
   "saints": [
    {
     "id": "hroznata",
-    "title": "Bl. Hroznaty, mučedníka",
-    "rank": "nezávazná památka"
+    "title": {
+     "cs": "Bl. Hroznaty, mučedníka",
+     "en": "Blessed Hroznata, martyr"
+    },
+    "rank": "optional"
    },
    {
     "id": "camillus_de_lellis",
-    "title": "Sv. Kamila de Lellis, kněze",
-    "rank": "nezávazná památka"
+    "title": {
+     "cs": "Sv. Kamila de Lellis, kněze",
+     "en": "Saint Camillus de Lellis, priest"
+    },
+    "rank": "optional"
    }
   ]
  },
@@ -934,8 +1273,11 @@
   "saints": [
    {
     "id": "bonaventure",
-    "title": "Sv. Bonaventury, biskupa a učitele církve",
-    "rank": "památka"
+    "title": {
+     "cs": "Sv. Bonaventury, biskupa a učitele církve",
+     "en": "Saint Bonaventure, bishop and doctor"
+    },
+    "rank": "memorial"
    }
   ]
  },
@@ -943,8 +1285,11 @@
   "saints": [
    {
     "id": "bvm_mount_carmel",
-    "title": "Panny Marie Karmelské",
-    "rank": "nezávazná památka"
+    "title": {
+     "cs": "Panny Marie Karmelské",
+     "en": "Our Lady of Mount Carmel"
+    },
+    "rank": "optional"
    }
   ]
  },
@@ -952,8 +1297,11 @@
   "saints": [
    {
     "id": "ceslaus_hyacinth",
-    "title": "Bl. Česlava a sv. Hyacinta, kněží",
-    "rank": "nezávazná památka"
+    "title": {
+     "cs": "Bl. Česlava a sv. Hyacinta, kněží",
+     "en": "Blessed Ceslaus and Saint Hyacinth, priests"
+    },
+    "rank": "optional"
    }
   ]
  },
@@ -961,8 +1309,11 @@
   "saints": [
    {
     "id": "apollinaris",
-    "title": "Sv. Apolináře, biskupa a mučedníka",
-    "rank": "nezávazná památka"
+    "title": {
+     "cs": "Sv. Apolináře, biskupa a mučedníka",
+     "en": "Saint Apollinaris, bishop and martyr"
+    },
+    "rank": "optional"
    }
   ]
  },
@@ -970,8 +1321,11 @@
   "saints": [
    {
     "id": "lawrence_of_brindisi",
-    "title": "Sv. Vavřince z Brindisi, kněze a učitele církve",
-    "rank": "nezávazná památka"
+    "title": {
+     "cs": "Sv. Vavřince z Brindisi, kněze a učitele církve",
+     "en": "Saint Lawrence of Brindisi, priest and doctor"
+    },
+    "rank": "optional"
    }
   ]
  },
@@ -979,8 +1333,11 @@
   "saints": [
    {
     "id": "mary_magdalene",
-    "title": "Sv. Marie Magdalény",
-    "rank": "svátek"
+    "title": {
+     "cs": "Sv. Marie Magdalény",
+     "en": "Saint Mary Magdalene"
+    },
+    "rank": "feast"
    }
   ]
  },
@@ -988,8 +1345,11 @@
   "saints": [
    {
     "id": "birgitta",
-    "title": "Sv. Brigity, řeholnice, patronky Evropy",
-    "rank": "svátek"
+    "title": {
+     "cs": "Sv. Brigity, řeholnice, patronky Evropy",
+     "en": "Saint Birgitta, religious"
+    },
+    "rank": "feast"
    }
   ]
  },
@@ -997,8 +1357,11 @@
   "saints": [
    {
     "id": "sharbel",
-    "title": "Sv. Šarbela Makhlufa, kněze",
-    "rank": "nezávazná památka"
+    "title": {
+     "cs": "Sv. Šarbela Makhlufa, kněze",
+     "en": "Saint Sharbel Makhluf, hermit"
+    },
+    "rank": "optional"
    }
   ]
  },
@@ -1006,8 +1369,11 @@
   "saints": [
    {
     "id": "james",
-    "title": "Sv. Jakuba, apoštola",
-    "rank": "svátek"
+    "title": {
+     "cs": "Sv. Jakuba, apoštola",
+     "en": "Saint James, apostle"
+    },
+    "rank": "feast"
    }
   ]
  },
@@ -1015,8 +1381,11 @@
   "saints": [
    {
     "id": "joachim_anne",
-    "title": "Sv. Jáchyma a Anny, rodičů Panny Marie",
-    "rank": "památka"
+    "title": {
+     "cs": "Sv. Jáchyma a Anny, rodičů Panny Marie",
+     "en": "Saints Joachim and Anne"
+    },
+    "rank": "memorial"
    }
   ]
  },
@@ -1024,8 +1393,11 @@
   "saints": [
    {
     "id": "gorazd",
-    "title": "Sv. Gorazda a druhů",
-    "rank": "nezávazná památka"
+    "title": {
+     "cs": "Sv. Gorazda a druhů",
+     "en": "Saint Gorazd and companions"
+    },
+    "rank": "optional"
    }
   ]
  },
@@ -1033,8 +1405,11 @@
   "saints": [
    {
     "id": "martha_mary_lazarus",
-    "title": "Sv. Marty, Marie a Lazara",
-    "rank": "památka"
+    "title": {
+     "cs": "Sv. Marty, Marie a Lazara",
+     "en": "Saints Martha, Mary and Lazarus"
+    },
+    "rank": "memorial"
    }
   ]
  },
@@ -1042,8 +1417,11 @@
   "saints": [
    {
     "id": "peter_chrysologus",
-    "title": "Sv. Petra Chryzologa, biskupa a učitele církve",
-    "rank": "nezávazná památka"
+    "title": {
+     "cs": "Sv. Petra Chryzologa, biskupa a učitele církve",
+     "en": "Saint Peter Chrysologus, bishop and doctor"
+    },
+    "rank": "optional"
    }
   ]
  },
@@ -1051,8 +1429,11 @@
   "saints": [
    {
     "id": "ignatius_of_loyola",
-    "title": "Sv. Ignáce z Loyoly, kněze",
-    "rank": "památka"
+    "title": {
+     "cs": "Sv. Ignáce z Loyoly, kněze",
+     "en": "Saint Ignatius of Loyola, priest"
+    },
+    "rank": "memorial"
    }
   ]
  },
@@ -1060,8 +1441,11 @@
   "saints": [
    {
     "id": "alphonsus",
-    "title": "Sv. Alfonsa Marie z Liguori, biskupa a učitele církve",
-    "rank": "památka"
+    "title": {
+     "cs": "Sv. Alfonsa Marie z Liguori, biskupa a učitele církve",
+     "en": "Saint Alphonsus Maria de Liguori, bishop and doctor of the Church"
+    },
+    "rank": "memorial"
    }
   ]
  },
@@ -1069,13 +1453,19 @@
   "saints": [
    {
     "id": "eusebius",
-    "title": "Sv. Eusebia z Vercelli, biskupa",
-    "rank": "nezávazná památka"
+    "title": {
+     "cs": "Sv. Eusebia z Vercelli, biskupa",
+     "en": "Saint Eusebius of Vercelli, bishop"
+    },
+    "rank": "optional"
    },
    {
     "id": "eymard",
-    "title": "Sv. Petra Juliána Eymarda, kněze",
-    "rank": "nezávazná památka"
+    "title": {
+     "cs": "Sv. Petra Juliána Eymarda, kněze",
+     "en": "Saint Peter Julian Eymard, priest"
+    },
+    "rank": "optional"
    }
   ]
  },
@@ -1083,8 +1473,11 @@
   "saints": [
    {
     "id": "vianney",
-    "title": "Sv. Jana Marie Vianneye, kněze",
-    "rank": "památka"
+    "title": {
+     "cs": "Sv. Jana Marie Vianneye, kněze",
+     "en": "Saint Jean Vianney (the Curé of Ars), priest"
+    },
+    "rank": "memorial"
    }
   ]
  },
@@ -1092,8 +1485,11 @@
   "saints": [
    {
     "id": "mary_major",
-    "title": "Posvěcení římské baziliky Panny Marie",
-    "rank": "nezávazná památka"
+    "title": {
+     "cs": "Posvěcení římské baziliky Panny Marie",
+     "en": "Dedication of the Basilica of Saint Mary Major"
+    },
+    "rank": "optional"
    }
   ]
  },
@@ -1101,8 +1497,11 @@
   "saints": [
    {
     "id": "transfiguration",
-    "title": "Proměnění Páně",
-    "rank": "svátek"
+    "title": {
+     "cs": "Proměnění Páně",
+     "en": "Transfiguration of the Lord"
+    },
+    "rank": "feast"
    }
   ]
  },
@@ -1110,13 +1509,19 @@
   "saints": [
    {
     "id": "sixtus_ii",
-    "title": "Sv. Sixta II., papeže, a druhů, mučedníků",
-    "rank": "nezávazná památka"
+    "title": {
+     "cs": "Sv. Sixta II., papeže, a druhů, mučedníků",
+     "en": "Saint Sixtus II, pope, and companions, martyrs"
+    },
+    "rank": "optional"
    },
    {
     "id": "cajetan",
-    "title": "Sv. Kajetána, kněze",
-    "rank": "nezávazná památka"
+    "title": {
+     "cs": "Sv. Kajetána, kněze",
+     "en": "Saint Cajetan, priest"
+    },
+    "rank": "optional"
    }
   ]
  },
@@ -1124,8 +1529,11 @@
   "saints": [
    {
     "id": "dominic",
-    "title": "Sv. Dominika, kněze",
-    "rank": "památka"
+    "title": {
+     "cs": "Sv. Dominika, kněze",
+     "en": "Saint Dominic, priest"
+    },
+    "rank": "memorial"
    }
   ]
  },
@@ -1133,8 +1541,11 @@
   "saints": [
    {
     "id": "stein",
-    "title": "Sv. Terezie Benedikty od Kříže, panny a mučednice, patronky Evropy",
-    "rank": "svátek"
+    "title": {
+     "cs": "Sv. Terezie Benedikty od Kříže, panny a mučednice, patronky Evropy",
+     "en": "Saint Teresa Benedicta of the Cross (Edith Stein), virgin and martyr"
+    },
+    "rank": "feast"
    }
   ]
  },
@@ -1142,8 +1553,11 @@
   "saints": [
    {
     "id": "lawrence",
-    "title": "Sv. Vavřince, mučedníka",
-    "rank": "svátek"
+    "title": {
+     "cs": "Sv. Vavřince, mučedníka",
+     "en": "Saint Lawrence, deacon and martyr"
+    },
+    "rank": "feast"
    }
   ]
  },
@@ -1151,8 +1565,11 @@
   "saints": [
    {
     "id": "clare",
-    "title": "Sv. Kláry, panny",
-    "rank": "památka"
+    "title": {
+     "cs": "Sv. Kláry, panny",
+     "en": "Saint Clare, virgin"
+    },
+    "rank": "memorial"
    }
   ]
  },
@@ -1160,8 +1577,11 @@
   "saints": [
    {
     "id": "de_chantal",
-    "title": "Sv. Jany Františky de Chantal, řeholnice",
-    "rank": "nezávazná památka"
+    "title": {
+     "cs": "Sv. Jany Františky de Chantal, řeholnice",
+     "en": "Saint Jane Frances de Chantal, religious"
+    },
+    "rank": "optional"
    }
   ]
  },
@@ -1169,8 +1589,11 @@
   "saints": [
    {
     "id": "pontian_hippolytus",
-    "title": "Sv. Ponciána, papeže, a Hippolyta, kněze, mučedníků",
-    "rank": "nezávazná památka"
+    "title": {
+     "cs": "Sv. Ponciána, papeže, a Hippolyta, kněze, mučedníků",
+     "en": "Saints Pontian, pope, and Hippolytus, priest, martyrs"
+    },
+    "rank": "optional"
    }
   ]
  },
@@ -1178,8 +1601,11 @@
   "saints": [
    {
     "id": "kolbe",
-    "title": "Sv. Maxmiliána Marie Kolbeho, kněze a mučedníka",
-    "rank": "památka"
+    "title": {
+     "cs": "Sv. Maxmiliána Marie Kolbeho, kněze a mučedníka",
+     "en": "Saint Maximilian Mary Kolbe, priest and martyr"
+    },
+    "rank": "memorial"
    }
   ]
  },
@@ -1187,8 +1613,11 @@
   "saints": [
    {
     "id": "assumption",
-    "title": "Nanebevzetí Panny Marie",
-    "rank": "slavnost"
+    "title": {
+     "cs": "Nanebevzetí Panny Marie",
+     "en": "Assumption of the Blessed Virgin Mary"
+    },
+    "rank": "solemnity"
    }
   ]
  },
@@ -1196,8 +1625,11 @@
   "saints": [
    {
     "id": "stephen_hungary",
-    "title": "Sv. Štěpána Uherského",
-    "rank": "nezávazná památka"
+    "title": {
+     "cs": "Sv. Štěpána Uherského",
+     "en": "Saint Stephen of Hungary"
+    },
+    "rank": "optional"
    }
   ]
  },
@@ -1205,8 +1637,11 @@
   "saints": [
    {
     "id": "eudes",
-    "title": "Sv. Jana Eudese, kněze",
-    "rank": "nezávazná památka"
+    "title": {
+     "cs": "Sv. Jana Eudese, kněze",
+     "en": "Saint John Eudes, priest"
+    },
+    "rank": "optional"
    }
   ]
  },
@@ -1214,8 +1649,11 @@
   "saints": [
    {
     "id": "bernard",
-    "title": "Sv. Bernarda, opata a učitele církve",
-    "rank": "památka"
+    "title": {
+     "cs": "Sv. Bernarda, opata a učitele církve",
+     "en": "Saint Bernard of Clairvaux, abbot and doctor of the Church"
+    },
+    "rank": "memorial"
    }
   ]
  },
@@ -1223,8 +1661,11 @@
   "saints": [
    {
     "id": "pius_x",
-    "title": "Sv. Pia X., papeže",
-    "rank": "památka"
+    "title": {
+     "cs": "Sv. Pia X., papeže",
+     "en": "Saint Pius X, pope"
+    },
+    "rank": "memorial"
    }
   ]
  },
@@ -1232,8 +1673,11 @@
   "saints": [
    {
     "id": "bvm_queenship",
-    "title": "Panny Marie Královny",
-    "rank": "památka"
+    "title": {
+     "cs": "Panny Marie Královny",
+     "en": "Queenship of Blessed Virgin Mary"
+    },
+    "rank": "memorial"
    }
   ]
  },
@@ -1241,8 +1685,11 @@
   "saints": [
    {
     "id": "rose_lima",
-    "title": "Sv. Růženy z Limy, panny",
-    "rank": "nezávazná památka"
+    "title": {
+     "cs": "Sv. Růženy z Limy, panny",
+     "en": "Saint Rose of Lima, virgin"
+    },
+    "rank": "optional"
    }
   ]
  },
@@ -1250,8 +1697,11 @@
   "saints": [
    {
     "id": "bartholomew",
-    "title": "Sv. Bartoloměje, apoštola",
-    "rank": "svátek"
+    "title": {
+     "cs": "Sv. Bartoloměje, apoštola",
+     "en": "Saint Bartholomew the Apostle"
+    },
+    "rank": "feast"
    }
   ]
  },
@@ -1259,18 +1709,27 @@
   "saints": [
    {
     "id": "five_camaldolese",
-    "title": "Sv. Benedikta, Jana, Matouše, Izáka a Kristina, mučedníků",
-    "rank": "nezávazná památka"
+    "title": {
+     "cs": "Sv. Benedikta, Jana, Matouše, Izáka a Kristina, mučedníků",
+     "en": "Saints Benedict, John, Matthew, Isaac and Christinus, martyrs"
+    },
+    "rank": "optional"
    },
    {
     "id": "louis",
-    "title": "Sv. Ludvíka",
-    "rank": "nezávazná památka"
+    "title": {
+     "cs": "Sv. Ludvíka",
+     "en": "Saint Louis"
+    },
+    "rank": "optional"
    },
    {
     "id": "joseph_calasanz",
-    "title": "Sv. Josefa Kalasanského, kněze",
-    "rank": "nezávazná památka"
+    "title": {
+     "cs": "Sv. Josefa Kalasanského, kněze",
+     "en": "Saint Joseph of Calasanz, priest"
+    },
+    "rank": "optional"
    }
   ]
  },
@@ -1278,8 +1737,11 @@
   "saints": [
    {
     "id": "monica",
-    "title": "Sv. Moniky",
-    "rank": "památka"
+    "title": {
+     "cs": "Sv. Moniky",
+     "en": "Saint Monica"
+    },
+    "rank": "memorial"
    }
   ]
  },
@@ -1287,8 +1749,11 @@
   "saints": [
    {
     "id": "augustine",
-    "title": "Sv. Augustina, biskupa a učitele církve",
-    "rank": "památka"
+    "title": {
+     "cs": "Sv. Augustina, biskupa a učitele církve",
+     "en": "Saint Augustine of Hippo, bishop and doctor of the Church"
+    },
+    "rank": "memorial"
    }
   ]
  },
@@ -1296,8 +1761,11 @@
   "saints": [
    {
     "id": "baptist_beheading",
-    "title": "Umučení sv. Jana Křtitele",
-    "rank": "památka"
+    "title": {
+     "cs": "Umučení sv. Jana Křtitele",
+     "en": "The Beheading of Saint John the Baptist, martyr"
+    },
+    "rank": "memorial"
    }
   ]
  },
@@ -1305,8 +1773,11 @@
   "saints": [
    {
     "id": "gregory_great",
-    "title": "Sv. Řehoře Velikého, papeže a učitele církve",
-    "rank": "památka"
+    "title": {
+     "cs": "Sv. Řehoře Velikého, papeže a učitele církve",
+     "en": "Saint Gregory the Great, pope and doctor"
+    },
+    "rank": "memorial"
    }
   ]
  },
@@ -1314,8 +1785,11 @@
   "saints": [
    {
     "id": "teresa_calcutta",
-    "title": "Sv. Terezie z Kalkaty, panny",
-    "rank": "nezávazná památka"
+    "title": {
+     "cs": "Sv. Terezie z Kalkaty, panny",
+     "en": "Saint Teresa of Calcutta, virgin"
+    },
+    "rank": "optional"
    }
   ]
  },
@@ -1323,8 +1797,11 @@
   "saints": [
    {
     "id": "grodecky",
-    "title": "Sv. Melichara Grodeckého, kněze a mučedníka",
-    "rank": "nezávazná památka"
+    "title": {
+     "cs": "Sv. Melichara Grodeckého, kněze a mučedníka",
+     "en": "Saint Melchior Grodziecki, priest and martyr"
+    },
+    "rank": "optional"
    }
   ]
  },
@@ -1332,8 +1809,11 @@
   "saints": [
    {
     "id": "bvm_birth",
-    "title": "Narození Panny Marie",
-    "rank": "svátek"
+    "title": {
+     "cs": "Narození Panny Marie",
+     "en": "Birth of the Blessed Virgin Mary"
+    },
+    "rank": "feast"
    }
   ]
  },
@@ -1341,8 +1821,11 @@
   "saints": [
    {
     "id": "claver",
-    "title": "Sv. Petra Klavera, kněze",
-    "rank": "nezávazná památka"
+    "title": {
+     "cs": "Sv. Petra Klavera, kněze",
+     "en": "Saint Peter Claver, priest"
+    },
+    "rank": "optional"
    }
   ]
  },
@@ -1350,8 +1833,11 @@
   "saints": [
    {
     "id": "spinola",
-    "title": "Bl. Karla Spinoly, kněze a mučedníka",
-    "rank": "nezávazná památka"
+    "title": {
+     "cs": "Bl. Karla Spinoly, kněze a mučedníka",
+     "en": "Blessed Charles Spinola, priest and martyr"
+    },
+    "rank": "optional"
    }
   ]
  },
@@ -1359,8 +1845,11 @@
   "saints": [
    {
     "id": "bvm_name",
-    "title": "Jména Panny Marie",
-    "rank": "nezávazná památka"
+    "title": {
+     "cs": "Jména Panny Marie",
+     "en": "Holy Name of the Blessed Virgin Mary"
+    },
+    "rank": "optional"
    }
   ]
  },
@@ -1368,8 +1857,11 @@
   "saints": [
    {
     "id": "john_chrysostom",
-    "title": "Sv. Jana Zlatoústého, biskupa a učitele církve",
-    "rank": "památka"
+    "title": {
+     "cs": "Sv. Jana Zlatoústého, biskupa a učitele církve",
+     "en": "Saint John Chrysostom, bishop and doctor"
+    },
+    "rank": "memorial"
    }
   ]
  },
@@ -1377,8 +1869,11 @@
   "saints": [
    {
     "id": "cross",
-    "title": "Povýšení svatého kříže",
-    "rank": "svátek"
+    "title": {
+     "cs": "Povýšení svatého kříže",
+     "en": "Triumph of the Holy Cross"
+    },
+    "rank": "feast"
    }
   ]
  },
@@ -1386,8 +1881,11 @@
   "saints": [
    {
     "id": "bvm_sorrows",
-    "title": "Panny Marie Bolestné",
-    "rank": "památka"
+    "title": {
+     "cs": "Panny Marie Bolestné",
+     "en": "Our Lady of Sorrows"
+    },
+    "rank": "memorial"
    }
   ]
  },
@@ -1395,8 +1893,11 @@
   "saints": [
    {
     "id": "ludmila",
-    "title": "Sv. Ludmily, mučednice",
-    "rank": "nezávazná památka"
+    "title": {
+     "cs": "Sv. Ludmily, mučednice",
+     "en": "Saint Ludmila, martyr"
+    },
+    "rank": "optional"
    }
   ]
  },
@@ -1404,18 +1905,27 @@
   "saints": [
    {
     "id": "cornelius_cyprian",
-    "title": "Sv. Kornélia, papeže, a Cypriána, biskupa, mučedníků",
-    "rank": "nezávazná památka"
+    "title": {
+     "cs": "Sv. Kornélia, papeže, a Cypriána, biskupa, mučedníků",
+     "en": "Saints Cornelius, pope, and Cyprian, bishop, martyrs"
+    },
+    "rank": "optional"
    },
    {
     "id": "bellarmine",
-    "title": "Sv. Roberta Bellarmina, biskupa a učitele církve",
-    "rank": "nezávazná památka"
+    "title": {
+     "cs": "Sv. Roberta Bellarmina, biskupa a učitele církve",
+     "en": "Saint Robert Bellarmine, bishop and doctor"
+    },
+    "rank": "optional"
    },
    {
     "id": "hildegard",
-    "title": "Sv. Hildegardy z Bingen, panny a učitelky církve",
-    "rank": "nezávazná památka"
+    "title": {
+     "cs": "Sv. Hildegardy z Bingen, panny a učitelky církve",
+     "en": "Saint Hildegard of Bingen, Virgin and Doctor of the Church"
+    },
+    "rank": "optional"
    }
   ]
  },
@@ -1423,8 +1933,11 @@
   "saints": [
    {
     "id": "januarius",
-    "title": "Sv. Januária, biskupa a mučedníka",
-    "rank": "nezávazná památka"
+    "title": {
+     "cs": "Sv. Januária, biskupa a mučedníka",
+     "en": "Saint Januarius, bishop and martyr"
+    },
+    "rank": "optional"
    }
   ]
  },
@@ -1432,8 +1945,11 @@
   "saints": [
    {
     "id": "korean_martyrs",
-    "title": "Sv. Ondřeje Kim Tae-gỏna, kněze, Pavla Chõng Ha-sanga a druhů, mučedníků",
-    "rank": "památka"
+    "title": {
+     "cs": "Sv. Ondřeje Kim Tae-gỏna, kněze, Pavla Chõng Ha-sanga a druhů, mučedníků",
+     "en": "Saint Andrew Kim Taegon, priest, and Paul Chong Hasang and companions, martyrs"
+    },
+    "rank": "memorial"
    }
   ]
  },
@@ -1441,8 +1957,11 @@
   "saints": [
    {
     "id": "matthew",
-    "title": "Sv. Matouše, apoštola a evangelisty",
-    "rank": "svátek"
+    "title": {
+     "cs": "Sv. Matouše, apoštola a evangelisty",
+     "en": "Saint Matthew the Evangelist, Apostle, Evangelist"
+    },
+    "rank": "feast"
    }
   ]
  },
@@ -1450,8 +1969,11 @@
   "saints": [
    {
     "id": "padre_pio",
-    "title": "Sv. Pia z Pietrelciny, kněze",
-    "rank": "památka"
+    "title": {
+     "cs": "Sv. Pia z Pietrelciny, kněze",
+     "en": "Saint Pio of Pietrelcina (Padre Pio), priest"
+    },
+    "rank": "memorial"
    }
   ]
  },
@@ -1459,8 +1981,11 @@
   "saints": [
    {
     "id": "cosmas_damian",
-    "title": "Sv. Kosmy a Damiána, mučedníků",
-    "rank": "nezávazná památka"
+    "title": {
+     "cs": "Sv. Kosmy a Damiána, mučedníků",
+     "en": "Saints Cosmas and Damian, martyrs"
+    },
+    "rank": "optional"
    }
   ]
  },
@@ -1468,8 +1993,11 @@
   "saints": [
    {
     "id": "vincent_de_paul",
-    "title": "Sv. Vincence z Paula, kněze",
-    "rank": "památka"
+    "title": {
+     "cs": "Sv. Vincence z Paula, kněze",
+     "en": "Saint Vincent de Paul, priest"
+    },
+    "rank": "memorial"
    }
   ]
  },
@@ -1477,8 +2005,11 @@
   "saints": [
    {
     "id": "wenceslaus",
-    "title": "Sv. Václava, mučedníka, hlavního patrona českého národa",
-    "rank": "slavnost"
+    "title": {
+     "cs": "Sv. Václava, mučedníka, hlavního patrona českého národa",
+     "en": "Saint Wenceslaus, martyr"
+    },
+    "rank": "solemnity"
    }
   ]
  },
@@ -1486,8 +2017,11 @@
   "saints": [
    {
     "id": "archangels",
-    "title": "Sv. Michaela, Gabriela a Rafaela, archandělů",
-    "rank": "svátek"
+    "title": {
+     "cs": "Sv. Michaela, Gabriela a Rafaela, archandělů",
+     "en": "Saints Michael, Gabriel and Raphael, Archangels"
+    },
+    "rank": "feast"
    }
   ]
  },
@@ -1495,8 +2029,11 @@
   "saints": [
    {
     "id": "jerome",
-    "title": "Sv. Jeronýma, kněze a učitele církve",
-    "rank": "památka"
+    "title": {
+     "cs": "Sv. Jeronýma, kněze a učitele církve",
+     "en": "Saint Jerome, priest and doctor"
+    },
+    "rank": "memorial"
    }
   ]
  },
@@ -1504,8 +2041,11 @@
   "saints": [
    {
     "id": "therese_lisieux",
-    "title": "Sv. Terezie od Dítěte Ježíše, panny a učitelky církve",
-    "rank": "památka"
+    "title": {
+     "cs": "Sv. Terezie od Dítěte Ježíše, panny a učitelky církve",
+     "en": "Saint Thérèse of the Child Jesus, virgin and doctor"
+    },
+    "rank": "memorial"
    }
   ]
  },
@@ -1513,8 +2053,11 @@
   "saints": [
    {
     "id": "guardian_angels",
-    "title": "Svatých andělů strážných",
-    "rank": "památka"
+    "title": {
+     "cs": "Svatých andělů strážných",
+     "en": "Guardian Angels"
+    },
+    "rank": "memorial"
    }
   ]
  },
@@ -1522,8 +2065,11 @@
   "saints": [
    {
     "id": "francis_assisi",
-    "title": "Sv. Františka z Assisi",
-    "rank": "památka"
+    "title": {
+     "cs": "Sv. Františka z Assisi",
+     "en": "Saint Francis of Assisi"
+    },
+    "rank": "memorial"
    }
   ]
  },
@@ -1531,8 +2077,11 @@
   "saints": [
    {
     "id": "faustina_kowalska",
-    "title": "Sv. Faustiny Kowalské, panny",
-    "rank": "nezávazná památka"
+    "title": {
+     "cs": "Sv. Faustiny Kowalské, panny",
+     "en": "Saint Faustina Kowalska, virgin"
+    },
+    "rank": "optional"
    }
   ]
  },
@@ -1540,8 +2089,11 @@
   "saints": [
    {
     "id": "bruno",
-    "title": "Sv. Bruna, kněze",
-    "rank": "nezávazná památka"
+    "title": {
+     "cs": "Sv. Bruna, kněze",
+     "en": "Saint Bruno, priest"
+    },
+    "rank": "optional"
    }
   ]
  },
@@ -1549,8 +2101,11 @@
   "saints": [
    {
     "id": "bvm_rosary",
-    "title": "Panny Marie Růžencové",
-    "rank": "památka"
+    "title": {
+     "cs": "Panny Marie Růžencové",
+     "en": "Our Lady of the Rosary"
+    },
+    "rank": "memorial"
    }
   ]
  },
@@ -1558,18 +2113,27 @@
   "saints": [
    {
     "id": "denis",
-    "title": "Sv. Dionýsia, biskupa, a druhů, mučedníků",
-    "rank": "nezávazná památka"
+    "title": {
+     "cs": "Sv. Dionýsia, biskupa, a druhů, mučedníků",
+     "en": "Saint Denis and companions, martyrs"
+    },
+    "rank": "optional"
    },
    {
     "id": "leonardi",
-    "title": "Sv. Jana Leonardiho, kněze",
-    "rank": "nezávazná památka"
+    "title": {
+     "cs": "Sv. Jana Leonardiho, kněze",
+     "en": "Saint John Leonardi, priest"
+    },
+    "rank": "optional"
    },
    {
     "id": "newman",
-    "title": "Sv. Johna Henryho Newmana, kněze a učitele církve",
-    "rank": "nezávazná památka"
+    "title": {
+     "cs": "Sv. Johna Henryho Newmana, kněze a učitele církve",
+     "en": "Saint John Henry Newman, priest and Doctor of the Church"
+    },
+    "rank": "optional"
    }
   ]
  },
@@ -1577,8 +2141,11 @@
   "saints": [
    {
     "id": "john_xxiii",
-    "title": "Sv. Jana XXIII., papeže",
-    "rank": "nezávazná památka"
+    "title": {
+     "cs": "Sv. Jana XXIII., papeže",
+     "en": "Saint John XXIII, pope"
+    },
+    "rank": "optional"
    }
   ]
  },
@@ -1586,8 +2153,11 @@
   "saints": [
    {
     "id": "radim",
-    "title": "Sv. Radima, biskupa",
-    "rank": "nezávazná památka"
+    "title": {
+     "cs": "Sv. Radima, biskupa",
+     "en": "Saint Radim, bishop"
+    },
+    "rank": "optional"
    }
   ]
  },
@@ -1595,8 +2165,11 @@
   "saints": [
    {
     "id": "callistus_i",
-    "title": "Sv. Kalista I., papeže a mučedníka",
-    "rank": "nezávazná památka"
+    "title": {
+     "cs": "Sv. Kalista I., papeže a mučedníka",
+     "en": "Saint Callistus I, pope and martyr"
+    },
+    "rank": "optional"
    }
   ]
  },
@@ -1604,8 +2177,11 @@
   "saints": [
    {
     "id": "teresa_avila",
-    "title": "Sv. Terezie od Ježíše, panny a učitelky církve",
-    "rank": "památka"
+    "title": {
+     "cs": "Sv. Terezie od Ježíše, panny a učitelky církve",
+     "en": "Saint Teresa of Jesus, virgin and doctor"
+    },
+    "rank": "memorial"
    }
   ]
  },
@@ -1613,13 +2189,19 @@
   "saints": [
    {
     "id": "hedwig",
-    "title": "Sv. Hedviky, řeholnice",
-    "rank": "nezávazná památka"
+    "title": {
+     "cs": "Sv. Hedviky, řeholnice",
+     "en": "Saint Hedwig, religious"
+    },
+    "rank": "optional"
    },
    {
     "id": "alacoque",
-    "title": "Sv. Markéty Marie Alacoque, panny",
-    "rank": "nezávazná památka"
+    "title": {
+     "cs": "Sv. Markéty Marie Alacoque, panny",
+     "en": "Saint Margaret Mary Alacoque, virgin"
+    },
+    "rank": "optional"
    }
   ]
  },
@@ -1627,8 +2209,11 @@
   "saints": [
    {
     "id": "ignatius_of_antioch",
-    "title": "Sv. Ignáce Antiochijského, biskupa a mučedníka",
-    "rank": "památka"
+    "title": {
+     "cs": "Sv. Ignáce Antiochijského, biskupa a mučedníka",
+     "en": "Saint Ignatius of Antioch, bishop and martyr"
+    },
+    "rank": "memorial"
    }
   ]
  },
@@ -1636,8 +2221,11 @@
   "saints": [
    {
     "id": "luke",
-    "title": "Sv. Lukáše, evangelisty",
-    "rank": "svátek"
+    "title": {
+     "cs": "Sv. Lukáše, evangelisty",
+     "en": "Saint Luke the Evangelist"
+    },
+    "rank": "feast"
    }
   ]
  },
@@ -1645,13 +2233,19 @@
   "saints": [
    {
     "id": "brebeuf_jogues",
-    "title": "Sv. Jana de Brébeuf a Izáka Joguese, kněží, a druhů, mučedníků",
-    "rank": "nezávazná památka"
+    "title": {
+     "cs": "Sv. Jana de Brébeuf a Izáka Joguese, kněží, a druhů, mučedníků",
+     "en": "Saints Jean de Brébeuf, Isaac Jogues, priests and martyrs; and their companions, martyrs"
+    },
+    "rank": "optional"
    },
    {
     "id": "paul_of_cross",
-    "title": "Sv. Pavla od Kříže, kněze",
-    "rank": "nezávazná památka"
+    "title": {
+     "cs": "Sv. Pavla od Kříže, kněze",
+     "en": "Saint Paul of the Cross, priest"
+    },
+    "rank": "optional"
    }
   ]
  },
@@ -1659,8 +2253,11 @@
   "saints": [
    {
     "id": "karl_of_austria",
-    "title": "Bl. Karla Rakouského",
-    "rank": "nezávazná památka"
+    "title": {
+     "cs": "Bl. Karla Rakouského",
+     "en": "Blessed Charles of Austria"
+    },
+    "rank": "optional"
    }
   ]
  },
@@ -1668,8 +2265,11 @@
   "saints": [
    {
     "id": "john_paul_ii",
-    "title": "Sv. Jana Pavla II., papeže",
-    "rank": "nezávazná památka"
+    "title": {
+     "cs": "Sv. Jana Pavla II., papeže",
+     "en": "Saint John Paul II, pope"
+    },
+    "rank": "optional"
    }
   ]
  },
@@ -1677,8 +2277,11 @@
   "saints": [
    {
     "id": "john_capistrano",
-    "title": "Sv. Jana Kapistránského, kněze",
-    "rank": "nezávazná památka"
+    "title": {
+     "cs": "Sv. Jana Kapistránského, kněze",
+     "en": "Saint John of Capistrano, priest"
+    },
+    "rank": "optional"
    }
   ]
  },
@@ -1686,8 +2289,11 @@
   "saints": [
    {
     "id": "claret",
-    "title": "Sv. Antonína Marie Klareta, biskupa",
-    "rank": "nezávazná památka"
+    "title": {
+     "cs": "Sv. Antonína Marie Klareta, biskupa",
+     "en": "Saint Anthony Mary Claret, bishop"
+    },
+    "rank": "optional"
    }
   ]
  },
@@ -1695,8 +2301,11 @@
   "saints": [
    {
     "id": "simon_jude",
-    "title": "Sv. Šimona a Judy, apoštolů",
-    "rank": "svátek"
+    "title": {
+     "cs": "Sv. Šimona a Judy, apoštolů",
+     "en": "Saint Simon and Saint Jude, apostles"
+    },
+    "rank": "feast"
    }
   ]
  },
@@ -1704,8 +2313,11 @@
   "saints": [
    {
     "id": "wolfgang",
-    "title": "Sv. Wolfganga, biskupa",
-    "rank": "nezávazná památka"
+    "title": {
+     "cs": "Sv. Wolfganga, biskupa",
+     "en": "Saint Wolfgang, bishop"
+    },
+    "rank": "optional"
    }
   ]
  },
@@ -1713,8 +2325,11 @@
   "saints": [
    {
     "id": "all_saints",
-    "title": "Všech svatých",
-    "rank": "slavnost"
+    "title": {
+     "cs": "Všech svatých",
+     "en": "All Saints"
+    },
+    "rank": "solemnity"
    }
   ]
  },
@@ -1722,8 +2337,11 @@
   "saints": [
    {
     "id": "all_souls",
-    "title": "Vzpomínka na všechny věrné zemřelé",
-    "rank": "slavnost"
+    "title": {
+     "cs": "Vzpomínka na všechny věrné zemřelé",
+     "en": "All Souls"
+    },
+    "rank": "solemnity"
    }
   ]
  },
@@ -1731,8 +2349,11 @@
   "saints": [
    {
     "id": "de_porres",
-    "title": "Sv. Martina de Porres, řeholníka",
-    "rank": "nezávazná památka"
+    "title": {
+     "cs": "Sv. Martina de Porres, řeholníka",
+     "en": "Saint Martin de Porres, religious"
+    },
+    "rank": "optional"
    }
   ]
  },
@@ -1740,8 +2361,11 @@
   "saints": [
    {
     "id": "borromeo",
-    "title": "Sv. Karla Boromejského, biskupa",
-    "rank": "památka"
+    "title": {
+     "cs": "Sv. Karla Boromejského, biskupa",
+     "en": "Saint Charles Borromeo, bishop"
+    },
+    "rank": "memorial"
    }
   ]
  },
@@ -1749,8 +2373,11 @@
   "saints": [
    {
     "id": "lateran_basilica",
-    "title": "Posvěcení lateránské baziliky",
-    "rank": "svátek"
+    "title": {
+     "cs": "Posvěcení lateránské baziliky",
+     "en": "Dedication of the Lateran basilica"
+    },
+    "rank": "feast"
    }
   ]
  },
@@ -1758,8 +2385,11 @@
   "saints": [
    {
     "id": "leo_great",
-    "title": "Sv. Lva Velikého, papeže a učitele církve",
-    "rank": "památka"
+    "title": {
+     "cs": "Sv. Lva Velikého, papeže a učitele církve",
+     "en": "Saint Leo the Great, pope and doctor"
+    },
+    "rank": "memorial"
    }
   ]
  },
@@ -1767,8 +2397,11 @@
   "saints": [
    {
     "id": "martin",
-    "title": "Sv. Martina, biskupa",
-    "rank": "památka"
+    "title": {
+     "cs": "Sv. Martina, biskupa",
+     "en": "Saint Martin of Tours, bishop"
+    },
+    "rank": "memorial"
    }
   ]
  },
@@ -1776,8 +2409,11 @@
   "saints": [
    {
     "id": "josaphat",
-    "title": "Sv. Josafata, biskupa a mučedníka",
-    "rank": "památka"
+    "title": {
+     "cs": "Sv. Josafata, biskupa a mučedníka",
+     "en": "Saint Josaphat, bishop and martyr"
+    },
+    "rank": "memorial"
    }
   ]
  },
@@ -1785,8 +2421,11 @@
   "saints": [
    {
     "id": "agnes_of_bohemia",
-    "title": "Sv. Anežky České, panny",
-    "rank": "památka"
+    "title": {
+     "cs": "Sv. Anežky České, panny",
+     "en": "Saint Agnes of Bohemia, virgin"
+    },
+    "rank": "memorial"
    }
   ]
  },
@@ -1794,8 +2433,11 @@
   "saints": [
    {
     "id": "albert",
-    "title": "Sv. Alberta Velikého, biskupa a učitele církve",
-    "rank": "nezávazná památka"
+    "title": {
+     "cs": "Sv. Alberta Velikého, biskupa a učitele církve",
+     "en": "Saint Albert the Great, bishop and doctor"
+    },
+    "rank": "optional"
    }
   ]
  },
@@ -1803,13 +2445,19 @@
   "saints": [
    {
     "id": "margaret_of_scotland",
-    "title": "Sv. Markéty Skotské",
-    "rank": "nezávazná památka"
+    "title": {
+     "cs": "Sv. Markéty Skotské",
+     "en": "Saint Margaret of Scotland"
+    },
+    "rank": "optional"
    },
    {
     "id": "gertrude",
-    "title": "Sv. Gertrudy, panny",
-    "rank": "nezávazná památka"
+    "title": {
+     "cs": "Sv. Gertrudy, panny",
+     "en": "Saint Gertrude the Great, virgin"
+    },
+    "rank": "optional"
    }
   ]
  },
@@ -1817,8 +2465,11 @@
   "saints": [
    {
     "id": "elizabeth_of_hungary",
-    "title": "Sv. Alžběty Uherské, řeholnice",
-    "rank": "památka"
+    "title": {
+     "cs": "Sv. Alžběty Uherské, řeholnice",
+     "en": "Saint Elizabeth of Hungary, religious"
+    },
+    "rank": "memorial"
    }
   ]
  },
@@ -1826,8 +2477,11 @@
   "saints": [
    {
     "id": "peter_paul_basilicas",
-    "title": "Posvěcení římských bazilik svatých apoštolů Petra a Pavla",
-    "rank": "nezávazná památka"
+    "title": {
+     "cs": "Posvěcení římských bazilik svatých apoštolů Petra a Pavla",
+     "en": "Dedication of the basilicas of Saints Peter and Paul, Apostles"
+    },
+    "rank": "optional"
    }
   ]
  },
@@ -1835,8 +2489,11 @@
   "saints": [
    {
     "id": "bvm_presentation",
-    "title": "Zasvěcení Panny Marie v Jeruzalémě",
-    "rank": "památka"
+    "title": {
+     "cs": "Zasvěcení Panny Marie v Jeruzalémě",
+     "en": "Presentation of the Blessed Virgin Mary"
+    },
+    "rank": "memorial"
    }
   ]
  },
@@ -1844,8 +2501,11 @@
   "saints": [
    {
     "id": "cecilia",
-    "title": "Sv. Cecílie, panny a mučednice",
-    "rank": "památka"
+    "title": {
+     "cs": "Sv. Cecílie, panny a mučednice",
+     "en": "Saint Cecilia, virgin and martyr"
+    },
+    "rank": "memorial"
    }
   ]
  },
@@ -1853,13 +2513,19 @@
   "saints": [
    {
     "id": "clement_i",
-    "title": "Sv. Klementa I., papeže a mučedníka",
-    "rank": "nezávazná památka"
+    "title": {
+     "cs": "Sv. Klementa I., papeže a mučedníka",
+     "en": "Saint Clement I, pope and martyr"
+    },
+    "rank": "optional"
    },
    {
     "id": "columban",
-    "title": "Sv. Kolumbána, opata",
-    "rank": "nezávazná památka"
+    "title": {
+     "cs": "Sv. Kolumbána, opata",
+     "en": "Saint Columban, religious"
+    },
+    "rank": "optional"
    }
   ]
  },
@@ -1867,8 +2533,11 @@
   "saints": [
    {
     "id": "vietnamese_martyrs",
-    "title": "Sv. Ondřeje Dũng Lạca, kněze, a druhů, mučedníků",
-    "rank": "památka"
+    "title": {
+     "cs": "Sv. Ondřeje Dũng Lạca, kněze, a druhů, mučedníků",
+     "en": "Saint Andrew Dung Lac and his companions, martyrs"
+    },
+    "rank": "memorial"
    }
   ]
  },
@@ -1876,8 +2545,11 @@
   "saints": [
    {
     "id": "catherine_of_alexandria",
-    "title": "Sv. Kateřiny Alexandrijské, panny a mučednice",
-    "rank": "nezávazná památka"
+    "title": {
+     "cs": "Sv. Kateřiny Alexandrijské, panny a mučednice",
+     "en": "Saint Catherine of Alexandria"
+    },
+    "rank": "optional"
    }
   ]
  },
@@ -1885,8 +2557,11 @@
   "saints": [
    {
     "id": "andrew",
-    "title": "Sv. Ondřeje, apoštola",
-    "rank": "svátek"
+    "title": {
+     "cs": "Sv. Ondřeje, apoštola",
+     "en": "Saint Andrew the Apostle"
+    },
+    "rank": "feast"
    }
   ]
  },
@@ -1894,8 +2569,11 @@
   "saints": [
    {
     "id": "campion",
-    "title": "Sv. Edmunda Kampiána, kněze a mučedníka",
-    "rank": "nezávazná památka"
+    "title": {
+     "cs": "Sv. Edmunda Kampiána, kněze a mučedníka",
+     "en": "Saint Edmund Campion, priest and martyr"
+    },
+    "rank": "optional"
    }
   ]
  },
@@ -1903,8 +2581,11 @@
   "saints": [
    {
     "id": "francis_xavier",
-    "title": "Sv. Františka Xaverského, kněze",
-    "rank": "památka"
+    "title": {
+     "cs": "Sv. Františka Xaverského, kněze",
+     "en": "Saint Francis Xavier, priest"
+    },
+    "rank": "memorial"
    }
   ]
  },
@@ -1912,8 +2593,11 @@
   "saints": [
    {
     "id": "john_damascene",
-    "title": "Sv. Jana Damašského, kněze a učitele církve",
-    "rank": "nezávazná památka"
+    "title": {
+     "cs": "Sv. Jana Damašského, kněze a učitele církve",
+     "en": "Saint John Damascene, priest and doctor"
+    },
+    "rank": "optional"
    }
   ]
  },
@@ -1921,8 +2605,11 @@
   "saints": [
    {
     "id": "nicholas",
-    "title": "Sv. Mikuláše, biskupa",
-    "rank": "nezávazná památka"
+    "title": {
+     "cs": "Sv. Mikuláše, biskupa",
+     "en": "Saint Nicholas, bishop"
+    },
+    "rank": "optional"
    }
   ]
  },
@@ -1930,8 +2617,11 @@
   "saints": [
    {
     "id": "ambrose",
-    "title": "Sv. Ambrože, biskupa a učitele církve",
-    "rank": "památka"
+    "title": {
+     "cs": "Sv. Ambrože, biskupa a učitele církve",
+     "en": "Saint Ambrose, bishop and doctor"
+    },
+    "rank": "memorial"
    }
   ]
  },
@@ -1939,8 +2629,11 @@
   "saints": [
    {
     "id": "bvm_immaculate",
-    "title": "Panny Marie, počaté bez poskvrny prvotního hříchu",
-    "rank": "slavnost"
+    "title": {
+     "cs": "Panny Marie, počaté bez poskvrny prvotního hříchu",
+     "en": "Immaculate Conception of the Blessed Virgin Mary"
+    },
+    "rank": "solemnity"
    }
   ]
  },
@@ -1948,8 +2641,11 @@
   "saints": [
    {
     "id": "juan_diego",
-    "title": "Sv. Jana Didaka Cuauhtlatoatzina",
-    "rank": "nezávazná památka"
+    "title": {
+     "cs": "Sv. Jana Didaka Cuauhtlatoatzina",
+     "en": "Saint Juan Diego"
+    },
+    "rank": "optional"
    }
   ]
  },
@@ -1957,8 +2653,11 @@
   "saints": [
    {
     "id": "bvm_loreto",
-    "title": "Panny Marie Loretánské",
-    "rank": "nezávazná památka"
+    "title": {
+     "cs": "Panny Marie Loretánské",
+     "en": "Our Lady of Loreto"
+    },
+    "rank": "optional"
    }
   ]
  },
@@ -1966,8 +2665,11 @@
   "saints": [
    {
     "id": "damasus_i",
-    "title": "Sv. Damasa I. papeže",
-    "rank": "nezávazná památka"
+    "title": {
+     "cs": "Sv. Damasa I. papeže",
+     "en": "Saint Damasus I, pope"
+    },
+    "rank": "optional"
    }
   ]
  },
@@ -1975,8 +2677,11 @@
   "saints": [
    {
     "id": "bvm_guadalupe",
-    "title": "Panny Marie Guadalupské",
-    "rank": "nezávazná památka"
+    "title": {
+     "cs": "Panny Marie Guadalupské",
+     "en": "Our Lady of Guadalupe"
+    },
+    "rank": "optional"
    }
   ]
  },
@@ -1984,8 +2689,11 @@
   "saints": [
    {
     "id": "lucy",
-    "title": "Sv. Lucie, panny a mučednice",
-    "rank": "památka"
+    "title": {
+     "cs": "Sv. Lucie, panny a mučednice",
+     "en": "Saint Lucy of Syracuse, virgin and martyr"
+    },
+    "rank": "memorial"
    }
   ]
  },
@@ -1993,8 +2701,11 @@
   "saints": [
    {
     "id": "john_of_cross",
-    "title": "Sv. Jana od Kříže, kněze a učitele církve",
-    "rank": "památka"
+    "title": {
+     "cs": "Sv. Jana od Kříže, kněze a učitele církve",
+     "en": "Saint John of the Cross, priest and doctor"
+    },
+    "rank": "memorial"
    }
   ]
  },
@@ -2002,8 +2713,11 @@
   "saints": [
    {
     "id": "canisius",
-    "title": "Sv. Petra Kanisia, kněze a učitele církve",
-    "rank": "nezávazná památka"
+    "title": {
+     "cs": "Sv. Petra Kanisia, kněze a učitele církve",
+     "en": "Saint Peter Canisius, priest and doctor"
+    },
+    "rank": "optional"
    }
   ]
  },
@@ -2011,20 +2725,29 @@
   "saints": [
    {
     "id": "john_of_kanty",
-    "title": "Sv. Jana Kentského, kněze",
-    "rank": "nezávazná památka"
+    "title": {
+     "cs": "Sv. Jana Kentského, kněze",
+     "en": "Saint John of Kanty, priest"
+    },
+    "rank": "optional"
    }
   ]
  },
  "12-25": {
-  "holiday": "1. svátek vánoční"
+  "holiday": {
+   "cs": "1. svátek vánoční",
+   "en": "Christmas Day"
+  }
  },
  "12-26": {
   "saints": [
    {
     "id": "stephen",
-    "title": "Sv. Štěpána, prvomučedníka",
-    "rank": "svátek"
+    "title": {
+     "cs": "Sv. Štěpána, prvomučedníka",
+     "en": "Saint Stephen, the first martyr"
+    },
+    "rank": "feast"
    }
   ]
  },
@@ -2032,8 +2755,11 @@
   "saints": [
    {
     "id": "john_evangelist",
-    "title": "Sv. Jana, apoštola a evangelisty",
-    "rank": "svátek"
+    "title": {
+     "cs": "Sv. Jana, apoštola a evangelisty",
+     "en": "Saint John the Apostle and evangelist"
+    },
+    "rank": "feast"
    }
   ]
  },
@@ -2041,8 +2767,11 @@
   "saints": [
    {
     "id": "innocents",
-    "title": "Svatých Mláďátek, mučedníků",
-    "rank": "svátek"
+    "title": {
+     "cs": "Svatých Mláďátek, mučedníků",
+     "en": "Holy Innocents, martyrs"
+    },
+    "rank": "feast"
    }
   ]
  },
@@ -2050,8 +2779,11 @@
   "saints": [
    {
     "id": "becket",
-    "title": "Sv. Tomáše Becketa, biskupa a mučedníka",
-    "rank": "nezávazná památka"
+    "title": {
+     "cs": "Sv. Tomáše Becketa, biskupa a mučedníka",
+     "en": "Saint Thomas Becket, bishop and martyr"
+    },
+    "rank": "optional"
    }
   ]
  },
@@ -2059,8 +2791,11 @@
   "saints": [
    {
     "id": "sylvester_i",
-    "title": "Sv. Silvestra I. papeže",
-    "rank": "nezávazná památka"
+    "title": {
+     "cs": "Sv. Silvestra I. papeže",
+     "en": "Saint Sylvester I, pope"
+    },
+    "rank": "optional"
    }
   ]
  }

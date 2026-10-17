@@ -1,8 +1,35 @@
 // Renders today, the next 7 days and a month grid from days.json.
-const MONTHS = ["leden", "únor", "březen", "duben", "květen", "červen",
-  "červenec", "srpen", "září", "říjen", "listopad", "prosinec"];
-const fmtLong = new Intl.DateTimeFormat("cs-CZ", { weekday: "long", day: "numeric", month: "long" });
-const fmtWd = new Intl.DateTimeFormat("cs-CZ", { weekday: "short" });
+// The page's <html lang> picks the language; en/ pages load this same file.
+const LANG = document.documentElement.lang === "en" ? "en" : "cs";
+const ROOT = new URL(".", document.currentScript.src);
+const T = {
+  cs: {
+    locale: "cs-CZ",
+    months: ["leden", "únor", "březen", "duben", "květen", "červen",
+      "červenec", "srpen", "září", "říjen", "listopad", "prosinec"],
+    weekdays: ["po", "út", "st", "čt", "pá", "so", "ne"],
+    today: "Dnes je ",
+    saint: "Dnešní světec",
+    saints: "Dnešní světci",
+    none: "Dnes bez památky světce",
+    error: "Data se nepodařilo načíst.",
+    ranks: { solemnity: "slavnost", feast: "svátek", memorial: "památka", optional: "nezávazná památka" },
+  },
+  en: {
+    locale: "en-GB",
+    months: ["January", "February", "March", "April", "May", "June",
+      "July", "August", "September", "October", "November", "December"],
+    weekdays: ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"],
+    today: "Today is ",
+    saint: "Saint of the day",
+    saints: "Saints of the day",
+    none: "No saint's memorial today",
+    error: "Could not load the data.",
+    ranks: { solemnity: "solemnity", feast: "feast", memorial: "memorial", optional: "optional memorial" },
+  },
+}[LANG];
+const fmtLong = new Intl.DateTimeFormat(T.locale, { weekday: "long", day: "numeric", month: "long" });
+const fmtWd = new Intl.DateTimeFormat(T.locale, { weekday: "short" });
 
 const key = (d) => String(d.getMonth() + 1).padStart(2, "0") + "-" + String(d.getDate()).padStart(2, "0");
 const addDays = (d, n) => new Date(d.getFullYear(), d.getMonth(), d.getDate() + n);
@@ -17,13 +44,15 @@ function el(tag, attrs = {}, ...kids) {
   return e;
 }
 
+const rank = (s) => el("span", { class: "rank " + s.rank }, T.ranks[s.rank]);
+
 // Lines describing one day: saints, then holiday.
 function describe(info, { titleTag = "span" } = {}) {
   const out = [];
   for (const s of info.saints || []) {
-    out.push(el(titleTag, { class: "s" }, s.title + " ", el("span", { class: "rank " + s.rank }, s.rank)));
+    out.push(el(titleTag, { class: "s" }, s.title[LANG] + " ", rank(s)));
   }
-  if (info.holiday) out.push(el("span", { class: "s holiday" }, info.holiday));
+  if (info.holiday) out.push(el("span", { class: "s holiday" }, info.holiday[LANG]));
   if (!out.length) out.push(el("span", { class: "n" }, "—"));
   return out;
 }
@@ -35,21 +64,21 @@ function renderToday(days, today) {
   const image = (info.saints || []).find((s) => s.image);
   if (image) {
     box.classList.add("has-image");
-    box.append(el("img", { src: image.image, alt: image.title }));
+    box.append(el("img", { src: new URL(image.image, ROOT).href, alt: image.title[LANG] }));
   }
-  const text = el("div", {}, el("div", { class: "date" }, "Dnes je " + fmtLong.format(today)));
+  const text = el("div", {}, el("div", { class: "date" }, T.today + fmtLong.format(today)));
   if (info.saints) {
-    text.append(el("div", { class: "label" }, info.saints.length > 1 ? "Dnešní světci" : "Dnešní světec"));
+    text.append(el("div", { class: "label" }, info.saints.length > 1 ? T.saints : T.saint));
     for (const s of info.saints) {
       text.append(el("div", { class: "saint" },
-        el("h1", {}, s.title), el("span", { class: "rank " + s.rank }, s.rank)));
+        el("h1", {}, s.title[LANG]), rank(s)));
     }
   } else if (info.holiday) {
-    text.append(el("h1", { class: "holiday" }, info.holiday));
+    text.append(el("h1", { class: "holiday" }, info.holiday[LANG]));
   } else {
-    text.append(el("h1", {}, "Dnes bez památky světce"));
+    text.append(el("h1", {}, T.none));
   }
-  if (info.saints && info.holiday) text.append(el("div", { class: "names holiday" }, info.holiday));
+  if (info.saints && info.holiday) text.append(el("div", { class: "names holiday" }, info.holiday[LANG]));
   box.append(text);
 }
 
@@ -79,8 +108,8 @@ function makeMonth(days, today) {
   }
 
   function render() {
-    document.getElementById("month-title").textContent = MONTHS[month] + " " + year;
-    grid.replaceChildren(...["po", "út", "st", "čt", "pá", "so", "ne"].map((w) => el("div", { class: "wd" }, w)));
+    document.getElementById("month-title").textContent = T.months[month] + " " + year;
+    grid.replaceChildren(...T.weekdays.map((w) => el("div", { class: "wd" }, w)));
     const first = new Date(year, month, 1);
     const lead = (first.getDay() + 6) % 7; // Monday first
     for (let i = 0; i < lead; i++) grid.append(el("button", { class: "empty", tabindex: "-1", "aria-hidden": "true" }));
@@ -92,8 +121,8 @@ function makeMonth(days, today) {
       const top = (info.saints || [])[0];
       const btn = el("button", { class: cls, "aria-label": fmtLong.format(d) },
         el("span", { class: "num" }, String(n)),
-        top ? el("span", { class: "cs " + top.rank }, top.title) :
-          info.holiday ? el("span", { class: "cs svátek" }, info.holiday) : null,
+        top ? el("span", { class: "cs " + top.rank }, top.title[LANG]) :
+          info.holiday ? el("span", { class: "cs feast" }, info.holiday[LANG]) : null,
         top || info.holiday ? el("span", { class: "dot" }) : null);
       btn.addEventListener("click", () => {
         grid.querySelector(".selected")?.classList.remove("selected");
@@ -116,7 +145,7 @@ function makeMonth(days, today) {
   showDetail(today);
 }
 
-fetch("days.json")
+fetch(new URL("days.json", ROOT))
   .then((r) => r.json())
   .then((days) => {
     const now = new Date();
@@ -126,5 +155,5 @@ fetch("days.json")
     makeMonth(days, today);
   })
   .catch(() => {
-    document.getElementById("today").textContent = "Data se nepodařilo načíst.";
+    document.getElementById("today").textContent = T.error;
   });
