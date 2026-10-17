@@ -1,7 +1,7 @@
 [project]
 name = "saints-calendar"
 version = "0.1.0"
-description = "Google-Calendar-ready .ics files of saints and Czech name days"
+description = "Google-Calendar-ready .ics calendar of saints"
 requires-python = ">=3.11"
 
 [project.scripts]

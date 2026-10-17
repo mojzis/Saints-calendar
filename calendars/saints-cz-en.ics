@@ -1,0 +1,2171 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//mojzis//saints-calendar//CS
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Saints (Czech liturgical calendar)
+X-WR-TIMEZONE:Europe/Prague
+BEGIN:VEVENT
+UID:saints-en-0102-basil_gregory@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260102
+RRULE:FREQ=YEARLY
+SUMMARY:Saints Basil the Great and Gregory Nazianzen\, bishops and doctors
+DESCRIPTION:memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0103-name_jesus@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260103
+RRULE:FREQ=YEARLY
+SUMMARY:The Most Holy Name of Jesus
+DESCRIPTION:optional memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0107-raymond@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260107
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Raymond of Penyafort\, priest
+DESCRIPTION:optional memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0113-hilary@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260113
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Hilary of Poitiers\, bishop and doctor
+DESCRIPTION:optional memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0117-anthony_of_egypt@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260117
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Anthony of Egypt\, abbot
+DESCRIPTION:memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0118-bvm_unity@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260118
+RRULE:FREQ=YEARLY
+SUMMARY:Blessed Virgin Mary\, Mother of Christian Unity
+DESCRIPTION:memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0120-fabian@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260120
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Fabian\, pope and martyr
+DESCRIPTION:optional memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0120-sebastian@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260120
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Sebastian\, martyr
+DESCRIPTION:optional memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0121-agnes@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260121
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Agnes\, virgin and martyr
+DESCRIPTION:memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0122-vincent_deacon@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260122
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Vincent\, deacon and martyr
+DESCRIPTION:optional memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0124-francis_de_sales@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260124
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Francis de Sales\, bishop and doctor
+DESCRIPTION:memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0125-paul_conversion@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260125
+RRULE:FREQ=YEARLY
+SUMMARY:The Conversion of Saint Paul\, apostle
+DESCRIPTION:feast (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0126-timothy_titus@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260126
+RRULE:FREQ=YEARLY
+SUMMARY:Saints Timothy and Titus\, bishops
+DESCRIPTION:memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0127-merici@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260127
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Angela Merici\, virgin
+DESCRIPTION:optional memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0128-aquinas@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260128
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Thomas Aquinas\, priest and doctor
+DESCRIPTION:memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0131-bosco@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260131
+RRULE:FREQ=YEARLY
+SUMMARY:Saint John Bosco\, priest
+DESCRIPTION:memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0202-presentation_of_lord@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260202
+RRULE:FREQ=YEARLY
+SUMMARY:Presentation of the Lord
+DESCRIPTION:feast (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0203-blase@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260203
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Blase\, bishop and martyr
+DESCRIPTION:optional memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0203-ansgar@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260203
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Ansgar\, bishop
+DESCRIPTION:optional memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0205-agatha@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260205
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Agatha\, virgin and martyr
+DESCRIPTION:memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0206-paul_miki@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260206
+RRULE:FREQ=YEARLY
+SUMMARY:Saints Paul Miki and companions\, martyrs
+DESCRIPTION:memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0208-jerome_emiliani@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260208
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Jerome Emiliani\, priest
+DESCRIPTION:optional memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0208-josephine_bakhita@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260208
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Josephine Bakhita\, virgin
+DESCRIPTION:optional memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0210-scholastica@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260210
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Scholastica\, virgin
+DESCRIPTION:memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0211-bvm_lourdes@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260211
+RRULE:FREQ=YEARLY
+SUMMARY:Our Lady of Lourdes
+DESCRIPTION:optional memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0217-servite_founders@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260217
+RRULE:FREQ=YEARLY
+SUMMARY:Seven Holy Founders of the Servite Order
+DESCRIPTION:optional memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0221-peter_damian@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260221
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Peter Damian\, bishop and doctor of the Church
+DESCRIPTION:optional memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0222-chair_of_peter@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260222
+RRULE:FREQ=YEARLY
+SUMMARY:Chair of Saint Peter\, apostle
+DESCRIPTION:feast (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0223-polycarp@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260223
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Polycarp\, bishop and martyr
+DESCRIPTION:memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0227-gregory_of_narek@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260227
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Gregory of Narek\, abbot and doctor of the Church
+DESCRIPTION:optional memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0304-casimir@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260304
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Casimir
+DESCRIPTION:optional memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0307-perpetua_felicity@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260307
+RRULE:FREQ=YEARLY
+SUMMARY:Saints Perpetua and Felicity\, martyrs
+DESCRIPTION:memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0308-john_of_god@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260308
+RRULE:FREQ=YEARLY
+SUMMARY:Saint John of God\, religious
+DESCRIPTION:optional memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0309-frances_of_rome@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260309
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Frances of Rome\, religious
+DESCRIPTION:optional memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0310-ogilvie@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260310
+RRULE:FREQ=YEARLY
+SUMMARY:Saint John Ogilvie\, priest and martyr
+DESCRIPTION:optional memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0317-patrick@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260317
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Patrick\, bishop
+DESCRIPTION:optional memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0318-cyril_of_jerusalem@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260318
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Cyril of Jerusalem\, bishop and doctor
+DESCRIPTION:optional memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0319-joseph@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260319
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Joseph Husband of the Blessed Virgin Mary
+DESCRIPTION:solemnity (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0323-turibius@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260323
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Turibius of Mogrovejo\, bishop
+DESCRIPTION:optional memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0325-annunciation@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260325
+RRULE:FREQ=YEARLY
+SUMMARY:Annunciation of the Lord
+DESCRIPTION:solemnity (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0402-francis_of_paola@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260402
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Francis of Paola\, hermit
+DESCRIPTION:optional memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0404-isidore@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260404
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Isidore\, bishop and doctor of the Church
+DESCRIPTION:optional memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0405-vincent_ferrer@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260405
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Vincent Ferrer\, priest
+DESCRIPTION:optional memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0407-de_la_salle@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260407
+RRULE:FREQ=YEARLY
+SUMMARY:Saint John Baptist de la Salle\, priest
+DESCRIPTION:memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0411-stanislaus@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260411
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Stanislaus\, bishop and martyr
+DESCRIPTION:memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0413-martin_i@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260413
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Martin I\, pope and martyr
+DESCRIPTION:optional memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0421-anselm@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260421
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Anselm of Canterbury\, bishop and doctor of the Church
+DESCRIPTION:optional memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0423-adalbert@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260423
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Adalbert\, bishop and martyr
+DESCRIPTION:feast (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0424-george@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260424
+RRULE:FREQ=YEARLY
+SUMMARY:Saint George\, martyr
+DESCRIPTION:optional memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0424-fidelis@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260424
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Fidelis of Sigmaringen\, priest and martyr
+DESCRIPTION:optional memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0425-mark@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260425
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Mark the Evangelist
+DESCRIPTION:feast (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0428-peter_chanel@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260428
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Peter Chanel\, priest and martyr
+DESCRIPTION:optional memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0428-de_montfort@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260428
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Louis Grignon de Montfort\, priest
+DESCRIPTION:optional memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0429-catherine_of_siena@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260429
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Catherine of Siena\, virgin and doctor of the Church
+DESCRIPTION:feast (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0430-sigismund@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260430
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Sigismund\, martyr
+DESCRIPTION:optional memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0430-pius_v@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260430
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Pius V\, pope
+DESCRIPTION:optional memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0501-joseph_worker@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260501
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Joseph the Worker
+DESCRIPTION:optional memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0502-athanasius@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260502
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Athanasius\, bishop and doctor
+DESCRIPTION:memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0503-philip_james@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260503
+RRULE:FREQ=YEARLY
+SUMMARY:Saints Philip and James\, Apostles
+DESCRIPTION:feast (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0506-sarkander@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260506
+RRULE:FREQ=YEARLY
+SUMMARY:Saint John Sarkander\, priest and martyr
+DESCRIPTION:optional memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0508-bvm_mediatrix@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260508
+RRULE:FREQ=YEARLY
+SUMMARY:Blessed Virgin Mary\, Mediatrix of All Graces
+DESCRIPTION:optional memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0510-john_de_avila@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260510
+RRULE:FREQ=YEARLY
+SUMMARY:Saint John De Avila\, Priest and Doctor of the Church
+DESCRIPTION:optional memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0512-nereus_achilleus@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260512
+RRULE:FREQ=YEARLY
+SUMMARY:Saints Nereus and Achilleus\, martyrs
+DESCRIPTION:optional memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0512-pancras@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260512
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Pancras\, martyr
+DESCRIPTION:optional memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0513-bvm_fatima@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260513
+RRULE:FREQ=YEARLY
+SUMMARY:Our Lady of Fatima
+DESCRIPTION:optional memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0514-matthias@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260514
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Matthias the Apostle
+DESCRIPTION:feast (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0516-john_nepomuk@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260516
+RRULE:FREQ=YEARLY
+SUMMARY:Saint John of Nepomuk\, priest and martyr\, principal patron of Boh
+ emia
+DESCRIPTION:feast (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0518-john_i@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260518
+RRULE:FREQ=YEARLY
+SUMMARY:Saint John I\, pope and martyr
+DESCRIPTION:optional memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0520-hofbauer@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260520
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Clement Mary Hofbauer\, priest
+DESCRIPTION:optional memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0520-bernardine@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260520
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Bernardine of Siena\, priest
+DESCRIPTION:optional memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0521-magallanes@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260521
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Christopher Magallanes and companions\, martyrs
+DESCRIPTION:optional memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0522-rita@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260522
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Rita of Cascia
+DESCRIPTION:optional memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0525-bede_venerable@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260525
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Bede the Venerable\, priest and doctor
+DESCRIPTION:optional memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0525-gregory_vii@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260525
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Gregory VII\, pope
+DESCRIPTION:optional memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0525-de_pazzi@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260525
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Mary Magdalene de Pazzi\, virgin
+DESCRIPTION:optional memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0526-neri@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260526
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Philip Neri\, priest
+DESCRIPTION:memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0527-augustine_of_canterbury@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260527
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Augustine (Austin) of Canterbury\, bishop
+DESCRIPTION:optional memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0529-paul_vi@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260529
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Paul VI\, pope
+DESCRIPTION:optional memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0530-zdislava@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260530
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Zdislava
+DESCRIPTION:optional memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0531-visitation@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260531
+RRULE:FREQ=YEARLY
+SUMMARY:Visitation of the Blessed Virgin Mary
+DESCRIPTION:feast (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0601-justin@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260601
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Justin Martyr
+DESCRIPTION:memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0602-marcellinus_peter@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260602
+RRULE:FREQ=YEARLY
+SUMMARY:Saints Marcellinus and Peter\, martyrs
+DESCRIPTION:optional memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0603-ugandan_martyrs@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260603
+RRULE:FREQ=YEARLY
+SUMMARY:Saints Charles Lwanga and companions\, martyrs
+DESCRIPTION:memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0605-boniface@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260605
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Boniface\, bishop and martyr
+DESCRIPTION:memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0606-norbert@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260606
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Norbert\, bishop
+DESCRIPTION:optional memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0609-ephrem@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260609
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Ephrem\, deacon and doctor
+DESCRIPTION:optional memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0611-barnabas@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260611
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Barnabas the Apostle
+DESCRIPTION:memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0613-anthony_of_padua@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260613
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Anthony of Padua\, priest and doctor
+DESCRIPTION:memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0615-vitus@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260615
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Vitus\, martyr
+DESCRIPTION:optional memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0619-neumann@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260619
+RRULE:FREQ=YEARLY
+SUMMARY:Saint John Nepomucene Neumann\, bishop
+DESCRIPTION:optional memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0619-romuald@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260619
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Romuald\, abbot
+DESCRIPTION:optional memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0621-aloysius@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260621
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Aloysius Gonzaga\, religious
+DESCRIPTION:memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0622-paulinus@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260622
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Paulinus of Nola\, bishop
+DESCRIPTION:optional memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0622-fisher_more@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260622
+RRULE:FREQ=YEARLY
+SUMMARY:Saints John Fisher\, bishop and martyr and Thomas More\, martyr
+DESCRIPTION:optional memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0624-baptist_birth@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260624
+RRULE:FREQ=YEARLY
+SUMMARY:Birth of Saint John the Baptist
+DESCRIPTION:solemnity (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0627-cyril_of_alexandria@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260627
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Cyril of Alexandria\, bishop and doctor
+DESCRIPTION:optional memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0628-irenaeus@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260628
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Irenaeus\, bishop and martyr
+DESCRIPTION:memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0629-peter_paul@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260629
+RRULE:FREQ=YEARLY
+SUMMARY:Saints Peter and Paul\, Apostles
+DESCRIPTION:solemnity (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0630-first_martyrs_of_rome@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260630
+RRULE:FREQ=YEARLY
+SUMMARY:First Martyrs of the Church of Rome
+DESCRIPTION:optional memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0703-thomas_apostle@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260703
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Thomas the Apostle
+DESCRIPTION:feast (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0704-procopius@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260704
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Procopius\, abbot
+DESCRIPTION:optional memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0704-elizabeth_of_portugal@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260704
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Elizabeth of Portugal
+DESCRIPTION:optional memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0705-cyril_methodius@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260705
+RRULE:FREQ=YEARLY
+SUMMARY:Saints Cyril\, monk\, and Methodius\, bishop
+DESCRIPTION:solemnity (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0706-goretti@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260706
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Maria Goretti\, virgin and martyr
+DESCRIPTION:optional memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0709-chinese_martyrs@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260709
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Augustine Zhao Rong and companions\, martyrs
+DESCRIPTION:optional memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0711-benedict@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260711
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Benedict\, abbot
+DESCRIPTION:feast (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0713-henry@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260713
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Henry
+DESCRIPTION:optional memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0714-hroznata@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260714
+RRULE:FREQ=YEARLY
+SUMMARY:Blessed Hroznata\, martyr
+DESCRIPTION:optional memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0714-camillus_de_lellis@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260714
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Camillus de Lellis\, priest
+DESCRIPTION:optional memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0715-bonaventure@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260715
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Bonaventure\, bishop and doctor
+DESCRIPTION:memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0716-bvm_mount_carmel@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260716
+RRULE:FREQ=YEARLY
+SUMMARY:Our Lady of Mount Carmel
+DESCRIPTION:optional memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0717-ceslaus_hyacinth@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260717
+RRULE:FREQ=YEARLY
+SUMMARY:Blessed Ceslaus and Saint Hyacinth\, priests
+DESCRIPTION:optional memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0720-apollinaris@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260720
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Apollinaris\, bishop and martyr
+DESCRIPTION:optional memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0721-lawrence_of_brindisi@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260721
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Lawrence of Brindisi\, priest and doctor
+DESCRIPTION:optional memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0722-mary_magdalene@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260722
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Mary Magdalene
+DESCRIPTION:feast (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0723-birgitta@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260723
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Birgitta\, religious
+DESCRIPTION:feast (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0724-sharbel@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260724
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Sharbel Makhluf\, hermit
+DESCRIPTION:optional memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0725-james@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260725
+RRULE:FREQ=YEARLY
+SUMMARY:Saint James\, apostle
+DESCRIPTION:feast (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0726-joachim_anne@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260726
+RRULE:FREQ=YEARLY
+SUMMARY:Saints Joachim and Anne
+DESCRIPTION:memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0727-gorazd@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260727
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Gorazd and companions
+DESCRIPTION:optional memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0729-martha_mary_lazarus@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260729
+RRULE:FREQ=YEARLY
+SUMMARY:Saints Martha\, Mary and Lazarus
+DESCRIPTION:memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0730-peter_chrysologus@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260730
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Peter Chrysologus\, bishop and doctor
+DESCRIPTION:optional memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0731-ignatius_of_loyola@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260731
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Ignatius of Loyola\, priest
+DESCRIPTION:memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0801-alphonsus@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260801
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Alphonsus Maria de Liguori\, bishop and doctor of the Church
+DESCRIPTION:memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0802-eusebius@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260802
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Eusebius of Vercelli\, bishop
+DESCRIPTION:optional memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0802-eymard@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260802
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Peter Julian Eymard\, priest
+DESCRIPTION:optional memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0804-vianney@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260804
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Jean Vianney (the Curé of Ars)\, priest
+DESCRIPTION:memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0805-mary_major@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260805
+RRULE:FREQ=YEARLY
+SUMMARY:Dedication of the Basilica of Saint Mary Major
+DESCRIPTION:optional memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0806-transfiguration@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260806
+RRULE:FREQ=YEARLY
+SUMMARY:Transfiguration of the Lord
+DESCRIPTION:feast (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0807-sixtus_ii@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260807
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Sixtus II\, pope\, and companions\, martyrs
+DESCRIPTION:optional memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0807-cajetan@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260807
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Cajetan\, priest
+DESCRIPTION:optional memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0808-dominic@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260808
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Dominic\, priest
+DESCRIPTION:memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0809-stein@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260809
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Teresa Benedicta of the Cross (Edith Stein)\, virgin and mart
+ yr
+DESCRIPTION:feast (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0810-lawrence@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260810
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Lawrence\, deacon and martyr
+DESCRIPTION:feast (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0811-clare@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260811
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Clare\, virgin
+DESCRIPTION:memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0812-de_chantal@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260812
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Jane Frances de Chantal\, religious
+DESCRIPTION:optional memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0813-pontian_hippolytus@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260813
+RRULE:FREQ=YEARLY
+SUMMARY:Saints Pontian\, pope\, and Hippolytus\, priest\, martyrs
+DESCRIPTION:optional memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0814-kolbe@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260814
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Maximilian Mary Kolbe\, priest and martyr
+DESCRIPTION:memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0815-assumption@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260815
+RRULE:FREQ=YEARLY
+SUMMARY:Assumption of the Blessed Virgin Mary
+DESCRIPTION:solemnity (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0816-stephen_hungary@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260816
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Stephen of Hungary
+DESCRIPTION:optional memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0819-eudes@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260819
+RRULE:FREQ=YEARLY
+SUMMARY:Saint John Eudes\, priest
+DESCRIPTION:optional memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0820-bernard@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260820
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Bernard of Clairvaux\, abbot and doctor of the Church
+DESCRIPTION:memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0821-pius_x@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260821
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Pius X\, pope
+DESCRIPTION:memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0822-bvm_queenship@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260822
+RRULE:FREQ=YEARLY
+SUMMARY:Queenship of Blessed Virgin Mary
+DESCRIPTION:memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0823-rose_lima@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260823
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Rose of Lima\, virgin
+DESCRIPTION:optional memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0824-bartholomew@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260824
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Bartholomew the Apostle
+DESCRIPTION:feast (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0825-five_camaldolese@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260825
+RRULE:FREQ=YEARLY
+SUMMARY:Saints Benedict\, John\, Matthew\, Isaac and Christinus\, martyrs
+DESCRIPTION:optional memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0825-louis@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260825
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Louis
+DESCRIPTION:optional memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0825-joseph_calasanz@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260825
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Joseph of Calasanz\, priest
+DESCRIPTION:optional memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0827-monica@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260827
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Monica
+DESCRIPTION:memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0828-augustine@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260828
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Augustine of Hippo\, bishop and doctor of the Church
+DESCRIPTION:memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0829-baptist_beheading@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260829
+RRULE:FREQ=YEARLY
+SUMMARY:The Beheading of Saint John the Baptist\, martyr
+DESCRIPTION:memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0903-gregory_great@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260903
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Gregory the Great\, pope and doctor
+DESCRIPTION:memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0905-teresa_calcutta@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260905
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Teresa of Calcutta\, virgin
+DESCRIPTION:optional memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0907-grodecky@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260907
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Melchior Grodziecki\, priest and martyr
+DESCRIPTION:optional memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0908-bvm_birth@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260908
+RRULE:FREQ=YEARLY
+SUMMARY:Birth of the Blessed Virgin Mary
+DESCRIPTION:feast (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0909-claver@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260909
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Peter Claver\, priest
+DESCRIPTION:optional memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0910-spinola@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260910
+RRULE:FREQ=YEARLY
+SUMMARY:Blessed Charles Spinola\, priest and martyr
+DESCRIPTION:optional memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0912-bvm_name@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260912
+RRULE:FREQ=YEARLY
+SUMMARY:Holy Name of the Blessed Virgin Mary
+DESCRIPTION:optional memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0913-john_chrysostom@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260913
+RRULE:FREQ=YEARLY
+SUMMARY:Saint John Chrysostom\, bishop and doctor
+DESCRIPTION:memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0914-cross@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260914
+RRULE:FREQ=YEARLY
+SUMMARY:Triumph of the Holy Cross
+DESCRIPTION:feast (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0915-bvm_sorrows@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260915
+RRULE:FREQ=YEARLY
+SUMMARY:Our Lady of Sorrows
+DESCRIPTION:memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0916-ludmila@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260916
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Ludmila\, martyr
+DESCRIPTION:optional memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0917-cornelius_cyprian@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260917
+RRULE:FREQ=YEARLY
+SUMMARY:Saints Cornelius\, pope\, and Cyprian\, bishop\, martyrs
+DESCRIPTION:optional memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0917-bellarmine@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260917
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Robert Bellarmine\, bishop and doctor
+DESCRIPTION:optional memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0917-hildegard@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260917
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Hildegard of Bingen\, Virgin and Doctor of the Church
+DESCRIPTION:optional memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0919-januarius@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260919
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Januarius\, bishop and martyr
+DESCRIPTION:optional memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0920-korean_martyrs@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260920
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Andrew Kim Taegon\, priest\, and Paul Chong Hasang and compan
+ ions\, martyrs
+DESCRIPTION:memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0921-matthew@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260921
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Matthew the Evangelist\, Apostle\, Evangelist
+DESCRIPTION:feast (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0923-padre_pio@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260923
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Pio of Pietrelcina (Padre Pio)\, priest
+DESCRIPTION:memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0926-cosmas_damian@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260926
+RRULE:FREQ=YEARLY
+SUMMARY:Saints Cosmas and Damian\, martyrs
+DESCRIPTION:optional memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0927-vincent_de_paul@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260927
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Vincent de Paul\, priest
+DESCRIPTION:memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0928-wenceslaus@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260928
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Wenceslaus\, martyr
+DESCRIPTION:solemnity (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0929-archangels@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260929
+RRULE:FREQ=YEARLY
+SUMMARY:Saints Michael\, Gabriel and Raphael\, Archangels
+DESCRIPTION:feast (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-0930-jerome@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260930
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Jerome\, priest and doctor
+DESCRIPTION:memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-1001-therese_lisieux@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261001
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Thérèse of the Child Jesus\, virgin and doctor
+DESCRIPTION:memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-1002-guardian_angels@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261002
+RRULE:FREQ=YEARLY
+SUMMARY:Guardian Angels
+DESCRIPTION:memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-1004-francis_assisi@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261004
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Francis of Assisi
+DESCRIPTION:memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-1005-faustina_kowalska@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261005
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Faustina Kowalska\, virgin
+DESCRIPTION:optional memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-1006-bruno@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261006
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Bruno\, priest
+DESCRIPTION:optional memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-1007-bvm_rosary@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261007
+RRULE:FREQ=YEARLY
+SUMMARY:Our Lady of the Rosary
+DESCRIPTION:memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-1009-denis@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261009
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Denis and companions\, martyrs
+DESCRIPTION:optional memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-1009-leonardi@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261009
+RRULE:FREQ=YEARLY
+SUMMARY:Saint John Leonardi\, priest
+DESCRIPTION:optional memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-1009-newman@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261009
+RRULE:FREQ=YEARLY
+SUMMARY:Saint John Henry Newman\, priest and Doctor of the Church
+DESCRIPTION:optional memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-1011-john_xxiii@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261011
+RRULE:FREQ=YEARLY
+SUMMARY:Saint John XXIII\, pope
+DESCRIPTION:optional memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-1012-radim@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261012
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Radim\, bishop
+DESCRIPTION:optional memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-1014-callistus_i@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261014
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Callistus I\, pope and martyr
+DESCRIPTION:optional memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-1015-teresa_avila@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261015
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Teresa of Jesus\, virgin and doctor
+DESCRIPTION:memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-1016-hedwig@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261016
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Hedwig\, religious
+DESCRIPTION:optional memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-1016-alacoque@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261016
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Margaret Mary Alacoque\, virgin
+DESCRIPTION:optional memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-1017-ignatius_of_antioch@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261017
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Ignatius of Antioch\, bishop and martyr
+DESCRIPTION:memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-1018-luke@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261018
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Luke the Evangelist
+DESCRIPTION:feast (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-1019-brebeuf_jogues@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261019
+RRULE:FREQ=YEARLY
+SUMMARY:Saints Jean de Brébeuf\, Isaac Jogues\, priests and martyrs\; and 
+ their companions\, martyrs
+DESCRIPTION:optional memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-1019-paul_of_cross@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261019
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Paul of the Cross\, priest
+DESCRIPTION:optional memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-1021-karl_of_austria@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261021
+RRULE:FREQ=YEARLY
+SUMMARY:Blessed Charles of Austria
+DESCRIPTION:optional memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-1022-john_paul_ii@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261022
+RRULE:FREQ=YEARLY
+SUMMARY:Saint John Paul II\, pope
+DESCRIPTION:optional memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-1023-john_capistrano@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261023
+RRULE:FREQ=YEARLY
+SUMMARY:Saint John of Capistrano\, priest
+DESCRIPTION:optional memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-1024-claret@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261024
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Anthony Mary Claret\, bishop
+DESCRIPTION:optional memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-1028-simon_jude@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261028
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Simon and Saint Jude\, apostles
+DESCRIPTION:feast (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-1031-wolfgang@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261031
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Wolfgang\, bishop
+DESCRIPTION:optional memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-1101-all_saints@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261101
+RRULE:FREQ=YEARLY
+SUMMARY:All Saints
+DESCRIPTION:solemnity (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-1102-all_souls@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261102
+RRULE:FREQ=YEARLY
+SUMMARY:All Souls
+DESCRIPTION:solemnity (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-1103-de_porres@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261103
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Martin de Porres\, religious
+DESCRIPTION:optional memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-1104-borromeo@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261104
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Charles Borromeo\, bishop
+DESCRIPTION:memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-1109-lateran_basilica@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261109
+RRULE:FREQ=YEARLY
+SUMMARY:Dedication of the Lateran basilica
+DESCRIPTION:feast (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-1110-leo_great@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261110
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Leo the Great\, pope and doctor
+DESCRIPTION:memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-1111-martin@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261111
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Martin of Tours\, bishop
+DESCRIPTION:memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-1112-josaphat@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261112
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Josaphat\, bishop and martyr
+DESCRIPTION:memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-1113-agnes_of_bohemia@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261113
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Agnes of Bohemia\, virgin
+DESCRIPTION:memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-1115-albert@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261115
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Albert the Great\, bishop and doctor
+DESCRIPTION:optional memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-1116-margaret_of_scotland@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261116
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Margaret of Scotland
+DESCRIPTION:optional memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-1116-gertrude@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261116
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Gertrude the Great\, virgin
+DESCRIPTION:optional memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-1117-elizabeth_of_hungary@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261117
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Elizabeth of Hungary\, religious
+DESCRIPTION:memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-1118-peter_paul_basilicas@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261118
+RRULE:FREQ=YEARLY
+SUMMARY:Dedication of the basilicas of Saints Peter and Paul\, Apostles
+DESCRIPTION:optional memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-1121-bvm_presentation@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261121
+RRULE:FREQ=YEARLY
+SUMMARY:Presentation of the Blessed Virgin Mary
+DESCRIPTION:memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-1122-cecilia@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261122
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Cecilia\, virgin and martyr
+DESCRIPTION:memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-1123-clement_i@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261123
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Clement I\, pope and martyr
+DESCRIPTION:optional memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-1123-columban@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261123
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Columban\, religious
+DESCRIPTION:optional memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-1124-vietnamese_martyrs@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261124
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Andrew Dung Lac and his companions\, martyrs
+DESCRIPTION:memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-1125-catherine_of_alexandria@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261125
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Catherine of Alexandria
+DESCRIPTION:optional memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-1130-andrew@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261130
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Andrew the Apostle
+DESCRIPTION:feast (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-1201-campion@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261201
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Edmund Campion\, priest and martyr
+DESCRIPTION:optional memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-1203-francis_xavier@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261203
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Francis Xavier\, priest
+DESCRIPTION:memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-1204-john_damascene@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261204
+RRULE:FREQ=YEARLY
+SUMMARY:Saint John Damascene\, priest and doctor
+DESCRIPTION:optional memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-1206-nicholas@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261206
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Nicholas\, bishop
+DESCRIPTION:optional memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-1207-ambrose@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261207
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Ambrose\, bishop and doctor
+DESCRIPTION:memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-1208-bvm_immaculate@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261208
+RRULE:FREQ=YEARLY
+SUMMARY:Immaculate Conception of the Blessed Virgin Mary
+DESCRIPTION:solemnity (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-1209-juan_diego@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261209
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Juan Diego
+DESCRIPTION:optional memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-1210-bvm_loreto@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261210
+RRULE:FREQ=YEARLY
+SUMMARY:Our Lady of Loreto
+DESCRIPTION:optional memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-1211-damasus_i@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261211
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Damasus I\, pope
+DESCRIPTION:optional memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-1212-bvm_guadalupe@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261212
+RRULE:FREQ=YEARLY
+SUMMARY:Our Lady of Guadalupe
+DESCRIPTION:optional memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-1213-lucy@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261213
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Lucy of Syracuse\, virgin and martyr
+DESCRIPTION:memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-1214-john_of_cross@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261214
+RRULE:FREQ=YEARLY
+SUMMARY:Saint John of the Cross\, priest and doctor
+DESCRIPTION:memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-1221-canisius@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261221
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Peter Canisius\, priest and doctor
+DESCRIPTION:optional memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-1223-john_of_kanty@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261223
+RRULE:FREQ=YEARLY
+SUMMARY:Saint John of Kanty\, priest
+DESCRIPTION:optional memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-1226-stephen@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261226
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Stephen\, the first martyr
+DESCRIPTION:feast (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-1227-john_evangelist@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261227
+RRULE:FREQ=YEARLY
+SUMMARY:Saint John the Apostle and evangelist
+DESCRIPTION:feast (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-1228-innocents@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261228
+RRULE:FREQ=YEARLY
+SUMMARY:Holy Innocents\, martyrs
+DESCRIPTION:feast (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-1229-becket@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261229
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Thomas Becket\, bishop and martyr
+DESCRIPTION:optional memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saints-en-1231-sylvester_i@saints-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261231
+RRULE:FREQ=YEARLY
+SUMMARY:Saint Sylvester I\, pope
+DESCRIPTION:optional memorial (Czech national liturgical calendar)
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

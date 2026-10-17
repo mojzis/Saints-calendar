@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Add to calendar</title>
+<meta name="description" content="How to add the saints calendar to Google Calendar.">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22%3E%3Ctext y=%22.9em%22 font-size=%2290%22%3E✝%3C/text%3E%3C/svg%3E">
+<link rel="alternate" hreflang="cs" href="../about.html">
+<link rel="stylesheet" href="../style.css">
+</head>
+<body>
+<header>
+  <a class="brand" href="./">Saints</a>
+  <nav><a href="./">Today</a><a href="about.html">Add to calendar</a><span class="lang"><a href="../about.html" hreflang="cs" lang="cs">CZ</a> / <span aria-current="true">EN</span></span></nav>
+</header>
+<main class="prose">
+  <h1>Add to calendar</h1>
+  <p>The calendar is made of all-day events that repeat every year. Once you
+  subscribe, it updates itself whenever something changes here.</p>
+
+  <div class="cals">
+    <div class="cal" data-ics="../calendars/saints-cz-en.ics">
+      <h3>Saints</h3>
+      <p>Saints from the Czech national liturgical calendar, with English titles
+      (movable feasts such as Easter are not included).</p>
+      <a class="btn gcal" href="#">Add to Google Calendar</a>
+      <a class="btn alt webcal" href="#">Apple / Outlook</a>
+      <p><code class="url"></code></p>
+    </div>
+  </div>
+
+  <h2>Google Calendar by hand</h2>
+  <p>If the button doesn't work (Google Calendar can't add calendars on a phone, it has to be done on a computer):</p>
+  <ol>
+    <li>Open <a href="https://calendar.google.com/">calendar.google.com</a> on a computer.</li>
+    <li>On the left, next to <b>Other calendars</b>, click <b>+</b> and choose <b>From URL</b>.</li>
+    <li>Paste the calendar address from the box above and click <b>Add calendar</b>.</li>
+  </ol>
+  <p>The calendar then shows up in the phone app too (if not, turn it on in the app's
+  sync settings). Google refreshes subscribed calendars every few hours to a day.</p>
+
+  <h2>One-off import</h2>
+  <p>For a copy that never changes, download <a href="../calendars/saints-cz-en.ics" download>saints-cz-en.ics</a>
+  and in Google Calendar choose Settings → <b>Import &amp; export</b> → <b>Import</b>.</p>
+</main>
+<footer>
+  <a href="https://github.com/mojzis/saints-calendar">Source on GitHub</a>
+</footer>
+<script>
+  // Build absolute URLs from wherever the site is hosted, so forks work too.
+  for (const el of document.querySelectorAll(".cal")) {
+    const url = new URL(el.dataset.ics, location.href);
+    const webcal = "webcal://" + url.host + url.pathname;
+    el.querySelector(".url").textContent = url.href;
+    el.querySelector(".webcal").href = webcal;
+    el.querySelector(".gcal").href =
+      "https://calendar.google.com/calendar/render?cid=" + encodeURIComponent(webcal);
+  }
+</script>
+</body>
+</html>

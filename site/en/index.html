@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Saints</title>
+<meta name="description" content="Saint of the day and a calendar for the whole year.">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22%3E%3Ctext y=%22.9em%22 font-size=%2290%22%3E✝%3C/text%3E%3C/svg%3E">
+<link rel="alternate" hreflang="cs" href="../">
+<link rel="stylesheet" href="../style.css">
+</head>
+<body>
+<header>
+  <a class="brand" href="./">Saints</a>
+  <nav><a href="./">Today</a><a href="about.html">Add to calendar</a><span class="lang"><a href="../" hreflang="cs" lang="cs">CZ</a> / <span aria-current="true">EN</span></span></nav>
+</header>
+<main>
+  <section id="today" class="today" aria-live="polite"><p>Loading…</p></section>
+
+  <h2>Next 7 days</h2>
+  <ul id="week" class="week"></ul>
+
+  <h2>Calendar</h2>
+  <div class="month-nav">
+    <button id="prev" aria-label="Previous month">‹</button>
+    <h3 id="month-title"></h3>
+    <button id="next" aria-label="Next month">›</button>
+  </div>
+  <div id="grid" class="grid"></div>
+  <div id="detail" class="detail"></div>
+</main>
+<footer>
+  Saints from the Czech national liturgical calendar (fixed dates only).
+  <a href="https://github.com/mojzis/saints-calendar">Source on GitHub</a>.
+</footer>
+<script src="../app.js"></script>
+</body>
+</html>
