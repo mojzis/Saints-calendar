@@ -2,7 +2,7 @@
 
 ## Overview
 
-One script, [src/saints_calendar/build.py](../src/saints_calendar/build.py), reads the source data in `data/` and writes two iCalendar files to `calendars/`. Every entry is an all-day event with `RRULE:FREQ=YEARLY`, starting in 2026 (29 February starts in 2028).
+One script, [src/saints_calendar/build.py](../src/saints_calendar/build.py), reads the source data in `data/` and writes two iCalendar files to `calendars/` plus `site/days.json` for the website. Every entry is an all-day event with `RRULE:FREQ=YEARLY`, starting in 2026 (29 February starts in 2028).
 
 ## Data
 
@@ -12,3 +12,5 @@ One script, [src/saints_calendar/build.py](../src/saints_calendar/build.py), rea
 ## Flows
 
 `uv run saints-calendar` → `calendars/svati-cz.ics`, `calendars/jmeniny-cz.ics` → Google Calendar subscribes to their raw GitHub URLs.
+
+`site/` (static HTML + `app.js`, which reads `days.json` keyed `"MM-DD"`) + `calendars/` → GitHub Pages via `.github/workflows/pages.yml`. The workflow reruns the build and fails if the committed output is stale.

@@ -1,10 +1,25 @@
 # Saints calendar
 
-Builds Google-Calendar-ready `.ics` files of saints and Czech name days; see [README.md](README.md) and [docs/](docs/).
+Builds Google-Calendar-ready `.ics` files of saints and Czech name days, plus a small website on GitHub Pages; see [README.md](README.md) and [docs/](docs/).
 
 The idea's origin lives in [ideas/saints-calendar.md](https://github.com/mojzis/ideas/blob/main/ideas/saints-calendar.md) of mojzis/ideas, and new enhancement ideas go in `projects/saints-calendar/ideas/` there.
 
-After changing `data/` or `build.py`, run `uv run saints-calendar` and commit the regenerated `calendars/`.
+After changing `data/` or `build.py`, run `uv run saints-calendar` and commit the regenerated `calendars/` and `site/days.json`.
+
+## Website
+
+- `site/` is plain static HTML/CSS/JS, no build step or framework. UI text is Czech.
+  `app.js` renders today, the next 7 days and a month grid from `site/days.json`
+  (generated, keyed `"MM-DD"` → `saints`/`names`/`holiday`). Don't hand-edit `days.json`.
+- Pictures: `site/img/<saint id>.{webp,jpg,jpeg,png}`, id from `data/czech-cs.txt`.
+  The build adds the `image` field to `days.json` when the file exists.
+- `.github/workflows/pages.yml` deploys `site/` + `calendars/` on push to `main`. It
+  reruns the build and fails if committed `calendars/` or `site/days.json` are stale.
+- `about.html` builds the Google Calendar / webcal links from `location`, so don't
+  hardcode the Pages URL there.
+- Check UI changes in a browser at desktop and phone width: serve a copy of `site/`
+  with `calendars/` beside it (`python3 -m http.server`) and use Playwright
+  (Chromium at `/opt/pw-browsers/chromium` in cloud sessions).
 
 ## Commands
 
