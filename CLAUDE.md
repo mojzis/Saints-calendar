@@ -2,8 +2,6 @@
 
 Builds Google-Calendar-ready `.ics` files of saints and Czech name days, plus a small website on GitHub Pages; see [README.md](README.md) and [docs/](docs/).
 
-The idea's origin lives in [ideas/saints-calendar.md](https://github.com/mojzis/ideas/blob/main/ideas/saints-calendar.md) of mojzis/ideas, and new enhancement ideas go in `projects/saints-calendar/ideas/` there.
-
 After changing `data/` or `build.py`, run `uv run saints-calendar` and commit the regenerated `calendars/` and `site/days.json`.
 
 ## Website
