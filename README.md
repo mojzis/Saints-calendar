@@ -37,7 +37,3 @@ This rewrites `calendars/` and `site/days.json` from `data/`.
 - `data/jmeniny-cs.json`: name days from the MIT-licensed [namedays-cs](https://github.com/OzzyCzech/namedays-cs) package, v2.0.1.
 
 See [docs/research/data-sources.md](docs/research/data-sources.md) for what else was looked at.
-
-## Origin
-
-This project started as an idea in [mojzis/ideas](https://github.com/mojzis/ideas/blob/main/ideas/saints-calendar.md).

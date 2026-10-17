@@ -3,12 +3,9 @@ title: Saints calendar
 pitch: A Google Calendar with a saint (and Czech name day) for every day.
 created: 2026-10-17
 updated: 2026-10-17
-idea: https://github.com/mojzis/ideas/blob/main/ideas/saints-calendar.md
 ---
 
 # Saints calendar
-
-<!-- Seeded from the idea file in mojzis/ideas when this repo was created. -->
 
 ## Purpose
 
