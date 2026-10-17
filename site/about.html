@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="cs">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Do kalendáře</title>
+<meta name="description" content="Jak přidat kalendář svatých a jmenin do Google Kalendáře.">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22%3E%3Ctext y=%22.9em%22 font-size=%2290%22%3E✝%3C/text%3E%3C/svg%3E">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+  <a class="brand" href="./">Svatí a jmeniny</a>
+  <nav><a href="./">Dnes</a><a href="about.html">Do kalendáře</a></nav>
+</header>
+<main class="prose">
+  <h1>Přidat do kalendáře</h1>
+  <p>Oba kalendáře jsou celodenní události, které se opakují každý rok. Po přihlášení
+  k odběru se samy aktualizují, když se tu něco změní.</p>
+
+  <div class="cals">
+    <div class="cal" data-ics="calendars/svati-cz.ics">
+      <h3>Svatí</h3>
+      <p>Světci z Českého národního liturgického kalendáře (pohyblivé svátky jako
+      Velikonoce nejsou zahrnuty).</p>
+      <a class="btn gcal" href="#">Přidat do Google Kalendáře</a>
+      <a class="btn alt webcal" href="#">Apple / Outlook</a>
+      <p><code class="url"></code></p>
+    </div>
+    <div class="cal" data-ics="calendars/jmeniny-cz.ics">
+      <h3>Jmeniny</h3>
+      <p>České jmeniny na každý den, ve dny bez jmenin státní svátky.</p>
+      <a class="btn gcal" href="#">Přidat do Google Kalendáře</a>
+      <a class="btn alt webcal" href="#">Apple / Outlook</a>
+      <p><code class="url"></code></p>
+    </div>
+  </div>
+
+  <h2>Google Kalendář ručně</h2>
+  <p>Pokud tlačítko nefunguje (na telefonu se Google Kalendář přidávat nedá, musí se to udělat v počítači):</p>
+  <ol>
+    <li>Otevřete <a href="https://calendar.google.com/">calendar.google.com</a> v počítači.</li>
+    <li>Vlevo u <b>Další kalendáře</b> klikněte na <b>+</b> a zvolte <b>Z adresy URL</b>.</li>
+    <li>Vložte adresu kalendáře z rámečku výše a klikněte na <b>Přidat kalendář</b>.</li>
+  </ol>
+  <p>Kalendář se pak objeví i v aplikaci na telefonu (případně ho zapněte v nastavení
+  aplikace v sekci synchronizace). Google odebírané kalendáře obnovuje jednou za několik
+  hodin až den.</p>
+
+  <h2>Jednorázový import</h2>
+  <p>Chcete-li kopii, která se nemění, stáhněte soubor (<a href="calendars/svati-cz.ics" download>svati-cz.ics</a>,
+  <a href="calendars/jmeniny-cz.ics" download>jmeniny-cz.ics</a>) a v Google Kalendáři zvolte
+  Nastavení → <b>Import a export</b> → <b>Importovat</b>.</p>
+</main>
+<footer>
+  <a href="https://github.com/mojzis/saints-calendar">Zdroj na GitHubu</a>
+</footer>
+<script>
+  // Build absolute URLs from wherever the site is hosted, so forks work too.
+  for (const el of document.querySelectorAll(".cal")) {
+    const url = new URL(el.dataset.ics, location.href);
+    const webcal = "webcal://" + url.host + url.pathname;
+    el.querySelector(".url").textContent = url.href;
+    el.querySelector(".webcal").href = webcal;
+    el.querySelector(".gcal").href =
+      "https://calendar.google.com/calendar/render?cid=" + encodeURIComponent(webcal);
+  }
+</script>
+</body>
+</html>

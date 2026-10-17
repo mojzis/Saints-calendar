@@ -1,4 +1,4 @@
-from saints_calendar.build import calendar, event, fold, namedays, saints
+from saints_calendar.build import calendar, event, fold, namedays, saints, site_days
 
 SAMPLE = """---
 title: test
@@ -44,3 +44,22 @@ def test_calendar_wraps_events():
     text = calendar("Test", [event("x", 1, 2, "a", "b")])
     assert text.startswith("BEGIN:VCALENDAR\r\n")
     assert text.endswith("END:VCALENDAR\r\n")
+
+
+def test_site_days_attaches_images_by_saint_id():
+    days = site_days(SAMPLE, {"10-17": "Hedvika"}, {"hedwig.jpg"})
+    assert days["10-16"]["saints"] == [
+        {
+            "id": "hedwig",
+            "title": "Sv. Hedviky, řeholnice",
+            "rank": "nezávazná památka",
+            "image": "img/hedwig.jpg",
+        }
+    ]
+    assert "image" not in days["10-17"]["saints"][0]
+
+
+def test_site_days_adds_names_and_holidays():
+    days = site_days(SAMPLE, {"10-17": "Hedvika"}, set())
+    assert days["10-17"]["names"] == ["Hedvika"]
+    assert days["05-01"]["holiday"] == "Svátek práce"

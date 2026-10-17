@@ -9,6 +9,8 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[2]
 DATA = ROOT / "data"
 OUT = ROOT / "calendars"
+SITE = ROOT / "site"
+IMAGE_EXTS = (".webp", ".jpg", ".jpeg", ".png")
 START_YEAR = 2026
 LEAP_START = "20280229"
 RANKS = {"s": "slavnost", "f": "svátek", "m": "památka"}
@@ -84,9 +86,10 @@ def calendar(name: str, events: list[Event]) -> str:
     return "\r\n".join(fold(line) for line in lines) + "\r\n"
 
 
-def saints(text: str) -> list[Event]:
-    """Events from a calendarium-romanum sanctorale file."""
-    events, month = [], 0
+def parse_saints(text: str) -> list[dict[str, str | int]]:
+    """Records from a calendarium-romanum sanctorale file."""
+    records: list[dict[str, str | int]] = []
+    month = 0
     for raw in text.splitlines():
         if raw.startswith("= "):
             month = int(raw[2:])
@@ -97,10 +100,48 @@ def saints(text: str) -> list[Event]:
         tokens = left.split()
         day, sid, flags = int(tokens[0]), tokens[-1], tokens[1:-1]
         rank = next((RANKS[f[0]] for f in flags if f[0] in RANKS), "nezávazná památka")
-        desc = f"{rank} (Český národní liturgický kalendář)"
-        uid = f"svati-{month:02d}{day:02d}-{sid}@saints-calendar"
-        events.append(event(uid, month, day, title, desc))
+        records.append(
+            {"month": month, "day": day, "id": sid, "title": title, "rank": rank}
+        )
+    return records
+
+
+def saints(text: str) -> list[Event]:
+    """Events from a calendarium-romanum sanctorale file."""
+    events = []
+    for r in parse_saints(text):
+        month, day = int(r["month"]), int(r["day"])
+        desc = f"{r['rank']} (Český národní liturgický kalendář)"
+        uid = f"svati-{month:02d}{day:02d}-{r['id']}@saints-calendar"
+        events.append(event(uid, month, day, str(r["title"]), desc))
     return events
+
+
+def site_days(
+    saint_text: str, names: dict[str, str | list[str]], images: set[str]
+) -> dict[str, dict]:
+    """Per-day data for the website, keyed "MM-DD".
+
+    `images` holds file names found in site/img/; a saint gets an "image"
+    when a file named after its id is there (e.g. site/img/aquinas.jpg).
+    """
+    days: dict[str, dict] = {}
+    for key, listed in names.items():
+        days.setdefault(key, {})["names"] = (
+            [listed] if isinstance(listed, str) else listed
+        )
+    for key, title in HOLIDAYS.items():
+        days.setdefault(key, {})["holiday"] = title
+    for r in parse_saints(saint_text):
+        key = f"{int(r['month']):02d}-{int(r['day']):02d}"
+        saint = {"id": r["id"], "title": r["title"], "rank": r["rank"]}
+        image = next(
+            (f"img/{r['id']}{e}" for e in IMAGE_EXTS if f"{r['id']}{e}" in images), None
+        )
+        if image:
+            saint["image"] = image
+        days.setdefault(key, {}).setdefault("saints", []).append(saint)
+    return dict(sorted(days.items()))
 
 
 def namedays(data: dict[str, str | list[str]]) -> list[Event]:
@@ -123,13 +164,17 @@ def namedays(data: dict[str, str | list[str]]) -> list[Event]:
 
 
 def main() -> None:
-    """Write calendars/svati-cz.ics and calendars/jmeniny-cz.ics."""
+    """Write calendars/*.ics and site/days.json."""
     OUT.mkdir(exist_ok=True)
-    svati = saints((DATA / "czech-cs.txt").read_text(encoding="utf-8"))
-    jmeniny = namedays(
-        json.loads((DATA / "jmeniny-cs.json").read_text(encoding="utf-8"))
-    )
+    saint_text = (DATA / "czech-cs.txt").read_text(encoding="utf-8")
+    names = json.loads((DATA / "jmeniny-cs.json").read_text(encoding="utf-8"))
     with (OUT / "svati-cz.ics").open("w", encoding="utf-8", newline="") as f:
-        f.write(calendar("Svatí (liturgický kalendář CZ)", svati))
+        f.write(calendar("Svatí (liturgický kalendář CZ)", saints(saint_text)))
     with (OUT / "jmeniny-cz.ics").open("w", encoding="utf-8", newline="") as f:
-        f.write(calendar("Jmeniny CZ", jmeniny))
+        f.write(calendar("Jmeniny CZ", namedays(names)))
+    img_dir = SITE / "img"
+    images = {p.name for p in img_dir.iterdir()} if img_dir.is_dir() else set()
+    days = site_days(saint_text, names, images)
+    (SITE / "days.json").write_text(
+        json.dumps(days, ensure_ascii=False, indent=1) + "\n", encoding="utf-8"
+    )
